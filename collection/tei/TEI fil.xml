@@ -3,8 +3,8 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
-	<!-- teiCorpus innehåller metadata för bildsamlingen i sin helhet samt TEI fil där varje bild är listad med relevant information inklusive de extraherade metadata från TIF filer. 
-	 De extraherade metadata (för varje bild) finns som seperata xml fil också under Project/collection/tei/xml. -->
+	<!-- teiCorpus innehåller metadata för bildsamlingen i sin helhet samt TEI fil där varje bild är listad med relevant information inklusive länk till de extraherade metadata från TIF filer. 
+	 (De extraherade metadata (för varje bild) finns som seperata xml fil under Project/collection/tei/xml.) -->
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -105,8 +105,8 @@
 		</profileDesc>
 	</teiHeader>
 
-<!-- TEI fil där varje bild är listad med relevant information inklusive de extraherade metadata från TIF filer. 
-	 De extraherade metadata (för varje bild) finns som seperata xml fil också under Project/collection/tei/xml. -->
+<!-- TEI fil där varje bild är listad med relevant information inklusive länk till de extraherade metadata från TIF filer. 
+	 (De extraherade metadata (för varje bild) finns som seperata xml fil under Project/collection/tei/xml.) -->
 
 <TEI xml:id="L1M2_0012">
 	<teiHeader>
