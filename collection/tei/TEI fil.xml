@@ -123,6 +123,7 @@
 			<sourceDesc>
 				<p>Original är fysisk diabild. Skannad <date when="2025-03-18">18 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L1M2_0012_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -144,70 +145,6 @@
 		</keywords>
 	</textClass>
 </profileDesc>
-
-<xenoData>
-	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-		<rdf:Description rdf:about='C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata/L1M2_0012.tif'
-  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.27'
-  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
-  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
-  xmlns:File='http://ns.exiftool.org/File/1.0/'
-  xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
-  xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
-  xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
-  xmlns:XMP-photoshop='http://ns.exiftool.org/XMP/XMP-photoshop/1.0/'
-  xmlns:XMP-xmpRights='http://ns.exiftool.org/XMP/XMP-xmpRights/1.0/'
-  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
- <ExifTool:ExifToolVersion>13.27</ExifTool:ExifToolVersion>
- <System:FileName>L1M2_0012.tif</System:FileName>
- <System:Directory>C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata</System:Directory>
- <System:FileSize>84 MB</System:FileSize>
- <System:FileModifyDate>2025:05:05 16:55:24+02:00</System:FileModifyDate>
- <System:FileAccessDate>2025:05:06 18:13:54+02:00</System:FileAccessDate>
- <System:FileCreateDate>2025:05:06 17:14:58+02:00</System:FileCreateDate>
- <System:FilePermissions>-rw-rw-rw-</System:FilePermissions>
- <File:FileType>TIFF</File:FileType>
- <File:FileTypeExtension>tif</File:FileTypeExtension>
- <File:MIMEType>image/tiff</File:MIMEType>
- <File:ExifByteOrder>Little-endian (Intel, II)</File:ExifByteOrder>
- <File:PageCount>1</File:PageCount>
- <IFD0:SubfileType>Single page of multi-page image</IFD0:SubfileType>
- <IFD0:ImageWidth>6496</IFD0:ImageWidth>
- <IFD0:ImageHeight>4320</IFD0:ImageHeight>
- <IFD0:BitsPerSample>8 8 8</IFD0:BitsPerSample>
- <IFD0:Compression>Uncompressed</IFD0:Compression>
- <IFD0:PhotometricInterpretation>RGB</IFD0:PhotometricInterpretation>
- <IFD0:StripOffsets>(Binary data 2390 bytes, use -b option to extract)</IFD0:StripOffsets>
- <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
- <IFD0:SamplesPerPixel>3</IFD0:SamplesPerPixel>
- <IFD0:RowsPerStrip>16</IFD0:RowsPerStrip>
- <IFD0:StripByteCounts>(Binary data 1889 bytes, use -b option to extract)</IFD0:StripByteCounts>
- <IFD0:XResolution>4800</IFD0:XResolution>
- <IFD0:YResolution>4800</IFD0:YResolution>
- <IFD0:PlanarConfiguration>Chunky</IFD0:PlanarConfiguration>
- <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
- <IFD0:PageNumber>0 0</IFD0:PageNumber>
- <XMP-x:XMPToolkit>Image::ExifTool 13.27</XMP-x:XMPToolkit>
- <XMP-dc:Creator>Bertil Dahlby</XMP-dc:Creator>
- <XMP-dc:Description>Tumba med kommunhuset, tagen ca 1960-2000</XMP-dc:Description>
- <XMP-dc:Rights>Botkyrka Hembygdsgille</XMP-dc:Rights>
- <XMP-dc:Subject>#Tumba #Kommunhus #Municipal buildings #Bertil Dahlby #Botkyrka Hembygdsgille #Diabilder #Color slides #Fotografier #Photographs</XMP-dc:Subject>
- <XMP-dc:Title>Tumba med kommunhuset</XMP-dc:Title>
- <XMP-photoshop:AuthorsPosition>Fotograf</XMP-photoshop:AuthorsPosition>
- <XMP-photoshop:CaptionWriter>Inguna Bodeka, Lotta Nordholm</XMP-photoshop:CaptionWriter>
- <XMP-photoshop:Country>Sverige</XMP-photoshop:Country>
- <XMP-photoshop:Credit>Bertil Dahlby, Botkyrka Hembygdsgille</XMP-photoshop:Credit>
- <XMP-photoshop:DateCreated>0000</XMP-photoshop:DateCreated>
- <XMP-photoshop:Headline>Fotografi</XMP-photoshop:Headline>
- <XMP-photoshop:Source>Botkyrka Hembygdsgille</XMP-photoshop:Source>
- <XMP-photoshop:State>Tumba, Botkyrka kommun, Stockholms län</XMP-photoshop:State>
- <XMP-xmpRights:UsageTerms>Fotografierna skall enbart användas med tillstånd av Botkyrka Hembygdsgille i oändrat skick och vid användning av Fotografierna skall fotografens namn anges</XMP-xmpRights:UsageTerms>
- <Composite:ImageSize>6496x4320</Composite:ImageSize>
- <Composite:Megapixels>28.1</Composite:Megapixels>
-		</rdf:Description>
-	</rdf:RDF>
-</xenoData>
-
 </teiHeader>
 <facsimile>
 	<surface xml:id="L1M2_0012_s">
@@ -241,6 +178,7 @@
 			<sourceDesc>
 				<p>Original är fysisk diabild. Skannad <date when="2025-03-18">18 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L1M2_0013_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -264,70 +202,6 @@
 		</keywords>
 	</textClass>
 </profileDesc>
-
-<xenoData>
-	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-		<rdf:Description rdf:about='C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata/L1M2_0013.tif'
-  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.27'
-  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
-  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
-  xmlns:File='http://ns.exiftool.org/File/1.0/'
-  xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
-  xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
-  xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
-  xmlns:XMP-photoshop='http://ns.exiftool.org/XMP/XMP-photoshop/1.0/'
-  xmlns:XMP-xmpRights='http://ns.exiftool.org/XMP/XMP-xmpRights/1.0/'
-  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
- <ExifTool:ExifToolVersion>13.27</ExifTool:ExifToolVersion>
- <System:FileName>L1M2_0013.tif</System:FileName>
- <System:Directory>C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata</System:Directory>
- <System:FileSize>84 MB</System:FileSize>
- <System:FileModifyDate>2025:05:05 16:55:25+02:00</System:FileModifyDate>
- <System:FileAccessDate>2025:05:06 18:13:54+02:00</System:FileAccessDate>
- <System:FileCreateDate>2025:05:06 18:13:06+02:00</System:FileCreateDate>
- <System:FilePermissions>-rw-rw-rw-</System:FilePermissions>
- <File:FileType>TIFF</File:FileType>
- <File:FileTypeExtension>tif</File:FileTypeExtension>
- <File:MIMEType>image/tiff</File:MIMEType>
- <File:ExifByteOrder>Little-endian (Intel, II)</File:ExifByteOrder>
- <File:PageCount>1</File:PageCount>
- <IFD0:SubfileType>Single page of multi-page image</IFD0:SubfileType>
- <IFD0:ImageWidth>6512</IFD0:ImageWidth>
- <IFD0:ImageHeight>4288</IFD0:ImageHeight>
- <IFD0:BitsPerSample>8 8 8</IFD0:BitsPerSample>
- <IFD0:Compression>Uncompressed</IFD0:Compression>
- <IFD0:PhotometricInterpretation>RGB</IFD0:PhotometricInterpretation>
- <IFD0:StripOffsets>(Binary data 2373 bytes, use -b option to extract)</IFD0:StripOffsets>
- <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
- <IFD0:SamplesPerPixel>3</IFD0:SamplesPerPixel>
- <IFD0:RowsPerStrip>16</IFD0:RowsPerStrip>
- <IFD0:StripByteCounts>(Binary data 1875 bytes, use -b option to extract)</IFD0:StripByteCounts>
- <IFD0:XResolution>4800</IFD0:XResolution>
- <IFD0:YResolution>4800</IFD0:YResolution>
- <IFD0:PlanarConfiguration>Chunky</IFD0:PlanarConfiguration>
- <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
- <IFD0:PageNumber>0 0</IFD0:PageNumber>
- <XMP-x:XMPToolkit>Image::ExifTool 13.27</XMP-x:XMPToolkit>
- <XMP-dc:Creator>Bertil Dahlby</XMP-dc:Creator>
- <XMP-dc:Description>Tumba stations godsmagasin, tagen ca 1960-2000</XMP-dc:Description>
- <XMP-dc:Rights>Botkyrka Hembygdsgille</XMP-dc:Rights>
- <XMP-dc:Subject>#Tumba #Järnvägsstationer #Railroad stations #Godsmagasin #Warehouses #Bertil Dahlby #Botkyrka Hembygdsgille #Diabilder #Color slides #Fotografier #Photographs</XMP-dc:Subject>
- <XMP-dc:Title>Tumba stations godsmagasin</XMP-dc:Title>
- <XMP-photoshop:AuthorsPosition>Fotograf</XMP-photoshop:AuthorsPosition>
- <XMP-photoshop:CaptionWriter>Inguna Bodeka, Lotta Nordholm</XMP-photoshop:CaptionWriter>
- <XMP-photoshop:Country>Sverige</XMP-photoshop:Country>
- <XMP-photoshop:Credit>Bertil Dahlby, Botkyrka Hembygdsgille</XMP-photoshop:Credit>
- <XMP-photoshop:DateCreated>0000</XMP-photoshop:DateCreated>
- <XMP-photoshop:Headline>Fotografi</XMP-photoshop:Headline>
- <XMP-photoshop:Source>Botkyrka Hembygdsgille</XMP-photoshop:Source>
- <XMP-photoshop:State>Tumba, Botkyrka kommun, Stockholms län</XMP-photoshop:State>
- <XMP-xmpRights:UsageTerms>Fotografierna skall enbart användas med tillstånd av Botkyrka Hembygdsgille i oändrat skick och vid användning av Fotografierna skall fotografens namn anges</XMP-xmpRights:UsageTerms>
- <Composite:ImageSize>6512x4288</Composite:ImageSize>
- <Composite:Megapixels>27.9</Composite:Megapixels>
-</rdf:Description>
-	</rdf:RDF>
-</xenoData>
-
 </teiHeader>
 <facsimile>
 	<surface xml:id="L1M2_0013_s">
@@ -361,6 +235,7 @@
 			<sourceDesc>
 				<p>Original är fysisk diabild. Skannad <date when="2025-03-18">18 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L1M2_0017_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -382,70 +257,6 @@
 		</keywords>
 	</textClass>
 </profileDesc>
-
-<xenoData>
-	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-		<rdf:Description rdf:about='C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata/L1M2_0017.tif'
-  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.27'
-  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
-  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
-  xmlns:File='http://ns.exiftool.org/File/1.0/'
-  xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
-  xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
-  xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
-  xmlns:XMP-photoshop='http://ns.exiftool.org/XMP/XMP-photoshop/1.0/'
-  xmlns:XMP-xmpRights='http://ns.exiftool.org/XMP/XMP-xmpRights/1.0/'
-  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
- <ExifTool:ExifToolVersion>13.27</ExifTool:ExifToolVersion>
- <System:FileName>L1M2_0017.tif</System:FileName>
- <System:Directory>C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata</System:Directory>
- <System:FileSize>84 MB</System:FileSize>
- <System:FileModifyDate>2025:05:05 16:55:27+02:00</System:FileModifyDate>
- <System:FileAccessDate>2025:05:06 18:13:54+02:00</System:FileAccessDate>
- <System:FileCreateDate>2025:05:06 18:13:06+02:00</System:FileCreateDate>
- <System:FilePermissions>-rw-rw-rw-</System:FilePermissions>
- <File:FileType>TIFF</File:FileType>
- <File:FileTypeExtension>tif</File:FileTypeExtension>
- <File:MIMEType>image/tiff</File:MIMEType>
- <File:ExifByteOrder>Little-endian (Intel, II)</File:ExifByteOrder>
- <File:PageCount>1</File:PageCount>
- <IFD0:SubfileType>Single page of multi-page image</IFD0:SubfileType>
- <IFD0:ImageWidth>6512</IFD0:ImageWidth>
- <IFD0:ImageHeight>4288</IFD0:ImageHeight>
- <IFD0:BitsPerSample>8 8 8</IFD0:BitsPerSample>
- <IFD0:Compression>Uncompressed</IFD0:Compression>
- <IFD0:PhotometricInterpretation>RGB</IFD0:PhotometricInterpretation>
- <IFD0:StripOffsets>(Binary data 2373 bytes, use -b option to extract)</IFD0:StripOffsets>
- <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
- <IFD0:SamplesPerPixel>3</IFD0:SamplesPerPixel>
- <IFD0:RowsPerStrip>16</IFD0:RowsPerStrip>
- <IFD0:StripByteCounts>(Binary data 1875 bytes, use -b option to extract)</IFD0:StripByteCounts>
- <IFD0:XResolution>4800</IFD0:XResolution>
- <IFD0:YResolution>4800</IFD0:YResolution>
- <IFD0:PlanarConfiguration>Chunky</IFD0:PlanarConfiguration>
- <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
- <IFD0:PageNumber>0 0</IFD0:PageNumber>
- <XMP-x:XMPToolkit>Image::ExifTool 13.27</XMP-x:XMPToolkit>
- <XMP-dc:Creator>Bertil Dahlby</XMP-dc:Creator>
- <XMP-dc:Description>Tumba gamla station, tagen ca 1960-2000</XMP-dc:Description>
- <XMP-dc:Rights>Botkyrka Hembygdsgille</XMP-dc:Rights>
- <XMP-dc:Subject>#Tumba #Järnvägsstationer #Railroad stations #Bertil Dahlby #Botkyrka Hembygdsgille #Diabilder #Color slides #Fotografier #Photographs</XMP-dc:Subject>
- <XMP-dc:Title>Tumba gamla station</XMP-dc:Title>
- <XMP-photoshop:AuthorsPosition>Fotograf</XMP-photoshop:AuthorsPosition>
- <XMP-photoshop:CaptionWriter>Inguna Bodeka, Lotta Nordholm</XMP-photoshop:CaptionWriter>
- <XMP-photoshop:Country>Sverige</XMP-photoshop:Country>
- <XMP-photoshop:Credit>Bertil Dahlby, Botkyrka Hembygdsgille</XMP-photoshop:Credit>
- <XMP-photoshop:DateCreated>0000</XMP-photoshop:DateCreated>
- <XMP-photoshop:Headline>Fotografi</XMP-photoshop:Headline>
- <XMP-photoshop:Source>Botkyrka Hembygdsgille</XMP-photoshop:Source>
- <XMP-photoshop:State>Tumba, Botkyrka kommun, Stockholms län</XMP-photoshop:State>
- <XMP-xmpRights:UsageTerms>Fotografierna skall enbart användas med tillstånd av Botkyrka Hembygdsgille i oändrat skick och vid användning av Fotografierna skall fotografens namn anges</XMP-xmpRights:UsageTerms>
- <Composite:ImageSize>6512x4288</Composite:ImageSize>
- <Composite:Megapixels>27.9</Composite:Megapixels>
-</rdf:Description>
-	</rdf:RDF>
-</xenoData>
-
 </teiHeader>
 <facsimile>
 	<surface xml:id="L1M2_0017_s">
@@ -479,6 +290,7 @@
 			<sourceDesc>
 				<p>Original är fysisk diabild. Skannad <date when="2025-03-18">18 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L1M2_0020_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -501,70 +313,6 @@
 		</keywords>
 	</textClass>
 </profileDesc>
-
-<xenoData>
-	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-		<rdf:Description rdf:about='C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata/L1M2_0020.tif'
-  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.27'
-  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
-  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
-  xmlns:File='http://ns.exiftool.org/File/1.0/'
-  xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
-  xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
-  xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
-  xmlns:XMP-photoshop='http://ns.exiftool.org/XMP/XMP-photoshop/1.0/'
-  xmlns:XMP-xmpRights='http://ns.exiftool.org/XMP/XMP-xmpRights/1.0/'
-  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
- <ExifTool:ExifToolVersion>13.27</ExifTool:ExifToolVersion>
- <System:FileName>L1M2_0020.tif</System:FileName>
- <System:Directory>C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata</System:Directory>
- <System:FileSize>84 MB</System:FileSize>
- <System:FileModifyDate>2025:05:05 16:55:29+02:00</System:FileModifyDate>
- <System:FileAccessDate>2025:05:06 18:14:32+02:00</System:FileAccessDate>
- <System:FileCreateDate>2025:05:06 18:13:07+02:00</System:FileCreateDate>
- <System:FilePermissions>-rw-rw-rw-</System:FilePermissions>
- <File:FileType>TIFF</File:FileType>
- <File:FileTypeExtension>tif</File:FileTypeExtension>
- <File:MIMEType>image/tiff</File:MIMEType>
- <File:ExifByteOrder>Little-endian (Intel, II)</File:ExifByteOrder>
- <File:PageCount>1</File:PageCount>
- <IFD0:SubfileType>Single page of multi-page image</IFD0:SubfileType>
- <IFD0:ImageWidth>6496</IFD0:ImageWidth>
- <IFD0:ImageHeight>4304</IFD0:ImageHeight>
- <IFD0:BitsPerSample>8 8 8</IFD0:BitsPerSample>
- <IFD0:Compression>Uncompressed</IFD0:Compression>
- <IFD0:PhotometricInterpretation>RGB</IFD0:PhotometricInterpretation>
- <IFD0:StripOffsets>(Binary data 2381 bytes, use -b option to extract)</IFD0:StripOffsets>
- <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
- <IFD0:SamplesPerPixel>3</IFD0:SamplesPerPixel>
- <IFD0:RowsPerStrip>16</IFD0:RowsPerStrip>
- <IFD0:StripByteCounts>(Binary data 1882 bytes, use -b option to extract)</IFD0:StripByteCounts>
- <IFD0:XResolution>4800</IFD0:XResolution>
- <IFD0:YResolution>4800</IFD0:YResolution>
- <IFD0:PlanarConfiguration>Chunky</IFD0:PlanarConfiguration>
- <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
- <IFD0:PageNumber>0 0</IFD0:PageNumber>
- <XMP-x:XMPToolkit>Image::ExifTool 13.27</XMP-x:XMPToolkit>
- <XMP-dc:Creator>Bertil Dahlby</XMP-dc:Creator>
- <XMP-dc:Description>Missionshuset Tabor, tagen ca 1960-2000</XMP-dc:Description>
- <XMP-dc:Rights>Botkyrka Hembygdsgille</XMP-dc:Rights>
- <XMP-dc:Subject>#Tumba #Tabor #Missionshus #Chapels #Bertil Dahlby #Botkyrka Hembygdsgille #Diabilder #Color slides #Fotografier #Photographs</XMP-dc:Subject>
- <XMP-dc:Title>Tabor Tumba</XMP-dc:Title>
- <XMP-photoshop:AuthorsPosition>Fotograf</XMP-photoshop:AuthorsPosition>
- <XMP-photoshop:CaptionWriter>Inguna Bodeka, Lotta Nordholm</XMP-photoshop:CaptionWriter>
- <XMP-photoshop:Country>Sverige</XMP-photoshop:Country>
- <XMP-photoshop:Credit>Bertil Dahlby, Botkyrka Hembygdsgille</XMP-photoshop:Credit>
- <XMP-photoshop:DateCreated>0000</XMP-photoshop:DateCreated>
- <XMP-photoshop:Headline>Fotografi</XMP-photoshop:Headline>
- <XMP-photoshop:Source>Botkyrka Hembygdsgille</XMP-photoshop:Source>
- <XMP-photoshop:State>Tumba, Botkyrka kommun, Stockholms län</XMP-photoshop:State>
- <XMP-xmpRights:UsageTerms>Fotografierna skall enbart användas med tillstånd av Botkyrka Hembygdsgille i oändrat skick och vid användning av Fotografierna skall fotografens namn anges</XMP-xmpRights:UsageTerms>
- <Composite:ImageSize>6496x4304</Composite:ImageSize>
- <Composite:Megapixels>28.0</Composite:Megapixels>
-</rdf:Description>
-	</rdf:RDF>
-</xenoData>
-
 </teiHeader>
 <facsimile>
 	<surface xml:id="L1M2_0020_s">
@@ -598,6 +346,7 @@
 			<sourceDesc>
 				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L2M1_0013_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -619,70 +368,6 @@
 		</keywords>
 	</textClass>
 </profileDesc>
-
-<xenoData>
-	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-		<rdf:Description rdf:about='C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata/L2M1_0013.tif'
-  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.27'
-  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
-  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
-  xmlns:File='http://ns.exiftool.org/File/1.0/'
-  xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
-  xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
-  xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
-  xmlns:XMP-photoshop='http://ns.exiftool.org/XMP/XMP-photoshop/1.0/'
-  xmlns:XMP-xmpRights='http://ns.exiftool.org/XMP/XMP-xmpRights/1.0/'
-  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
- <ExifTool:ExifToolVersion>13.27</ExifTool:ExifToolVersion>
- <System:FileName>L2M1_0013.tif</System:FileName>
- <System:Directory>C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata</System:Directory>
- <System:FileSize>84 MB</System:FileSize>
- <System:FileModifyDate>2025:05:05 16:55:31+02:00</System:FileModifyDate>
- <System:FileAccessDate>2025:05:06 18:14:32+02:00</System:FileAccessDate>
- <System:FileCreateDate>2025:05:06 18:13:08+02:00</System:FileCreateDate>
- <System:FilePermissions>-rw-rw-rw-</System:FilePermissions>
- <File:FileType>TIFF</File:FileType>
- <File:FileTypeExtension>tif</File:FileTypeExtension>
- <File:MIMEType>image/tiff</File:MIMEType>
- <File:ExifByteOrder>Little-endian (Intel, II)</File:ExifByteOrder>
- <File:PageCount>1</File:PageCount>
- <IFD0:SubfileType>Single page of multi-page image</IFD0:SubfileType>
- <IFD0:ImageWidth>6416</IFD0:ImageWidth>
- <IFD0:ImageHeight>4368</IFD0:ImageHeight>
- <IFD0:BitsPerSample>8 8 8</IFD0:BitsPerSample>
- <IFD0:Compression>Uncompressed</IFD0:Compression>
- <IFD0:PhotometricInterpretation>RGB</IFD0:PhotometricInterpretation>
- <IFD0:StripOffsets>(Binary data 2417 bytes, use -b option to extract)</IFD0:StripOffsets>
- <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
- <IFD0:SamplesPerPixel>3</IFD0:SamplesPerPixel>
- <IFD0:RowsPerStrip>16</IFD0:RowsPerStrip>
- <IFD0:StripByteCounts>(Binary data 1910 bytes, use -b option to extract)</IFD0:StripByteCounts>
- <IFD0:XResolution>4800</IFD0:XResolution>
- <IFD0:YResolution>4800</IFD0:YResolution>
- <IFD0:PlanarConfiguration>Chunky</IFD0:PlanarConfiguration>
- <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
- <IFD0:PageNumber>0 0</IFD0:PageNumber>
- <XMP-x:XMPToolkit>Image::ExifTool 13.27</XMP-x:XMPToolkit>
- <XMP-dc:Creator>Bertil Dahlby</XMP-dc:Creator>
- <XMP-dc:Description>Tumba pappersbruk, tagen ca 1960-2000</XMP-dc:Description>
- <XMP-dc:Rights>Botkyrka Hembygdsgille</XMP-dc:Rights>
- <XMP-dc:Subject>#Tumba #Pappersbruk #Paper mills #Bertil Dahlby #Botkyrka Hembygdsgille #Diabilder #Color slides #Fotografier #Photographs</XMP-dc:Subject>
- <XMP-dc:Title>Tumba bruk</XMP-dc:Title>
- <XMP-photoshop:AuthorsPosition>Fotograf</XMP-photoshop:AuthorsPosition>
- <XMP-photoshop:CaptionWriter>Inguna Bodeka, Lotta Nordholm</XMP-photoshop:CaptionWriter>
- <XMP-photoshop:Country>Sverige</XMP-photoshop:Country>
- <XMP-photoshop:Credit>Bertil Dahlby, Botkyrka Hembygdsgille</XMP-photoshop:Credit>
- <XMP-photoshop:DateCreated>0000</XMP-photoshop:DateCreated>
- <XMP-photoshop:Headline>Fotografi</XMP-photoshop:Headline>
- <XMP-photoshop:Source>Botkyrka Hembygdsgille</XMP-photoshop:Source>
- <XMP-photoshop:State>Tumba, Botkyrka kommun, Stockholms län</XMP-photoshop:State>
- <XMP-xmpRights:UsageTerms>Fotografierna skall enbart användas med tillstånd av Botkyrka Hembygdsgille i oändrat skick och vid användning av Fotografierna skall fotografens namn anges</XMP-xmpRights:UsageTerms>
- <Composite:ImageSize>6416x4368</Composite:ImageSize>
- <Composite:Megapixels>28.0</Composite:Megapixels>
-</rdf:Description>
-	</rdf:RDF>
-</xenoData>
-
 </teiHeader>
 <facsimile>
 	<surface xml:id="L2M1_0013_s">
@@ -716,6 +401,7 @@
 			<sourceDesc>
 				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L2M2_0006_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -737,70 +423,6 @@
 		</keywords>
 	</textClass>
 </profileDesc>
-
-<xenoData>
-	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-		<rdf:Description rdf:about='C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata/L2M2_0006.tif'
-  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.27'
-  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
-  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
-  xmlns:File='http://ns.exiftool.org/File/1.0/'
-  xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
-  xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
-  xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
-  xmlns:XMP-photoshop='http://ns.exiftool.org/XMP/XMP-photoshop/1.0/'
-  xmlns:XMP-xmpRights='http://ns.exiftool.org/XMP/XMP-xmpRights/1.0/'
-  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
- <ExifTool:ExifToolVersion>13.27</ExifTool:ExifToolVersion>
- <System:FileName>L2M2_0006.tif</System:FileName>
- <System:Directory>C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata</System:Directory>
- <System:FileSize>83 MB</System:FileSize>
- <System:FileModifyDate>2025:05:05 16:55:35+02:00</System:FileModifyDate>
- <System:FileAccessDate>2025:05:06 18:14:32+02:00</System:FileAccessDate>
- <System:FileCreateDate>2025:05:06 18:13:09+02:00</System:FileCreateDate>
- <System:FilePermissions>-rw-rw-rw-</System:FilePermissions>
- <File:FileType>TIFF</File:FileType>
- <File:FileTypeExtension>tif</File:FileTypeExtension>
- <File:MIMEType>image/tiff</File:MIMEType>
- <File:ExifByteOrder>Little-endian (Intel, II)</File:ExifByteOrder>
- <File:PageCount>1</File:PageCount>
- <IFD0:SubfileType>Single page of multi-page image</IFD0:SubfileType>
- <IFD0:ImageWidth>6464</IFD0:ImageWidth>
- <IFD0:ImageHeight>4272</IFD0:ImageHeight>
- <IFD0:BitsPerSample>8 8 8</IFD0:BitsPerSample>
- <IFD0:Compression>Uncompressed</IFD0:Compression>
- <IFD0:PhotometricInterpretation>RGB</IFD0:PhotometricInterpretation>
- <IFD0:StripOffsets>(Binary data 2363 bytes, use -b option to extract)</IFD0:StripOffsets>
- <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
- <IFD0:SamplesPerPixel>3</IFD0:SamplesPerPixel>
- <IFD0:RowsPerStrip>16</IFD0:RowsPerStrip>
- <IFD0:StripByteCounts>(Binary data 1868 bytes, use -b option to extract)</IFD0:StripByteCounts>
- <IFD0:XResolution>4800</IFD0:XResolution>
- <IFD0:YResolution>4800</IFD0:YResolution>
- <IFD0:PlanarConfiguration>Chunky</IFD0:PlanarConfiguration>
- <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
- <IFD0:PageNumber>0 0</IFD0:PageNumber>
- <XMP-x:XMPToolkit>Image::ExifTool 13.27</XMP-x:XMPToolkit>
- <XMP-dc:Creator>Bertil Dahlby</XMP-dc:Creator>
- <XMP-dc:Description>Tumba torg, tagen ca 1960-2000</XMP-dc:Description>
- <XMP-dc:Rights>Botkyrka Hembygdsgille</XMP-dc:Rights>
- <XMP-dc:Subject>#Tumba #Torg #Market places #Bertil Dahlby #Botkyrka Hembygdsgille #Diabilder #Color slides #Fotografier #Photographs</XMP-dc:Subject>
- <XMP-dc:Title>Tumba torg</XMP-dc:Title>
- <XMP-photoshop:AuthorsPosition>Fotograf</XMP-photoshop:AuthorsPosition>
- <XMP-photoshop:CaptionWriter>Inguna Bodeka, Lotta Nordholm</XMP-photoshop:CaptionWriter>
- <XMP-photoshop:Country>Sverige</XMP-photoshop:Country>
- <XMP-photoshop:Credit>Bertil Dahlby, Botkyrka Hembygdsgille</XMP-photoshop:Credit>
- <XMP-photoshop:DateCreated>0000</XMP-photoshop:DateCreated>
- <XMP-photoshop:Headline>Fotografi</XMP-photoshop:Headline>
- <XMP-photoshop:Source>Botkyrka Hembygdsgille</XMP-photoshop:Source>
- <XMP-photoshop:State>Tumba, Botkyrka kommun, Stockholms län</XMP-photoshop:State>
- <XMP-xmpRights:UsageTerms>Fotografierna skall enbart användas med tillstånd av Botkyrka Hembygdsgille i oändrat skick och vid användning av Fotografierna skall fotografens namn anges</XMP-xmpRights:UsageTerms>
- <Composite:ImageSize>6464x4272</Composite:ImageSize>
- <Composite:Megapixels>27.6</Composite:Megapixels>
-</rdf:Description>
-	</rdf:RDF>
-</xenoData>
-
 </teiHeader>
 <facsimile>
 	<surface xml:id="L2M2_0006_s">
@@ -834,6 +456,7 @@
 			<sourceDesc>
 				<p>Original är fysisk diabild.<date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L2M2_0011_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -855,70 +478,6 @@
 		</keywords>
 	</textClass>
 </profileDesc>
-
-<xenoData>
-	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-		<rdf:Description rdf:about='C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata/L2M2_0011.tif'
-  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.27'
-  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
-  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
-  xmlns:File='http://ns.exiftool.org/File/1.0/'
-  xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
-  xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
-  xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
-  xmlns:XMP-photoshop='http://ns.exiftool.org/XMP/XMP-photoshop/1.0/'
-  xmlns:XMP-xmpRights='http://ns.exiftool.org/XMP/XMP-xmpRights/1.0/'
-  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
- <ExifTool:ExifToolVersion>13.27</ExifTool:ExifToolVersion>
- <System:FileName>L2M2_0011.tif</System:FileName>
- <System:Directory>C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata</System:Directory>
- <System:FileSize>77 MB</System:FileSize>
- <System:FileModifyDate>2025:05:05 16:55:36+02:00</System:FileModifyDate>
- <System:FileAccessDate>2025:05:06 18:14:32+02:00</System:FileAccessDate>
- <System:FileCreateDate>2025:05:06 18:13:10+02:00</System:FileCreateDate>
- <System:FilePermissions>-rw-rw-rw-</System:FilePermissions>
- <File:FileType>TIFF</File:FileType>
- <File:FileTypeExtension>tif</File:FileTypeExtension>
- <File:MIMEType>image/tiff</File:MIMEType>
- <File:ExifByteOrder>Little-endian (Intel, II)</File:ExifByteOrder>
- <File:PageCount>1</File:PageCount>
- <IFD0:SubfileType>Single page of multi-page image</IFD0:SubfileType>
- <IFD0:ImageWidth>6400</IFD0:ImageWidth>
- <IFD0:ImageHeight>4016</IFD0:ImageHeight>
- <IFD0:BitsPerSample>8 8 8</IFD0:BitsPerSample>
- <IFD0:Compression>Uncompressed</IFD0:Compression>
- <IFD0:PhotometricInterpretation>RGB</IFD0:PhotometricInterpretation>
- <IFD0:StripOffsets>(Binary data 2219 bytes, use -b option to extract)</IFD0:StripOffsets>
- <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
- <IFD0:SamplesPerPixel>3</IFD0:SamplesPerPixel>
- <IFD0:RowsPerStrip>16</IFD0:RowsPerStrip>
- <IFD0:StripByteCounts>(Binary data 1756 bytes, use -b option to extract)</IFD0:StripByteCounts>
- <IFD0:XResolution>4800</IFD0:XResolution>
- <IFD0:YResolution>4800</IFD0:YResolution>
- <IFD0:PlanarConfiguration>Chunky</IFD0:PlanarConfiguration>
- <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
- <IFD0:PageNumber>0 0</IFD0:PageNumber>
- <XMP-x:XMPToolkit>Image::ExifTool 13.27</XMP-x:XMPToolkit>
- <XMP-dc:Creator>Bertil Dahlby</XMP-dc:Creator>
- <XMP-dc:Description>Tumba pappersbruk, tagen ca 1960-2000</XMP-dc:Description>
- <XMP-dc:Rights>Botkyrka Hembygdsgille</XMP-dc:Rights>
- <XMP-dc:Subject>#Tumba #Pappersbruk #Paper mills #Bertil Dahlby #Botkyrka Hembygdsgille #Diabilder #Color slides #Fotografier #Photographs</XMP-dc:Subject>
- <XMP-dc:Title>Tumba bruk</XMP-dc:Title>
- <XMP-photoshop:AuthorsPosition>Fotograf</XMP-photoshop:AuthorsPosition>
- <XMP-photoshop:CaptionWriter>Inguna Bodeka, Lotta Nordholm</XMP-photoshop:CaptionWriter>
- <XMP-photoshop:Country>Sverige</XMP-photoshop:Country>
- <XMP-photoshop:Credit>Bertil Dahlby, Botkyrka Hembygdsgille</XMP-photoshop:Credit>
- <XMP-photoshop:DateCreated>0000</XMP-photoshop:DateCreated>
- <XMP-photoshop:Headline>Fotografi</XMP-photoshop:Headline>
- <XMP-photoshop:Source>Botkyrka Hembygdsgille</XMP-photoshop:Source>
- <XMP-photoshop:State>Tumba, Botkyrka kommun, Stockholms län</XMP-photoshop:State>
- <XMP-xmpRights:UsageTerms>Fotografierna skall enbart användas med tillstånd av Botkyrka Hembygdsgille i oändrat skick och vid användning av Fotografierna skall fotografens namn anges</XMP-xmpRights:UsageTerms>
- <Composite:ImageSize>6400x4016</Composite:ImageSize>
- <Composite:Megapixels>25.7</Composite:Megapixels>
-</rdf:Description>
-	</rdf:RDF>
-</xenoData>
-
 </teiHeader>
 <facsimile>
 	<surface xml:id="L2M2_0011_s">
@@ -952,6 +511,7 @@
 			<sourceDesc>
 				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L2M2_0020_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -974,70 +534,6 @@
 		</keywords>
 	</textClass>
 </profileDesc>
-
-<xenoData>
-	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-		<rdf:Description rdf:about='C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata/L2M2_0020.tif'
-  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.27'
-  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
-  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
-  xmlns:File='http://ns.exiftool.org/File/1.0/'
-  xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
-  xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
-  xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
-  xmlns:XMP-photoshop='http://ns.exiftool.org/XMP/XMP-photoshop/1.0/'
-  xmlns:XMP-xmpRights='http://ns.exiftool.org/XMP/XMP-xmpRights/1.0/'
-  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
- <ExifTool:ExifToolVersion>13.27</ExifTool:ExifToolVersion>
- <System:FileName>L2M2_0020.tif</System:FileName>
- <System:Directory>C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata</System:Directory>
- <System:FileSize>84 MB</System:FileSize>
- <System:FileModifyDate>2025:05:05 16:55:39+02:00</System:FileModifyDate>
- <System:FileAccessDate>2025:05:06 18:14:32+02:00</System:FileAccessDate>
- <System:FileCreateDate>2025:05:06 18:13:11+02:00</System:FileCreateDate>
- <System:FilePermissions>-rw-rw-rw-</System:FilePermissions>
- <File:FileType>TIFF</File:FileType>
- <File:FileTypeExtension>tif</File:FileTypeExtension>
- <File:MIMEType>image/tiff</File:MIMEType>
- <File:ExifByteOrder>Little-endian (Intel, II)</File:ExifByteOrder>
- <File:PageCount>1</File:PageCount>
- <IFD0:SubfileType>Single page of multi-page image</IFD0:SubfileType>
- <IFD0:ImageWidth>6512</IFD0:ImageWidth>
- <IFD0:ImageHeight>4304</IFD0:ImageHeight>
- <IFD0:BitsPerSample>8 8 8</IFD0:BitsPerSample>
- <IFD0:Compression>Uncompressed</IFD0:Compression>
- <IFD0:PhotometricInterpretation>RGB</IFD0:PhotometricInterpretation>
- <IFD0:StripOffsets>(Binary data 2382 bytes, use -b option to extract)</IFD0:StripOffsets>
- <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
- <IFD0:SamplesPerPixel>3</IFD0:SamplesPerPixel>
- <IFD0:RowsPerStrip>16</IFD0:RowsPerStrip>
- <IFD0:StripByteCounts>(Binary data 1882 bytes, use -b option to extract)</IFD0:StripByteCounts>
- <IFD0:XResolution>4800</IFD0:XResolution>
- <IFD0:YResolution>4800</IFD0:YResolution>
- <IFD0:PlanarConfiguration>Chunky</IFD0:PlanarConfiguration>
- <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
- <IFD0:PageNumber>0 0</IFD0:PageNumber>
- <XMP-x:XMPToolkit>Image::ExifTool 13.27</XMP-x:XMPToolkit>
- <XMP-dc:Creator>Bertil Dahlby</XMP-dc:Creator>
- <XMP-dc:Description>Sturehovs herrgård, tagen ca 1960-2000</XMP-dc:Description>
- <XMP-dc:Rights>Botkyrka Hembygdsgille</XMP-dc:Rights>
- <XMP-dc:Subject>#Norsborg #Sturehov #Herrgårdar #Mansions #Bertil Dahlby #Botkyrka Hembygdsgille #Diabilder #Color slides #Fotografier #Photographs</XMP-dc:Subject>
- <XMP-dc:Title>Sturehov</XMP-dc:Title>
- <XMP-photoshop:AuthorsPosition>Fotograf</XMP-photoshop:AuthorsPosition>
- <XMP-photoshop:CaptionWriter>Inguna Bodeka, Lotta Nordholm</XMP-photoshop:CaptionWriter>
- <XMP-photoshop:Country>Sverige</XMP-photoshop:Country>
- <XMP-photoshop:Credit>Bertil Dahlby, Botkyrka Hembygdsgille</XMP-photoshop:Credit>
- <XMP-photoshop:DateCreated>0000</XMP-photoshop:DateCreated>
- <XMP-photoshop:Headline>Fotografi</XMP-photoshop:Headline>
- <XMP-photoshop:Source>Botkyrka Hembygdsgille</XMP-photoshop:Source>
- <XMP-photoshop:State>Norsborg, Botkyrka kommun, Stockholms län</XMP-photoshop:State>
- <XMP-xmpRights:UsageTerms>Fotografierna skall enbart användas med tillstånd av Botkyrka Hembygdsgille i oändrat skick och vid användning av Fotografierna skall fotografens namn anges</XMP-xmpRights:UsageTerms>
- <Composite:ImageSize>6512x4304</Composite:ImageSize>
- <Composite:Megapixels>28.0</Composite:Megapixels>
-</rdf:Description>
-	</rdf:RDF>
-</xenoData>
-
 </teiHeader>
 <facsimile>
 	<surface xml:id="L2M2_0020_s">
@@ -1071,6 +567,7 @@
 			<sourceDesc>
 				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L2M2_0021_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -1093,70 +590,6 @@
 		</keywords>
 	</textClass>
 </profileDesc>
-
-<xenoData>
-	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-		<rdf:Description rdf:about='C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata/L2M2_0021.tif'
-  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.27'
-  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
-  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
-  xmlns:File='http://ns.exiftool.org/File/1.0/'
-  xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
-  xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
-  xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
-  xmlns:XMP-photoshop='http://ns.exiftool.org/XMP/XMP-photoshop/1.0/'
-  xmlns:XMP-xmpRights='http://ns.exiftool.org/XMP/XMP-xmpRights/1.0/'
-  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
- <ExifTool:ExifToolVersion>13.27</ExifTool:ExifToolVersion>
- <System:FileName>L2M2_0021.tif</System:FileName>
- <System:Directory>C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata</System:Directory>
- <System:FileSize>84 MB</System:FileSize>
- <System:FileModifyDate>2025:05:05 16:55:41+02:00</System:FileModifyDate>
- <System:FileAccessDate>2025:05:06 18:14:32+02:00</System:FileAccessDate>
- <System:FileCreateDate>2025:05:06 18:13:11+02:00</System:FileCreateDate>
- <System:FilePermissions>-rw-rw-rw-</System:FilePermissions>
- <File:FileType>TIFF</File:FileType>
- <File:FileTypeExtension>tif</File:FileTypeExtension>
- <File:MIMEType>image/tiff</File:MIMEType>
- <File:ExifByteOrder>Little-endian (Intel, II)</File:ExifByteOrder>
- <File:PageCount>1</File:PageCount>
- <IFD0:SubfileType>Single page of multi-page image</IFD0:SubfileType>
- <IFD0:ImageWidth>6528</IFD0:ImageWidth>
- <IFD0:ImageHeight>4304</IFD0:ImageHeight>
- <IFD0:BitsPerSample>8 8 8</IFD0:BitsPerSample>
- <IFD0:Compression>Uncompressed</IFD0:Compression>
- <IFD0:PhotometricInterpretation>RGB</IFD0:PhotometricInterpretation>
- <IFD0:StripOffsets>(Binary data 2382 bytes, use -b option to extract)</IFD0:StripOffsets>
- <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
- <IFD0:SamplesPerPixel>3</IFD0:SamplesPerPixel>
- <IFD0:RowsPerStrip>16</IFD0:RowsPerStrip>
- <IFD0:StripByteCounts>(Binary data 1882 bytes, use -b option to extract)</IFD0:StripByteCounts>
- <IFD0:XResolution>4800</IFD0:XResolution>
- <IFD0:YResolution>4800</IFD0:YResolution>
- <IFD0:PlanarConfiguration>Chunky</IFD0:PlanarConfiguration>
- <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
- <IFD0:PageNumber>0 0</IFD0:PageNumber>
- <XMP-x:XMPToolkit>Image::ExifTool 13.27</XMP-x:XMPToolkit>
- <XMP-dc:Creator>Bertil Dahlby</XMP-dc:Creator>
- <XMP-dc:Description>Sommarvilla Sillvik, tagen ca 1960-2000</XMP-dc:Description>
- <XMP-dc:Rights>Botkyrka Hembygdsgille</XMP-dc:Rights>
- <XMP-dc:Subject>#Norsborg #Sillvik #Sommarvillor #Summer houses #Bertil Dahlby #Botkyrka Hembygdsgille #Diabilder #Color slides #Fotografier #Photographs</XMP-dc:Subject>
- <XMP-dc:Title>Sillvik</XMP-dc:Title>
- <XMP-photoshop:AuthorsPosition>Fotograf</XMP-photoshop:AuthorsPosition>
- <XMP-photoshop:CaptionWriter>Inguna Bodeka, Lotta Nordholm</XMP-photoshop:CaptionWriter>
- <XMP-photoshop:Country>Sverige</XMP-photoshop:Country>
- <XMP-photoshop:Credit>Bertil Dahlby, Botkyrka Hembygdsgille</XMP-photoshop:Credit>
- <XMP-photoshop:DateCreated>0000</XMP-photoshop:DateCreated>
- <XMP-photoshop:Headline>Fotografi</XMP-photoshop:Headline>
- <XMP-photoshop:Source>Botkyrka Hembygdsgille</XMP-photoshop:Source>
- <XMP-photoshop:State>Norsborg, Botkyrka kommun, Stockholms län</XMP-photoshop:State>
- <XMP-xmpRights:UsageTerms>Fotografierna skall enbart användas med tillstånd av Botkyrka Hembygdsgille i oändrat skick och vid användning av Fotografierna skall fotografens namn anges</XMP-xmpRights:UsageTerms>
- <Composite:ImageSize>6528x4304</Composite:ImageSize>
- <Composite:Megapixels>28.1</Composite:Megapixels>
-</rdf:Description>
-	</rdf:RDF>
-</xenoData>
-
 </teiHeader>
 <facsimile>
 	<surface xml:id="L2M2_0021_s">
@@ -1190,6 +623,7 @@
 			<sourceDesc>
 				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L2M2_0022_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -1211,70 +645,6 @@
 		</keywords>
 	</textClass>
 </profileDesc>
-
-<xenoData>
-	<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
-	<rdf:Description rdf:about='C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata/L2M2_0022.tif'
-  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.27'
-  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
-  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
-  xmlns:File='http://ns.exiftool.org/File/1.0/'
-  xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
-  xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
-  xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
-  xmlns:XMP-photoshop='http://ns.exiftool.org/XMP/XMP-photoshop/1.0/'
-  xmlns:XMP-xmpRights='http://ns.exiftool.org/XMP/XMP-xmpRights/1.0/'
-  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
- <ExifTool:ExifToolVersion>13.27</ExifTool:ExifToolVersion>
- <System:FileName>L2M2_0022.tif</System:FileName>
- <System:Directory>C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata</System:Directory>
- <System:FileSize>84 MB</System:FileSize>
- <System:FileModifyDate>2025:05:05 16:55:43+02:00</System:FileModifyDate>
- <System:FileAccessDate>2025:05:06 18:14:33+02:00</System:FileAccessDate>
- <System:FileCreateDate>2025:05:06 18:13:13+02:00</System:FileCreateDate>
- <System:FilePermissions>-rw-rw-rw-</System:FilePermissions>
- <File:FileType>TIFF</File:FileType>
- <File:FileTypeExtension>tif</File:FileTypeExtension>
- <File:MIMEType>image/tiff</File:MIMEType>
- <File:ExifByteOrder>Little-endian (Intel, II)</File:ExifByteOrder>
- <File:PageCount>1</File:PageCount>
- <IFD0:SubfileType>Single page of multi-page image</IFD0:SubfileType>
- <IFD0:ImageWidth>6496</IFD0:ImageWidth>
- <IFD0:ImageHeight>4304</IFD0:ImageHeight>
- <IFD0:BitsPerSample>8 8 8</IFD0:BitsPerSample>
- <IFD0:Compression>Uncompressed</IFD0:Compression>
- <IFD0:PhotometricInterpretation>RGB</IFD0:PhotometricInterpretation>
- <IFD0:StripOffsets>(Binary data 2381 bytes, use -b option to extract)</IFD0:StripOffsets>
- <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
- <IFD0:SamplesPerPixel>3</IFD0:SamplesPerPixel>
- <IFD0:RowsPerStrip>16</IFD0:RowsPerStrip>
- <IFD0:StripByteCounts>(Binary data 1882 bytes, use -b option to extract)</IFD0:StripByteCounts>
- <IFD0:XResolution>4800</IFD0:XResolution>
- <IFD0:YResolution>4800</IFD0:YResolution>
- <IFD0:PlanarConfiguration>Chunky</IFD0:PlanarConfiguration>
- <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
- <IFD0:PageNumber>0 0</IFD0:PageNumber>
- <XMP-x:XMPToolkit>Image::ExifTool 13.27</XMP-x:XMPToolkit>
- <XMP-dc:Creator>Bertil Dahlby</XMP-dc:Creator>
- <XMP-dc:Description>Norsborgs herrgård, tagen ca 1960-2000</XMP-dc:Description>
- <XMP-dc:Rights>Botkyrka Hembygdsgille</XMP-dc:Rights>
- <XMP-dc:Subject>#Norsborg #Herrgårdar #Mansions  #Bertil Dahlby #Botkyrka Hembygdsgille #Diabilder #Color slides #Fotografier #Photographs</XMP-dc:Subject>
- <XMP-dc:Title>Norsborgs herrgård</XMP-dc:Title>
- <XMP-photoshop:AuthorsPosition>Fotograf</XMP-photoshop:AuthorsPosition>
- <XMP-photoshop:CaptionWriter>Inguna Bodeka, Lotta Nordholm</XMP-photoshop:CaptionWriter>
- <XMP-photoshop:Country>Sverige</XMP-photoshop:Country>
- <XMP-photoshop:Credit>Bertil Dahlby, Botkyrka Hembygdsgille</XMP-photoshop:Credit>
- <XMP-photoshop:DateCreated>0000</XMP-photoshop:DateCreated>
- <XMP-photoshop:Headline>Fotografi</XMP-photoshop:Headline>
- <XMP-photoshop:Source>Botkyrka Hembygdsgille</XMP-photoshop:Source>
- <XMP-photoshop:State>Norsborg, Botkyrka kommun, Stockholms län</XMP-photoshop:State>
- <XMP-xmpRights:UsageTerms>Fotografierna skall enbart användas med tillstånd av Botkyrka Hembygdsgille i oändrat skick och vid användning av Fotografierna skall fotografens namn anges</XMP-xmpRights:UsageTerms>
- <Composite:ImageSize>6496x4304</Composite:ImageSize>
- <Composite:Megapixels>28.0</Composite:Megapixels>
-</rdf:Description>
-	</rdf:RDF>
-</xenoData>
-
 </teiHeader>
 <facsimile>
 	<surface xml:id="L2M2_0022_s">
@@ -1307,6 +677,7 @@
 			<sourceDesc>
 				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L2M2_0037_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -1329,70 +700,6 @@
 		</keywords>
 	</textClass>
 </profileDesc>
-
-<xenoData>
-	<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
-		<rdf:Description rdf:about='C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata/L2M2_0037.tif'
-		xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.27'
-		xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
-		xmlns:System='http://ns.exiftool.org/File/System/1.0/'
-		xmlns:File='http://ns.exiftool.org/File/1.0/'
-		xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
-		xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
-		xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
-		xmlns:XMP-photoshop='http://ns.exiftool.org/XMP/XMP-photoshop/1.0/'
-		xmlns:XMP-xmpRights='http://ns.exiftool.org/XMP/XMP-xmpRights/1.0/'
-		xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
-	   <ExifTool:ExifToolVersion>13.27</ExifTool:ExifToolVersion>
-	   <System:FileName>L2M2_0037.tif</System:FileName>
-	   <System:Directory>C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata</System:Directory>
-	   <System:FileSize>84 MB</System:FileSize>
-	   <System:FileModifyDate>2025:05:05 16:55:44+02:00</System:FileModifyDate>
-	   <System:FileAccessDate>2025:05:06 18:14:31+02:00</System:FileAccessDate>
-	   <System:FileCreateDate>2025:05:06 18:13:14+02:00</System:FileCreateDate>
-	   <System:FilePermissions>-rw-rw-rw-</System:FilePermissions>
-	   <File:FileType>TIFF</File:FileType>
-	   <File:FileTypeExtension>tif</File:FileTypeExtension>
-	   <File:MIMEType>image/tiff</File:MIMEType>
-	   <File:ExifByteOrder>Little-endian (Intel, II)</File:ExifByteOrder>
-	   <File:PageCount>1</File:PageCount>
-	   <IFD0:SubfileType>Single page of multi-page image</IFD0:SubfileType>
-	   <IFD0:ImageWidth>6496</IFD0:ImageWidth>
-	   <IFD0:ImageHeight>4320</IFD0:ImageHeight>
-	   <IFD0:BitsPerSample>8 8 8</IFD0:BitsPerSample>
-	   <IFD0:Compression>Uncompressed</IFD0:Compression>
-	   <IFD0:PhotometricInterpretation>RGB</IFD0:PhotometricInterpretation>
-	   <IFD0:StripOffsets>(Binary data 2390 bytes, use -b option to extract)</IFD0:StripOffsets>
-	   <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
-	   <IFD0:SamplesPerPixel>3</IFD0:SamplesPerPixel>
-	   <IFD0:RowsPerStrip>16</IFD0:RowsPerStrip>
-	   <IFD0:StripByteCounts>(Binary data 1889 bytes, use -b option to extract)</IFD0:StripByteCounts>
-	   <IFD0:XResolution>4800</IFD0:XResolution>
-	   <IFD0:YResolution>4800</IFD0:YResolution>
-	   <IFD0:PlanarConfiguration>Chunky</IFD0:PlanarConfiguration>
-	   <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
-	   <IFD0:PageNumber>0 0</IFD0:PageNumber>
-	   <XMP-x:XMPToolkit>Image::ExifTool 13.27</XMP-x:XMPToolkit>
-	   <XMP-dc:Creator>Bertil Dahlby</XMP-dc:Creator>
-	   <XMP-dc:Description>Alby gård, tagen ca 1960-2000</XMP-dc:Description>
-	   <XMP-dc:Rights>Botkyrka Hembygdsgille</XMP-dc:Rights>
-	   <XMP-dc:Subject>#Botkyrka #Alby #Herrgårdar #Mansions #Bertil Dahlby #Botkyrka Hembygdsgille #Diabilder #Color slides #Fotografier #Photographs</XMP-dc:Subject>
-	   <XMP-dc:Title>Alby gård</XMP-dc:Title>
-	   <XMP-photoshop:AuthorsPosition>Fotograf</XMP-photoshop:AuthorsPosition>
-	   <XMP-photoshop:CaptionWriter>Inguna Bodeka, Lotta Nordholm</XMP-photoshop:CaptionWriter>
-	   <XMP-photoshop:Country>Sverige</XMP-photoshop:Country>
-	   <XMP-photoshop:Credit>Bertil Dahlby, Botkyrka Hembygdsgille</XMP-photoshop:Credit>
-	   <XMP-photoshop:DateCreated>0000</XMP-photoshop:DateCreated>
-	   <XMP-photoshop:Headline>Fotografi</XMP-photoshop:Headline>
-	   <XMP-photoshop:Source>Botkyrka Hembygdsgille</XMP-photoshop:Source>
-	   <XMP-photoshop:State>Botkyrka, Botkyrka kommun, Stockholms län</XMP-photoshop:State>
-	   <XMP-xmpRights:UsageTerms>Fotografierna skall enbart användas med tillstånd av Botkyrka Hembygdsgille i oändrat skick och vid användning av Fotografierna skall fotografens namn anges</XMP-xmpRights:UsageTerms>
-	   <Composite:ImageSize>6496x4320</Composite:ImageSize>
-	   <Composite:Megapixels>28.1</Composite:Megapixels>
-		</rdf:Description>
-	</rdf:RDF>
-</xenoData>
-
 </teiHeader>
 <facsimile>
 	<surface xml:id="L2M2_0037_s">
@@ -1426,6 +733,7 @@
 			<sourceDesc>
 				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L2M2_0038_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -1448,70 +756,6 @@
 		</keywords>
 	</textClass>
 </profileDesc>
-
-<xenoData>
-	<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
-		<rdf:Description rdf:about='C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata/L2M2_0038.tif'
-		xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.27'
-		xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
-		xmlns:System='http://ns.exiftool.org/File/System/1.0/'
-		xmlns:File='http://ns.exiftool.org/File/1.0/'
-		xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
-		xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
-		xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
-		xmlns:XMP-photoshop='http://ns.exiftool.org/XMP/XMP-photoshop/1.0/'
-		xmlns:XMP-xmpRights='http://ns.exiftool.org/XMP/XMP-xmpRights/1.0/'
-		xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
-	   <ExifTool:ExifToolVersion>13.27</ExifTool:ExifToolVersion>
-	   <System:FileName>L2M2_0038.tif</System:FileName>
-	   <System:Directory>C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata</System:Directory>
-	   <System:FileSize>84 MB</System:FileSize>
-	   <System:FileModifyDate>2025:05:05 16:55:47+02:00</System:FileModifyDate>
-	   <System:FileAccessDate>2025:05:06 18:14:07+02:00</System:FileAccessDate>
-	   <System:FileCreateDate>2025:05:06 18:13:15+02:00</System:FileCreateDate>
-	   <System:FilePermissions>-rw-rw-rw-</System:FilePermissions>
-	   <File:FileType>TIFF</File:FileType>
-	   <File:FileTypeExtension>tif</File:FileTypeExtension>
-	   <File:MIMEType>image/tiff</File:MIMEType>
-	   <File:ExifByteOrder>Little-endian (Intel, II)</File:ExifByteOrder>
-	   <File:PageCount>1</File:PageCount>
-	   <IFD0:SubfileType>Single page of multi-page image</IFD0:SubfileType>
-	   <IFD0:ImageWidth>6512</IFD0:ImageWidth>
-	   <IFD0:ImageHeight>4304</IFD0:ImageHeight>
-	   <IFD0:BitsPerSample>8 8 8</IFD0:BitsPerSample>
-	   <IFD0:Compression>Uncompressed</IFD0:Compression>
-	   <IFD0:PhotometricInterpretation>RGB</IFD0:PhotometricInterpretation>
-	   <IFD0:StripOffsets>(Binary data 2382 bytes, use -b option to extract)</IFD0:StripOffsets>
-	   <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
-	   <IFD0:SamplesPerPixel>3</IFD0:SamplesPerPixel>
-	   <IFD0:RowsPerStrip>16</IFD0:RowsPerStrip>
-	   <IFD0:StripByteCounts>(Binary data 1882 bytes, use -b option to extract)</IFD0:StripByteCounts>
-	   <IFD0:XResolution>4800</IFD0:XResolution>
-	   <IFD0:YResolution>4800</IFD0:YResolution>
-	   <IFD0:PlanarConfiguration>Chunky</IFD0:PlanarConfiguration>
-	   <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
-	   <IFD0:PageNumber>0 0</IFD0:PageNumber>
-	   <XMP-x:XMPToolkit>Image::ExifTool 13.27</XMP-x:XMPToolkit>
-	   <XMP-dc:Creator>Bertil Dahlby</XMP-dc:Creator>
-	   <XMP-dc:Description>Gula villan vid Alby gård, tagen ca 1960-2000</XMP-dc:Description>
-	   <XMP-dc:Rights>Botkyrka Hembygdsgille</XMP-dc:Rights>
-	   <XMP-dc:Subject>#Botkyrka #Alby #Bostäder #Residencies #Bertil Dahlby #Botkyrka Hembygdsgille #Diabilder #Color slides #Fotografier #Photographs</XMP-dc:Subject>
-	   <XMP-dc:Title>Gula villan vid Alby gård</XMP-dc:Title>
-	   <XMP-photoshop:AuthorsPosition>Fotograf</XMP-photoshop:AuthorsPosition>
-	   <XMP-photoshop:CaptionWriter>Inguna Bodeka, Lotta Nordholm</XMP-photoshop:CaptionWriter>
-	   <XMP-photoshop:Country>Sverige</XMP-photoshop:Country>
-	   <XMP-photoshop:Credit>Bertil Dahlby, Botkyrka Hembygdsgille</XMP-photoshop:Credit>
-	   <XMP-photoshop:DateCreated>0000</XMP-photoshop:DateCreated>
-	   <XMP-photoshop:Headline>Fotografi</XMP-photoshop:Headline>
-	   <XMP-photoshop:Source>Botkyrka Hembygdsgille</XMP-photoshop:Source>
-	   <XMP-photoshop:State>Botkyrka, Botkyrka kommun, Stockholms län</XMP-photoshop:State>
-	   <XMP-xmpRights:UsageTerms>Fotografierna skall enbart användas med tillstånd av Botkyrka Hembygdsgille i oändrat skick och vid användning av Fotografierna skall fotografens namn anges</XMP-xmpRights:UsageTerms>
-	   <Composite:ImageSize>6512x4304</Composite:ImageSize>
-	   <Composite:Megapixels>28.0</Composite:Megapixels>
-</rdf:Description>
-	</rdf:RDF>
-</xenoData>
-
 </teiHeader>
 <facsimile>
 	<surface xml:id="L2M2_0038_s">
@@ -1544,6 +788,7 @@
 			<sourceDesc>
 				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0002_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -1565,70 +810,6 @@
 		</keywords>
 	</textClass>
 </profileDesc>
-
-<xenoData>
-	<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
-		<rdf:Description rdf:about='C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata/L3M1_0002.tif'
-		xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.27'
-		xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
-		xmlns:System='http://ns.exiftool.org/File/System/1.0/'
-		xmlns:File='http://ns.exiftool.org/File/1.0/'
-		xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
-		xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
-		xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
-		xmlns:XMP-photoshop='http://ns.exiftool.org/XMP/XMP-photoshop/1.0/'
-		xmlns:XMP-xmpRights='http://ns.exiftool.org/XMP/XMP-xmpRights/1.0/'
-		xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
-	   <ExifTool:ExifToolVersion>13.27</ExifTool:ExifToolVersion>
-	   <System:FileName>L3M1_0002.tif</System:FileName>
-	   <System:Directory>C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata</System:Directory>
-	   <System:FileSize>84 MB</System:FileSize>
-	   <System:FileModifyDate>2025:05:05 16:55:49+02:00</System:FileModifyDate>
-	   <System:FileAccessDate>2025:05:06 18:14:08+02:00</System:FileAccessDate>
-	   <System:FileCreateDate>2025:05:06 18:13:17+02:00</System:FileCreateDate>
-	   <System:FilePermissions>-rw-rw-rw-</System:FilePermissions>
-	   <File:FileType>TIFF</File:FileType>
-	   <File:FileTypeExtension>tif</File:FileTypeExtension>
-	   <File:MIMEType>image/tiff</File:MIMEType>
-	   <File:ExifByteOrder>Little-endian (Intel, II)</File:ExifByteOrder>
-	   <File:PageCount>1</File:PageCount>
-	   <IFD0:SubfileType>Single page of multi-page image</IFD0:SubfileType>
-	   <IFD0:ImageWidth>6464</IFD0:ImageWidth>
-	   <IFD0:ImageHeight>4320</IFD0:ImageHeight>
-	   <IFD0:BitsPerSample>8 8 8</IFD0:BitsPerSample>
-	   <IFD0:Compression>Uncompressed</IFD0:Compression>
-	   <IFD0:PhotometricInterpretation>RGB</IFD0:PhotometricInterpretation>
-	   <IFD0:StripOffsets>(Binary data 2390 bytes, use -b option to extract)</IFD0:StripOffsets>
-	   <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
-	   <IFD0:SamplesPerPixel>3</IFD0:SamplesPerPixel>
-	   <IFD0:RowsPerStrip>16</IFD0:RowsPerStrip>
-	   <IFD0:StripByteCounts>(Binary data 1889 bytes, use -b option to extract)</IFD0:StripByteCounts>
-	   <IFD0:XResolution>4800</IFD0:XResolution>
-	   <IFD0:YResolution>4800</IFD0:YResolution>
-	   <IFD0:PlanarConfiguration>Chunky</IFD0:PlanarConfiguration>
-	   <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
-	   <IFD0:PageNumber>0 0</IFD0:PageNumber>
-	   <XMP-x:XMPToolkit>Image::ExifTool 13.27</XMP-x:XMPToolkit>
-	   <XMP-dc:Creator>Bertil Dahlby</XMP-dc:Creator>
-	   <XMP-dc:Description>Ålderdomshemmet vid Botkyrka kyrka, tagen ca 1960-2000</XMP-dc:Description>
-	   <XMP-dc:Rights>Botkyrka Hembygdsgille</XMP-dc:Rights>
-	   <XMP-dc:Subject>#Botkyrka #Ålderdomshem #Retirement homes #Bertil Dahlby #Botkyrka Hembygdsgille #Diabilder #Color slides #Fotografier #Photographs</XMP-dc:Subject>
-	   <XMP-dc:Title>Ålderdomshemmet vid Botkyrka kyrka</XMP-dc:Title>
-	   <XMP-photoshop:AuthorsPosition>Fotograf</XMP-photoshop:AuthorsPosition>
-	   <XMP-photoshop:CaptionWriter>Inguna Bodeka, Lotta Nordholm</XMP-photoshop:CaptionWriter>
-	   <XMP-photoshop:Country>Sverige</XMP-photoshop:Country>
-	   <XMP-photoshop:Credit>Bertil Dahlby, Botkyrka Hembygdsgille</XMP-photoshop:Credit>
-	   <XMP-photoshop:DateCreated>0000</XMP-photoshop:DateCreated>
-	   <XMP-photoshop:Headline>Fotografi</XMP-photoshop:Headline>
-	   <XMP-photoshop:Source>Botkyrka Hembygdsgille</XMP-photoshop:Source>
-	   <XMP-photoshop:State>Botkyrka, Botkyrka kommun, Stockholms län</XMP-photoshop:State>
-	   <XMP-xmpRights:UsageTerms>Fotografierna skall enbart användas med tillstånd av Botkyrka Hembygdsgille i oändrat skick och vid användning av Fotografierna skall fotografens namn anges</XMP-xmpRights:UsageTerms>
-	   <Composite:ImageSize>6464x4320</Composite:ImageSize>
-	   <Composite:Megapixels>27.9</Composite:Megapixels>
-	  </rdf:Description>
-	</rdf:RDF>
-</xenoData>
-
 </teiHeader>
 <facsimile>
 	<surface xml:id="L3M1_0002_s">
@@ -1662,6 +843,7 @@
 			<sourceDesc>
 				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0005_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -1683,70 +865,6 @@
 		</keywords>
 	</textClass>
 </profileDesc>
-
-<xenoData>
-	<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
-		<rdf:Description rdf:about='C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata/L3M1_0005.tif'
-		xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.27'
-		xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
-		xmlns:System='http://ns.exiftool.org/File/System/1.0/'
-		xmlns:File='http://ns.exiftool.org/File/1.0/'
-		xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
-		xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
-		xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
-		xmlns:XMP-photoshop='http://ns.exiftool.org/XMP/XMP-photoshop/1.0/'
-		xmlns:XMP-xmpRights='http://ns.exiftool.org/XMP/XMP-xmpRights/1.0/'
-		xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
-	   <ExifTool:ExifToolVersion>13.27</ExifTool:ExifToolVersion>
-	   <System:FileName>L3M1_0005.tif</System:FileName>
-	   <System:Directory>C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata</System:Directory>
-	   <System:FileSize>82 MB</System:FileSize>
-	   <System:FileModifyDate>2025:05:05 16:55:50+02:00</System:FileModifyDate>
-	   <System:FileAccessDate>2025:05:06 18:14:09+02:00</System:FileAccessDate>
-	   <System:FileCreateDate>2025:05:06 18:13:19+02:00</System:FileCreateDate>
-	   <System:FilePermissions>-rw-rw-rw-</System:FilePermissions>
-	   <File:FileType>TIFF</File:FileType>
-	   <File:FileTypeExtension>tif</File:FileTypeExtension>
-	   <File:MIMEType>image/tiff</File:MIMEType>
-	   <File:ExifByteOrder>Little-endian (Intel, II)</File:ExifByteOrder>
-	   <File:PageCount>1</File:PageCount>
-	   <IFD0:SubfileType>Single page of multi-page image</IFD0:SubfileType>
-	   <IFD0:ImageWidth>4240</IFD0:ImageWidth>
-	   <IFD0:ImageHeight>6416</IFD0:ImageHeight>
-	   <IFD0:BitsPerSample>8 8 8</IFD0:BitsPerSample>
-	   <IFD0:Compression>Uncompressed</IFD0:Compression>
-	   <IFD0:PhotometricInterpretation>RGB</IFD0:PhotometricInterpretation>
-	   <IFD0:StripOffsets>(Binary data 3551 bytes, use -b option to extract)</IFD0:StripOffsets>
-	   <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
-	   <IFD0:SamplesPerPixel>3</IFD0:SamplesPerPixel>
-	   <IFD0:RowsPerStrip>16</IFD0:RowsPerStrip>
-	   <IFD0:StripByteCounts>(Binary data 2806 bytes, use -b option to extract)</IFD0:StripByteCounts>
-	   <IFD0:XResolution>4800</IFD0:XResolution>
-	   <IFD0:YResolution>4800</IFD0:YResolution>
-	   <IFD0:PlanarConfiguration>Chunky</IFD0:PlanarConfiguration>
-	   <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
-	   <IFD0:PageNumber>0 0</IFD0:PageNumber>
-	   <XMP-x:XMPToolkit>Image::ExifTool 13.27</XMP-x:XMPToolkit>
-	   <XMP-dc:Creator>Bertil Dahlby</XMP-dc:Creator>
-	   <XMP-dc:Description>Botkyrka kyrka, tagen ca 1960-2000</XMP-dc:Description>
-	   <XMP-dc:Rights>Botkyrka Hembygdsgille</XMP-dc:Rights>
-	   <XMP-dc:Subject>#Botkyrka #Kyrkor #Churches #Bertil Dahlby #Botkyrka Hembygdsgille #Diabilder #Color slides #Fotografier #Photographs</XMP-dc:Subject>
-	   <XMP-dc:Title>Botkyrka kyrka</XMP-dc:Title>
-	   <XMP-photoshop:AuthorsPosition>Fotograf</XMP-photoshop:AuthorsPosition>
-	   <XMP-photoshop:CaptionWriter>Inguna Bodeka, Lotta Nordholm</XMP-photoshop:CaptionWriter>
-	   <XMP-photoshop:Country>Sverige</XMP-photoshop:Country>
-	   <XMP-photoshop:Credit>Bertil Dahlby, Botkyrka Hembygdsgille</XMP-photoshop:Credit>
-	   <XMP-photoshop:DateCreated>0000</XMP-photoshop:DateCreated>
-	   <XMP-photoshop:Headline>Fotografi</XMP-photoshop:Headline>
-	   <XMP-photoshop:Source>Botkyrka Hembygdsgille</XMP-photoshop:Source>
-	   <XMP-photoshop:State>Botkyrka, Botkyrka kommun, Stockholms län</XMP-photoshop:State>
-	   <XMP-xmpRights:UsageTerms>Fotografierna skall enbart användas med tillstånd av Botkyrka Hembygdsgille i oändrat skick och vid användning av Fotografierna skall fotografens namn anges</XMP-xmpRights:UsageTerms>
-	   <Composite:ImageSize>4240x6416</Composite:ImageSize>
-	   <Composite:Megapixels>27.2</Composite:Megapixels>
-	  </rdf:Description>	  
-	</rdf:RDF>
-</xenoData>
-
 </teiHeader>
 <facsimile>
 	<surface xml:id="L3M1_0005_s">
@@ -1780,6 +898,7 @@
 			<sourceDesc>
 				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0006_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -1802,70 +921,6 @@
 		</keywords>
 	</textClass>
 </profileDesc>
-
-<xenoData>
-	<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
-		<rdf:Description rdf:about='C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata/L3M1_0006.tif'
-		xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.27'
-		xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
-		xmlns:System='http://ns.exiftool.org/File/System/1.0/'
-		xmlns:File='http://ns.exiftool.org/File/1.0/'
-		xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
-		xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
-		xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
-		xmlns:XMP-photoshop='http://ns.exiftool.org/XMP/XMP-photoshop/1.0/'
-		xmlns:XMP-xmpRights='http://ns.exiftool.org/XMP/XMP-xmpRights/1.0/'
-		xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
-	   <ExifTool:ExifToolVersion>13.27</ExifTool:ExifToolVersion>
-	   <System:FileName>L3M1_0006.tif</System:FileName>
-	   <System:Directory>C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata</System:Directory>
-	   <System:FileSize>84 MB</System:FileSize>
-	   <System:FileModifyDate>2025:05:05 16:55:51+02:00</System:FileModifyDate>
-	   <System:FileAccessDate>2025:05:06 18:14:10+02:00</System:FileAccessDate>
-	   <System:FileCreateDate>2025:05:06 18:13:20+02:00</System:FileCreateDate>
-	   <System:FilePermissions>-rw-rw-rw-</System:FilePermissions>
-	   <File:FileType>TIFF</File:FileType>
-	   <File:FileTypeExtension>tif</File:FileTypeExtension>
-	   <File:MIMEType>image/tiff</File:MIMEType>
-	   <File:ExifByteOrder>Little-endian (Intel, II)</File:ExifByteOrder>
-	   <File:PageCount>1</File:PageCount>
-	   <IFD0:SubfileType>Single page of multi-page image</IFD0:SubfileType>
-	   <IFD0:ImageWidth>6512</IFD0:ImageWidth>
-	   <IFD0:ImageHeight>4320</IFD0:ImageHeight>
-	   <IFD0:BitsPerSample>8 8 8</IFD0:BitsPerSample>
-	   <IFD0:Compression>Uncompressed</IFD0:Compression>
-	   <IFD0:PhotometricInterpretation>RGB</IFD0:PhotometricInterpretation>
-	   <IFD0:StripOffsets>(Binary data 2391 bytes, use -b option to extract)</IFD0:StripOffsets>
-	   <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
-	   <IFD0:SamplesPerPixel>3</IFD0:SamplesPerPixel>
-	   <IFD0:RowsPerStrip>16</IFD0:RowsPerStrip>
-	   <IFD0:StripByteCounts>(Binary data 1889 bytes, use -b option to extract)</IFD0:StripByteCounts>
-	   <IFD0:XResolution>4800</IFD0:XResolution>
-	   <IFD0:YResolution>4800</IFD0:YResolution>
-	   <IFD0:PlanarConfiguration>Chunky</IFD0:PlanarConfiguration>
-	   <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
-	   <IFD0:PageNumber>0 0</IFD0:PageNumber>
-	   <XMP-x:XMPToolkit>Image::ExifTool 13.27</XMP-x:XMPToolkit>
-	   <XMP-dc:Creator>Bertil Dahlby</XMP-dc:Creator>
-	   <XMP-dc:Description>Klockargården vid Botkyrka kyrka (församlingshem), tagen ca 1960-2000</XMP-dc:Description>
-	   <XMP-dc:Rights>Botkyrka Hembygdsgille</XMP-dc:Rights>
-	   <XMP-dc:Subject>#Botkyrka #Klockargården #Församlingshem #Parish houses #Bertil Dahlby #Botkyrka Hembygdsgille #Diabilder #Color slides #Fotografier #Photographs</XMP-dc:Subject>
-	   <XMP-dc:Title>Klockargården vid Botkyrka kyrka</XMP-dc:Title>
-	   <XMP-photoshop:AuthorsPosition>Fotograf</XMP-photoshop:AuthorsPosition>
-	   <XMP-photoshop:CaptionWriter>Inguna Bodeka, Lotta Nordholm</XMP-photoshop:CaptionWriter>
-	   <XMP-photoshop:Country>Sverige</XMP-photoshop:Country>
-	   <XMP-photoshop:Credit>Bertil Dahlby, Botkyrka Hembygdsgille</XMP-photoshop:Credit>
-	   <XMP-photoshop:DateCreated>0000</XMP-photoshop:DateCreated>
-	   <XMP-photoshop:Headline>Fotografi</XMP-photoshop:Headline>
-	   <XMP-photoshop:Source>Botkyrka Hembygdsgille</XMP-photoshop:Source>
-	   <XMP-photoshop:State>Botkyrka, Botkyrka kommun, Stockholms län</XMP-photoshop:State>
-	   <XMP-xmpRights:UsageTerms>Fotografierna skall enbart användas med tillstånd av Botkyrka Hembygdsgille i oändrat skick och vid användning av Fotografierna skall fotografens namn anges</XMP-xmpRights:UsageTerms>
-	   <Composite:ImageSize>6512x4320</Composite:ImageSize>
-	   <Composite:Megapixels>28.1</Composite:Megapixels>
-	  </rdf:Description>	  
-	</rdf:RDF>
-</xenoData>
-
 </teiHeader>
 <facsimile>
 	<surface xml:id="L3M1_0006_s">
@@ -1899,6 +954,7 @@
 			<sourceDesc>
 				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0016_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -1920,70 +976,6 @@
 		</keywords>
 	</textClass>
 </profileDesc>
-
-<xenoData>
-	<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
-		<rdf:Description rdf:about='C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata/L3M1_0016.tif'
-		xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.27'
-		xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
-		xmlns:System='http://ns.exiftool.org/File/System/1.0/'
-		xmlns:File='http://ns.exiftool.org/File/1.0/'
-		xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
-		xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
-		xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
-		xmlns:XMP-photoshop='http://ns.exiftool.org/XMP/XMP-photoshop/1.0/'
-		xmlns:XMP-xmpRights='http://ns.exiftool.org/XMP/XMP-xmpRights/1.0/'
-		xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
-	   <ExifTool:ExifToolVersion>13.27</ExifTool:ExifToolVersion>
-	   <System:FileName>L3M1_0016.tif</System:FileName>
-	   <System:Directory>C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata</System:Directory>
-	   <System:FileSize>84 MB</System:FileSize>
-	   <System:FileModifyDate>2025:05:05 16:55:52+02:00</System:FileModifyDate>
-	   <System:FileAccessDate>2025:05:06 18:14:04+02:00</System:FileAccessDate>
-	   <System:FileCreateDate>2025:05:06 18:13:21+02:00</System:FileCreateDate>
-	   <System:FilePermissions>-rw-rw-rw-</System:FilePermissions>
-	   <File:FileType>TIFF</File:FileType>
-	   <File:FileTypeExtension>tif</File:FileTypeExtension>
-	   <File:MIMEType>image/tiff</File:MIMEType>
-	   <File:ExifByteOrder>Little-endian (Intel, II)</File:ExifByteOrder>
-	   <File:PageCount>1</File:PageCount>
-	   <IFD0:SubfileType>Single page of multi-page image</IFD0:SubfileType>
-	   <IFD0:ImageWidth>6512</IFD0:ImageWidth>
-	   <IFD0:ImageHeight>4288</IFD0:ImageHeight>
-	   <IFD0:BitsPerSample>8 8 8</IFD0:BitsPerSample>
-	   <IFD0:Compression>Uncompressed</IFD0:Compression>
-	   <IFD0:PhotometricInterpretation>RGB</IFD0:PhotometricInterpretation>
-	   <IFD0:StripOffsets>(Binary data 2373 bytes, use -b option to extract)</IFD0:StripOffsets>
-	   <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
-	   <IFD0:SamplesPerPixel>3</IFD0:SamplesPerPixel>
-	   <IFD0:RowsPerStrip>16</IFD0:RowsPerStrip>
-	   <IFD0:StripByteCounts>(Binary data 1875 bytes, use -b option to extract)</IFD0:StripByteCounts>
-	   <IFD0:XResolution>4800</IFD0:XResolution>
-	   <IFD0:YResolution>4800</IFD0:YResolution>
-	   <IFD0:PlanarConfiguration>Chunky</IFD0:PlanarConfiguration>
-	   <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
-	   <IFD0:PageNumber>0 0</IFD0:PageNumber>
-	   <XMP-x:XMPToolkit>Image::ExifTool 13.27</XMP-x:XMPToolkit>
-	   <XMP-dc:Creator>Bertil Dahlby</XMP-dc:Creator>
-	   <XMP-dc:Description>Tullinge gård, tagen ca 1960-2000</XMP-dc:Description>
-	   <XMP-dc:Rights>Botkyrka Hembygdsgille</XMP-dc:Rights>
-	   <XMP-dc:Subject>#Tullinge #Herrgårdar #Mansions #Bertil Dahlby #Botkyrka Hembygdsgille #Diabilder #Color slides #Fotografier #Photographs</XMP-dc:Subject>
-	   <XMP-dc:Title>Tullinge gård</XMP-dc:Title>
-	   <XMP-photoshop:AuthorsPosition>Fotograf</XMP-photoshop:AuthorsPosition>
-	   <XMP-photoshop:CaptionWriter>Inguna Bodeka, Lotta Nordholm</XMP-photoshop:CaptionWriter>
-	   <XMP-photoshop:Country>Sverige</XMP-photoshop:Country>
-	   <XMP-photoshop:Credit>Bertil Dahlby, Botkyrka Hembygdsgille</XMP-photoshop:Credit>
-	   <XMP-photoshop:DateCreated>0000</XMP-photoshop:DateCreated>
-	   <XMP-photoshop:Headline>Fotografi</XMP-photoshop:Headline>
-	   <XMP-photoshop:Source>Botkyrka Hembygdsgille</XMP-photoshop:Source>
-	   <XMP-photoshop:State>Tullinge, Botkyrka kommun, Stockholms län</XMP-photoshop:State>
-	   <XMP-xmpRights:UsageTerms>Fotografierna skall enbart användas med tillstånd av Botkyrka Hembygdsgille i oändrat skick och vid användning av Fotografierna skall fotografens namn anges</XMP-xmpRights:UsageTerms>
-	   <Composite:ImageSize>6512x4288</Composite:ImageSize>
-	   <Composite:Megapixels>27.9</Composite:Megapixels>
-	  </rdf:Description>	  
-	</rdf:RDF>
-</xenoData>
-
 </teiHeader>
 <facsimile>
 	<surface xml:id="L3M1_0016_s">
@@ -2016,6 +1008,7 @@
 			<sourceDesc>
 				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0017_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -2038,70 +1031,6 @@
 		</keywords>
 	</textClass>
 </profileDesc>
-
-<xenoData>
-	<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
-		<rdf:Description rdf:about='C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata/L3M1_0017.tif'
-  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.27'
-  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
-  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
-  xmlns:File='http://ns.exiftool.org/File/1.0/'
-  xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
-  xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
-  xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
-  xmlns:XMP-photoshop='http://ns.exiftool.org/XMP/XMP-photoshop/1.0/'
-  xmlns:XMP-xmpRights='http://ns.exiftool.org/XMP/XMP-xmpRights/1.0/'
-  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
- <ExifTool:ExifToolVersion>13.27</ExifTool:ExifToolVersion>
- <System:FileName>L3M1_0017.tif</System:FileName>
- <System:Directory>C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata</System:Directory>
- <System:FileSize>83 MB</System:FileSize>
- <System:FileModifyDate>2025:05:05 16:55:55+02:00</System:FileModifyDate>
- <System:FileAccessDate>2025:05:06 18:14:32+02:00</System:FileAccessDate>
- <System:FileCreateDate>2025:05:06 18:13:22+02:00</System:FileCreateDate>
- <System:FilePermissions>-rw-rw-rw-</System:FilePermissions>
- <File:FileType>TIFF</File:FileType>
- <File:FileTypeExtension>tif</File:FileTypeExtension>
- <File:MIMEType>image/tiff</File:MIMEType>
- <File:ExifByteOrder>Little-endian (Intel, II)</File:ExifByteOrder>
- <File:PageCount>1</File:PageCount>
- <IFD0:SubfileType>Single page of multi-page image</IFD0:SubfileType>
- <IFD0:ImageWidth>6480</IFD0:ImageWidth>
- <IFD0:ImageHeight>4256</IFD0:ImageHeight>
- <IFD0:BitsPerSample>8 8 8</IFD0:BitsPerSample>
- <IFD0:Compression>Uncompressed</IFD0:Compression>
- <IFD0:PhotometricInterpretation>RGB</IFD0:PhotometricInterpretation>
- <IFD0:StripOffsets>(Binary data 2354 bytes, use -b option to extract)</IFD0:StripOffsets>
- <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
- <IFD0:SamplesPerPixel>3</IFD0:SamplesPerPixel>
- <IFD0:RowsPerStrip>16</IFD0:RowsPerStrip>
- <IFD0:StripByteCounts>(Binary data 1861 bytes, use -b option to extract)</IFD0:StripByteCounts>
- <IFD0:XResolution>4800</IFD0:XResolution>
- <IFD0:YResolution>4800</IFD0:YResolution>
- <IFD0:PlanarConfiguration>Chunky</IFD0:PlanarConfiguration>
- <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
- <IFD0:PageNumber>0 0</IFD0:PageNumber>
- <XMP-x:XMPToolkit>Image::ExifTool 13.27</XMP-x:XMPToolkit>
- <XMP-dc:Creator>Bertil Dahlby</XMP-dc:Creator>
- <XMP-dc:Description>Falkbergsskolan, tagen ca 1960-2000</XMP-dc:Description>
- <XMP-dc:Rights>Botkyrka Hembygdsgille</XMP-dc:Rights>
- <XMP-dc:Subject>#Tullinge #Falkbergsskolan #Grundskolor #Elementary schools #Bertil Dahlby #Botkyrka Hembygdsgille #Diabilder #Color slides #Fotografier #Photographs</XMP-dc:Subject>
- <XMP-dc:Title>Falkbergsskolan</XMP-dc:Title>
- <XMP-photoshop:AuthorsPosition>Fotograf</XMP-photoshop:AuthorsPosition>
- <XMP-photoshop:CaptionWriter>Inguna Bodeka, Lotta Nordholm</XMP-photoshop:CaptionWriter>
- <XMP-photoshop:Country>Sverige</XMP-photoshop:Country>
- <XMP-photoshop:Credit>Bertil Dahlby, Botkyrka Hembygdsgille</XMP-photoshop:Credit>
- <XMP-photoshop:DateCreated>0000</XMP-photoshop:DateCreated>
- <XMP-photoshop:Headline>Fotografi</XMP-photoshop:Headline>
- <XMP-photoshop:Source>Botkyrka Hembygdsgille</XMP-photoshop:Source>
- <XMP-photoshop:State>Tullinge, Botkyrka kommun, Stockholms län</XMP-photoshop:State>
- <XMP-xmpRights:UsageTerms>Fotografierna skall enbart användas med tillstånd av Botkyrka Hembygdsgille i oändrat skick och vid användning av Fotografierna skall fotografens namn anges</XMP-xmpRights:UsageTerms>
- <Composite:ImageSize>6480x4256</Composite:ImageSize>
- <Composite:Megapixels>27.6</Composite:Megapixels>
-</rdf:Description>	  
-	</rdf:RDF>
-</xenoData>
-
 </teiHeader>
 <facsimile>
 	<surface xml:id="L3M1_0017_s">
@@ -2135,6 +1064,7 @@
 			<sourceDesc>
 				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0017_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -2156,70 +1086,6 @@
 		</keywords>
 	</textClass>
 </profileDesc>
-
-<xenoData>
-	<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
-	<rdf:Description rdf:about='C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata/L3M1_0021.tif'
-  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.27'
-  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
-  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
-  xmlns:File='http://ns.exiftool.org/File/1.0/'
-  xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
-  xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
-  xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
-  xmlns:XMP-photoshop='http://ns.exiftool.org/XMP/XMP-photoshop/1.0/'
-  xmlns:XMP-xmpRights='http://ns.exiftool.org/XMP/XMP-xmpRights/1.0/'
-  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
- <ExifTool:ExifToolVersion>13.27</ExifTool:ExifToolVersion>
- <System:FileName>L3M1_0021.tif</System:FileName>
- <System:Directory>C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata</System:Directory>
- <System:FileSize>83 MB</System:FileSize>
- <System:FileModifyDate>2025:05:05 16:55:58+02:00</System:FileModifyDate>
- <System:FileAccessDate>2025:05:06 18:14:06+02:00</System:FileAccessDate>
- <System:FileCreateDate>2025:05:06 18:13:23+02:00</System:FileCreateDate>
- <System:FilePermissions>-rw-rw-rw-</System:FilePermissions>
- <File:FileType>TIFF</File:FileType>
- <File:FileTypeExtension>tif</File:FileTypeExtension>
- <File:MIMEType>image/tiff</File:MIMEType>
- <File:ExifByteOrder>Little-endian (Intel, II)</File:ExifByteOrder>
- <File:PageCount>1</File:PageCount>
- <IFD0:SubfileType>Single page of multi-page image</IFD0:SubfileType>
- <IFD0:ImageWidth>6416</IFD0:ImageWidth>
- <IFD0:ImageHeight>4288</IFD0:ImageHeight>
- <IFD0:BitsPerSample>8 8 8</IFD0:BitsPerSample>
- <IFD0:Compression>Uncompressed</IFD0:Compression>
- <IFD0:PhotometricInterpretation>RGB</IFD0:PhotometricInterpretation>
- <IFD0:StripOffsets>(Binary data 2372 bytes, use -b option to extract)</IFD0:StripOffsets>
- <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
- <IFD0:SamplesPerPixel>3</IFD0:SamplesPerPixel>
- <IFD0:RowsPerStrip>16</IFD0:RowsPerStrip>
- <IFD0:StripByteCounts>(Binary data 1875 bytes, use -b option to extract)</IFD0:StripByteCounts>
- <IFD0:XResolution>4800</IFD0:XResolution>
- <IFD0:YResolution>4800</IFD0:YResolution>
- <IFD0:PlanarConfiguration>Chunky</IFD0:PlanarConfiguration>
- <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
- <IFD0:PageNumber>0 0</IFD0:PageNumber>
- <XMP-x:XMPToolkit>Image::ExifTool 13.27</XMP-x:XMPToolkit>
- <XMP-dc:Creator>Bertil Dahlby</XMP-dc:Creator>
- <XMP-dc:Description>Tullinge kyrka, tagen ca 1960-2000</XMP-dc:Description>
- <XMP-dc:Rights>Botkyrka Hembygdsgille</XMP-dc:Rights>
- <XMP-dc:Subject>#Tullinge #Kyrkor #Churches #Bertil Dahlby #Botkyrka Hembygdsgille #Diabilder #Color slides #Fotografier #Photographs</XMP-dc:Subject>
- <XMP-dc:Title>Tullinge kyrka</XMP-dc:Title>
- <XMP-photoshop:AuthorsPosition>Fotograf</XMP-photoshop:AuthorsPosition>
- <XMP-photoshop:CaptionWriter>Inguna Bodeka, Lotta Nordholm</XMP-photoshop:CaptionWriter>
- <XMP-photoshop:Country>Sverige</XMP-photoshop:Country>
- <XMP-photoshop:Credit>Bertil Dahlby, Botkyrka Hembygdsgille</XMP-photoshop:Credit>
- <XMP-photoshop:DateCreated>0000</XMP-photoshop:DateCreated>
- <XMP-photoshop:Headline>Fotografi</XMP-photoshop:Headline>
- <XMP-photoshop:Source>Botkyrka Hembygdsgille</XMP-photoshop:Source>
- <XMP-photoshop:State>Tullinge, Botkyrka kommun, Stockholms län</XMP-photoshop:State>
- <XMP-xmpRights:UsageTerms>Fotografierna skall enbart användas med tillstånd av Botkyrka Hembygdsgille i oändrat skick och vid användning av Fotografierna skall fotografens namn anges</XMP-xmpRights:UsageTerms>
- <Composite:ImageSize>6416x4288</Composite:ImageSize>
- <Composite:Megapixels>27.5</Composite:Megapixels>
-</rdf:Description>	  
-	</rdf:RDF>
-</xenoData>
-
 </teiHeader>
 <facsimile>
 	<surface xml:id="L3M1_0021_s">
@@ -2252,6 +1118,7 @@
 			<sourceDesc>
 				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0026_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -2274,70 +1141,6 @@
 		</keywords>
 	</textClass>
 </profileDesc>
-
-<xenoData>
-	<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
-<rdf:Description rdf:about='C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata/L3M1_0026.tif'
-  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.27'
-  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
-  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
-  xmlns:File='http://ns.exiftool.org/File/1.0/'
-  xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
-  xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
-  xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
-  xmlns:XMP-photoshop='http://ns.exiftool.org/XMP/XMP-photoshop/1.0/'
-  xmlns:XMP-xmpRights='http://ns.exiftool.org/XMP/XMP-xmpRights/1.0/'
-  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
- <ExifTool:ExifToolVersion>13.27</ExifTool:ExifToolVersion>
- <System:FileName>L3M1_0026.tif</System:FileName>
- <System:Directory>C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata</System:Directory>
- <System:FileSize>84 MB</System:FileSize>
- <System:FileModifyDate>2025:05:05 16:56:01+02:00</System:FileModifyDate>
- <System:FileAccessDate>2025:05:06 18:14:06+02:00</System:FileAccessDate>
- <System:FileCreateDate>2025:05:06 18:13:25+02:00</System:FileCreateDate>
- <System:FilePermissions>-rw-rw-rw-</System:FilePermissions>
- <File:FileType>TIFF</File:FileType>
- <File:FileTypeExtension>tif</File:FileTypeExtension>
- <File:MIMEType>image/tiff</File:MIMEType>
- <File:ExifByteOrder>Little-endian (Intel, II)</File:ExifByteOrder>
- <File:PageCount>1</File:PageCount>
- <IFD0:SubfileType>Single page of multi-page image</IFD0:SubfileType>
- <IFD0:ImageWidth>6512</IFD0:ImageWidth>
- <IFD0:ImageHeight>4288</IFD0:ImageHeight>
- <IFD0:BitsPerSample>8 8 8</IFD0:BitsPerSample>
- <IFD0:Compression>Uncompressed</IFD0:Compression>
- <IFD0:PhotometricInterpretation>RGB</IFD0:PhotometricInterpretation>
- <IFD0:StripOffsets>(Binary data 2373 bytes, use -b option to extract)</IFD0:StripOffsets>
- <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
- <IFD0:SamplesPerPixel>3</IFD0:SamplesPerPixel>
- <IFD0:RowsPerStrip>16</IFD0:RowsPerStrip>
- <IFD0:StripByteCounts>(Binary data 1875 bytes, use -b option to extract)</IFD0:StripByteCounts>
- <IFD0:XResolution>4800</IFD0:XResolution>
- <IFD0:YResolution>4800</IFD0:YResolution>
- <IFD0:PlanarConfiguration>Chunky</IFD0:PlanarConfiguration>
- <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
- <IFD0:PageNumber>0 0</IFD0:PageNumber>
- <XMP-x:XMPToolkit>Image::ExifTool 13.27</XMP-x:XMPToolkit>
- <XMP-dc:Creator>Bertil Dahlby</XMP-dc:Creator>
- <XMP-dc:Description>Lida Friluftsgård, tagen ca 1960-2000</XMP-dc:Description>
- <XMP-dc:Rights>Botkyrka Hembygdsgille</XMP-dc:Rights>
- <XMP-dc:Subject>#Tullinge #Lida #Friluftsgårdar #Recreation areas #Bertil Dahlby #Botkyrka Hembygdsgille #Diabilder #Color slides #Fotografier #Photographs</XMP-dc:Subject>
- <XMP-dc:Title>Lida Friluftsgård</XMP-dc:Title>
- <XMP-photoshop:AuthorsPosition>Fotograf</XMP-photoshop:AuthorsPosition>
- <XMP-photoshop:CaptionWriter>Inguna Bodeka, Lotta Nordholm</XMP-photoshop:CaptionWriter>
- <XMP-photoshop:Country>Sverige</XMP-photoshop:Country>
- <XMP-photoshop:Credit>Bertil Dahlby, Botkyrka Hembygdsgille</XMP-photoshop:Credit>
- <XMP-photoshop:DateCreated>0000</XMP-photoshop:DateCreated>
- <XMP-photoshop:Headline>Fotografi</XMP-photoshop:Headline>
- <XMP-photoshop:Source>Botkyrka Hembygdsgille</XMP-photoshop:Source>
- <XMP-photoshop:State>Tullinge, Botkyrka kommun, Stockholms län</XMP-photoshop:State>
- <XMP-xmpRights:UsageTerms>Fotografierna skall enbart användas med tillstånd av Botkyrka Hembygdsgille i oändrat skick och vid användning av Fotografierna skall fotografens namn anges</XMP-xmpRights:UsageTerms>
- <Composite:ImageSize>6512x4288</Composite:ImageSize>
- <Composite:Megapixels>27.9</Composite:Megapixels>
-</rdf:Description>  
-	</rdf:RDF>
-</xenoData>
-
 </teiHeader>
 <facsimile>
 	<surface xml:id="L3M1_0026_s">
@@ -2371,6 +1174,7 @@
 			<sourceDesc>
 				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0034_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -2393,70 +1197,6 @@
 		</keywords>
 	</textClass>
 </profileDesc>
-
-<xenoData>
-	<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
-<rdf:Description rdf:about='C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata/L3M1_0034.tif'
-  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.27'
-  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
-  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
-  xmlns:File='http://ns.exiftool.org/File/1.0/'
-  xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
-  xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
-  xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
-  xmlns:XMP-photoshop='http://ns.exiftool.org/XMP/XMP-photoshop/1.0/'
-  xmlns:XMP-xmpRights='http://ns.exiftool.org/XMP/XMP-xmpRights/1.0/'
-  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
- <ExifTool:ExifToolVersion>13.27</ExifTool:ExifToolVersion>
- <System:FileName>L3M1_0034.tif</System:FileName>
- <System:Directory>C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata</System:Directory>
- <System:FileSize>85 MB</System:FileSize>
- <System:FileModifyDate>2025:05:05 16:56:02+02:00</System:FileModifyDate>
- <System:FileAccessDate>2025:05:06 18:14:12+02:00</System:FileAccessDate>
- <System:FileCreateDate>2025:05:06 18:13:26+02:00</System:FileCreateDate>
- <System:FilePermissions>-rw-rw-rw-</System:FilePermissions>
- <File:FileType>TIFF</File:FileType>
- <File:FileTypeExtension>tif</File:FileTypeExtension>
- <File:MIMEType>image/tiff</File:MIMEType>
- <File:ExifByteOrder>Little-endian (Intel, II)</File:ExifByteOrder>
- <File:PageCount>1</File:PageCount>
- <IFD0:SubfileType>Single page of multi-page image</IFD0:SubfileType>
- <IFD0:ImageWidth>6528</IFD0:ImageWidth>
- <IFD0:ImageHeight>4320</IFD0:ImageHeight>
- <IFD0:BitsPerSample>8 8 8</IFD0:BitsPerSample>
- <IFD0:Compression>Uncompressed</IFD0:Compression>
- <IFD0:PhotometricInterpretation>RGB</IFD0:PhotometricInterpretation>
- <IFD0:StripOffsets>(Binary data 2391 bytes, use -b option to extract)</IFD0:StripOffsets>
- <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
- <IFD0:SamplesPerPixel>3</IFD0:SamplesPerPixel>
- <IFD0:RowsPerStrip>16</IFD0:RowsPerStrip>
- <IFD0:StripByteCounts>(Binary data 1889 bytes, use -b option to extract)</IFD0:StripByteCounts>
- <IFD0:XResolution>4800</IFD0:XResolution>
- <IFD0:YResolution>4800</IFD0:YResolution>
- <IFD0:PlanarConfiguration>Chunky</IFD0:PlanarConfiguration>
- <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
- <IFD0:PageNumber>0 0</IFD0:PageNumber>
- <XMP-x:XMPToolkit>Image::ExifTool 13.27</XMP-x:XMPToolkit>
- <XMP-dc:Creator>Bertil Dahlby</XMP-dc:Creator>
- <XMP-dc:Description>Akvarellen i Tullinge (lägenhetshus), tagen ca 1960-2000</XMP-dc:Description>
- <XMP-dc:Rights>Botkyrka Hembygdsgille</XMP-dc:Rights>
- <XMP-dc:Subject>#Tullinge #Akvarellen #Lägenhetshus #Apartment houses #Bertil Dahlby #Botkyrka Hembygdsgille #Diabilder #Color slides #Fotografier #Photographs</XMP-dc:Subject>
- <XMP-dc:Title>Akvarellen i Tullinge</XMP-dc:Title>
- <XMP-photoshop:AuthorsPosition>Fotograf</XMP-photoshop:AuthorsPosition>
- <XMP-photoshop:CaptionWriter>Inguna Bodeka, Lotta Nordholm</XMP-photoshop:CaptionWriter>
- <XMP-photoshop:Country>Sverige</XMP-photoshop:Country>
- <XMP-photoshop:Credit>Bertil Dahlby, Botkyrka Hembygdsgille</XMP-photoshop:Credit>
- <XMP-photoshop:DateCreated>0000</XMP-photoshop:DateCreated>
- <XMP-photoshop:Headline>Fotografi</XMP-photoshop:Headline>
- <XMP-photoshop:Source>Botkyrka Hembygdsgille</XMP-photoshop:Source>
- <XMP-photoshop:State>Tullinge, Botkyrka kommun, Stockholms län</XMP-photoshop:State>
- <XMP-xmpRights:UsageTerms>Fotografierna skall enbart användas med tillstånd av Botkyrka Hembygdsgille i oändrat skick och vid användning av Fotografierna skall fotografens namn anges</XMP-xmpRights:UsageTerms>
- <Composite:ImageSize>6528x4320</Composite:ImageSize>
- <Composite:Megapixels>28.2</Composite:Megapixels>
-</rdf:Description>
-	</rdf:RDF>
-</xenoData>
-
 </teiHeader>
 <facsimile>
 	<surface xml:id="L3M1_0034_s">
@@ -2489,6 +1229,7 @@
 			<sourceDesc>
 				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0037_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -2511,70 +1252,6 @@
 		</keywords>
 	</textClass>
 </profileDesc>
-
-<xenoData>
-	<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
-<rdf:Description rdf:about='C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata/L3M1_0037.tif'
-  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.27'
-  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
-  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
-  xmlns:File='http://ns.exiftool.org/File/1.0/'
-  xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
-  xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
-  xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
-  xmlns:XMP-photoshop='http://ns.exiftool.org/XMP/XMP-photoshop/1.0/'
-  xmlns:XMP-xmpRights='http://ns.exiftool.org/XMP/XMP-xmpRights/1.0/'
-  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
- <ExifTool:ExifToolVersion>13.27</ExifTool:ExifToolVersion>
- <System:FileName>L3M1_0037.tif</System:FileName>
- <System:Directory>C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata</System:Directory>
- <System:FileSize>84 MB</System:FileSize>
- <System:FileModifyDate>2025:05:05 16:56:04+02:00</System:FileModifyDate>
- <System:FileAccessDate>2025:05:06 18:14:13+02:00</System:FileAccessDate>
- <System:FileCreateDate>2025:05:06 18:13:28+02:00</System:FileCreateDate>
- <System:FilePermissions>-rw-rw-rw-</System:FilePermissions>
- <File:FileType>TIFF</File:FileType>
- <File:FileTypeExtension>tif</File:FileTypeExtension>
- <File:MIMEType>image/tiff</File:MIMEType>
- <File:ExifByteOrder>Little-endian (Intel, II)</File:ExifByteOrder>
- <File:PageCount>1</File:PageCount>
- <IFD0:SubfileType>Single page of multi-page image</IFD0:SubfileType>
- <IFD0:ImageWidth>6512</IFD0:ImageWidth>
- <IFD0:ImageHeight>4288</IFD0:ImageHeight>
- <IFD0:BitsPerSample>8 8 8</IFD0:BitsPerSample>
- <IFD0:Compression>Uncompressed</IFD0:Compression>
- <IFD0:PhotometricInterpretation>RGB</IFD0:PhotometricInterpretation>
- <IFD0:StripOffsets>(Binary data 2373 bytes, use -b option to extract)</IFD0:StripOffsets>
- <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
- <IFD0:SamplesPerPixel>3</IFD0:SamplesPerPixel>
- <IFD0:RowsPerStrip>16</IFD0:RowsPerStrip>
- <IFD0:StripByteCounts>(Binary data 1875 bytes, use -b option to extract)</IFD0:StripByteCounts>
- <IFD0:XResolution>4800</IFD0:XResolution>
- <IFD0:YResolution>4800</IFD0:YResolution>
- <IFD0:PlanarConfiguration>Chunky</IFD0:PlanarConfiguration>
- <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
- <IFD0:PageNumber>0 0</IFD0:PageNumber>
- <XMP-x:XMPToolkit>Image::ExifTool 13.27</XMP-x:XMPToolkit>
- <XMP-dc:Creator>Bertil Dahlby</XMP-dc:Creator>
- <XMP-dc:Description>Vita villorna, tagen ca 1960-2000</XMP-dc:Description>
- <XMP-dc:Rights>Botkyrka Hembygdsgille</XMP-dc:Rights>
- <XMP-dc:Subject>#Tullinge #Vita villorna #Bostäder #Residencies #Bertil Dahlby #Botkyrka Hembygdsgille #Diabilder #Color slides #Fotografier #Photographs</XMP-dc:Subject>
- <XMP-dc:Title>Vita villorna</XMP-dc:Title>
- <XMP-photoshop:AuthorsPosition>Fotograf</XMP-photoshop:AuthorsPosition>
- <XMP-photoshop:CaptionWriter>Inguna Bodeka, Lotta Nordholm</XMP-photoshop:CaptionWriter>
- <XMP-photoshop:Country>Sverige</XMP-photoshop:Country>
- <XMP-photoshop:Credit>Bertil Dahlby, Botkyrka Hembygdsgille</XMP-photoshop:Credit>
- <XMP-photoshop:DateCreated>0000</XMP-photoshop:DateCreated>
- <XMP-photoshop:Headline>Fotografi</XMP-photoshop:Headline>
- <XMP-photoshop:Source>Botkyrka Hembygdsgille</XMP-photoshop:Source>
- <XMP-photoshop:State>Tullinge, Botkyrka kommun, Stockholms län</XMP-photoshop:State>
- <XMP-xmpRights:UsageTerms>Fotografierna skall enbart användas med tillstånd av Botkyrka Hembygdsgille i oändrat skick och vid användning av Fotografierna skall fotografens namn anges</XMP-xmpRights:UsageTerms>
- <Composite:ImageSize>6512x4288</Composite:ImageSize>
- <Composite:Megapixels>27.9</Composite:Megapixels>
-</rdf:Description>
-	</rdf:RDF>
-</xenoData>
-
 </teiHeader>
 <facsimile>
 	<surface xml:id="L3M1_0037_s">
@@ -2608,6 +1285,7 @@
 			<sourceDesc>
 				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M2_0024_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -2631,70 +1309,6 @@
 		</keywords>
 	</textClass>
 </profileDesc>
-
-<xenoData>
-	<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
-<rdf:Description rdf:about='C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata/L3M2_0024.tif'
-  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.27'
-  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
-  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
-  xmlns:File='http://ns.exiftool.org/File/1.0/'
-  xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
-  xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
-  xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
-  xmlns:XMP-photoshop='http://ns.exiftool.org/XMP/XMP-photoshop/1.0/'
-  xmlns:XMP-xmpRights='http://ns.exiftool.org/XMP/XMP-xmpRights/1.0/'
-  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
- <ExifTool:ExifToolVersion>13.27</ExifTool:ExifToolVersion>
- <System:FileName>L3M2_0024.tif</System:FileName>
- <System:Directory>C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata</System:Directory>
- <System:FileSize>83 MB</System:FileSize>
- <System:FileModifyDate>2025:05:05 16:56:05+02:00</System:FileModifyDate>
- <System:FileAccessDate>2025:05:06 18:14:13+02:00</System:FileAccessDate>
- <System:FileCreateDate>2025:05:06 18:13:29+02:00</System:FileCreateDate>
- <System:FilePermissions>-rw-rw-rw-</System:FilePermissions>
- <File:FileType>TIFF</File:FileType>
- <File:FileTypeExtension>tif</File:FileTypeExtension>
- <File:MIMEType>image/tiff</File:MIMEType>
- <File:ExifByteOrder>Little-endian (Intel, II)</File:ExifByteOrder>
- <File:PageCount>1</File:PageCount>
- <IFD0:SubfileType>Single page of multi-page image</IFD0:SubfileType>
- <IFD0:ImageWidth>6480</IFD0:ImageWidth>
- <IFD0:ImageHeight>4256</IFD0:ImageHeight>
- <IFD0:BitsPerSample>8 8 8</IFD0:BitsPerSample>
- <IFD0:Compression>Uncompressed</IFD0:Compression>
- <IFD0:PhotometricInterpretation>RGB</IFD0:PhotometricInterpretation>
- <IFD0:StripOffsets>(Binary data 2354 bytes, use -b option to extract)</IFD0:StripOffsets>
- <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
- <IFD0:SamplesPerPixel>3</IFD0:SamplesPerPixel>
- <IFD0:RowsPerStrip>16</IFD0:RowsPerStrip>
- <IFD0:StripByteCounts>(Binary data 1861 bytes, use -b option to extract)</IFD0:StripByteCounts>
- <IFD0:XResolution>4800</IFD0:XResolution>
- <IFD0:YResolution>4800</IFD0:YResolution>
- <IFD0:PlanarConfiguration>Chunky</IFD0:PlanarConfiguration>
- <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
- <IFD0:PageNumber>0 0</IFD0:PageNumber>
- <XMP-x:XMPToolkit>Image::ExifTool 13.27</XMP-x:XMPToolkit>
- <XMP-dc:Creator>Bertil Dahlby</XMP-dc:Creator>
- <XMP-dc:Description>Tumba station och centrum, tagen ca 1960-2000</XMP-dc:Description>
- <XMP-dc:Rights>Botkyrka Hembygdsgille</XMP-dc:Rights>
- <XMP-dc:Subject>#Tumba #Järnvägsstationer #Railroad stations #Centrum #City centers #Bertil Dahlby #Botkyrka Hembygdsgille #Diabilder #Color slides #Fotografier #Photographs</XMP-dc:Subject>
- <XMP-dc:Title>Tumba station och centrum</XMP-dc:Title>
- <XMP-photoshop:AuthorsPosition>Fotograf</XMP-photoshop:AuthorsPosition>
- <XMP-photoshop:CaptionWriter>Inguna Bodeka, Lotta Nordholm</XMP-photoshop:CaptionWriter>
- <XMP-photoshop:Country>Sverige</XMP-photoshop:Country>
- <XMP-photoshop:Credit>Bertil Dahlby, Botkyrka Hembygdsgille</XMP-photoshop:Credit>
- <XMP-photoshop:DateCreated>0000</XMP-photoshop:DateCreated>
- <XMP-photoshop:Headline>Fotografi</XMP-photoshop:Headline>
- <XMP-photoshop:Source>Botkyrka Hembygdsgille</XMP-photoshop:Source>
- <XMP-photoshop:State>Tumba, Botkyrka kommun, Stockholms län</XMP-photoshop:State>
- <XMP-xmpRights:UsageTerms>Fotografierna skall enbart användas med tillstånd av Botkyrka Hembygdsgille i oändrat skick och vid användning av Fotografierna skall fotografens namn anges</XMP-xmpRights:UsageTerms>
- <Composite:ImageSize>6480x4256</Composite:ImageSize>
- <Composite:Megapixels>27.6</Composite:Megapixels>
-</rdf:Description>
-	</rdf:RDF>
-</xenoData>
-
 </teiHeader>
 <facsimile>
 	<surface xml:id="L3M2_0024_s">
@@ -2727,6 +1341,7 @@
 			<sourceDesc>
 				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M2_0038_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -2748,70 +1363,6 @@
 		</keywords>
 	</textClass>
 </profileDesc>
-
-<xenoData>
-	<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
-<rdf:Description rdf:about='C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata/L3M2_0038.tif'
-  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.27'
-  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
-  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
-  xmlns:File='http://ns.exiftool.org/File/1.0/'
-  xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
-  xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
-  xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
-  xmlns:XMP-photoshop='http://ns.exiftool.org/XMP/XMP-photoshop/1.0/'
-  xmlns:XMP-xmpRights='http://ns.exiftool.org/XMP/XMP-xmpRights/1.0/'
-  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
- <ExifTool:ExifToolVersion>13.27</ExifTool:ExifToolVersion>
- <System:FileName>L3M2_0038.tif</System:FileName>
- <System:Directory>C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata</System:Directory>
- <System:FileSize>82 MB</System:FileSize>
- <System:FileModifyDate>2025:05:05 16:56:08+02:00</System:FileModifyDate>
- <System:FileAccessDate>2025:05:06 18:14:14+02:00</System:FileAccessDate>
- <System:FileCreateDate>2025:05:06 18:13:31+02:00</System:FileCreateDate>
- <System:FilePermissions>-rw-rw-rw-</System:FilePermissions>
- <File:FileType>TIFF</File:FileType>
- <File:FileTypeExtension>tif</File:FileTypeExtension>
- <File:MIMEType>image/tiff</File:MIMEType>
- <File:ExifByteOrder>Little-endian (Intel, II)</File:ExifByteOrder>
- <File:PageCount>1</File:PageCount>
- <IFD0:SubfileType>Single page of multi-page image</IFD0:SubfileType>
- <IFD0:ImageWidth>6480</IFD0:ImageWidth>
- <IFD0:ImageHeight>4240</IFD0:ImageHeight>
- <IFD0:BitsPerSample>8 8 8</IFD0:BitsPerSample>
- <IFD0:Compression>Uncompressed</IFD0:Compression>
- <IFD0:PhotometricInterpretation>RGB</IFD0:PhotometricInterpretation>
- <IFD0:StripOffsets>(Binary data 2345 bytes, use -b option to extract)</IFD0:StripOffsets>
- <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
- <IFD0:SamplesPerPixel>3</IFD0:SamplesPerPixel>
- <IFD0:RowsPerStrip>16</IFD0:RowsPerStrip>
- <IFD0:StripByteCounts>(Binary data 1854 bytes, use -b option to extract)</IFD0:StripByteCounts>
- <IFD0:XResolution>4800</IFD0:XResolution>
- <IFD0:YResolution>4800</IFD0:YResolution>
- <IFD0:PlanarConfiguration>Chunky</IFD0:PlanarConfiguration>
- <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
- <IFD0:PageNumber>0 0</IFD0:PageNumber>
- <XMP-x:XMPToolkit>Image::ExifTool 13.27</XMP-x:XMPToolkit>
- <XMP-dc:Creator>Bertil Dahlby</XMP-dc:Creator>
- <XMP-dc:Description>Tumba centrum, tagen ca 1960-2000</XMP-dc:Description>
- <XMP-dc:Rights>Botkyrka Hembygdsgille</XMP-dc:Rights>
- <XMP-dc:Subject>#Tumba #Centrum #City centers #Bertil Dahlby #Botkyrka Hembygdsgille #Diabilder #Color slides #Fotografier #Photographs</XMP-dc:Subject>
- <XMP-dc:Title>Tumba centrum</XMP-dc:Title>
- <XMP-photoshop:AuthorsPosition>Fotograf</XMP-photoshop:AuthorsPosition>
- <XMP-photoshop:CaptionWriter>Inguna Bodeka, Lotta Nordholm</XMP-photoshop:CaptionWriter>
- <XMP-photoshop:Country>Sverige</XMP-photoshop:Country>
- <XMP-photoshop:Credit>Bertil Dahlby, Botkyrka Hembygdsgille</XMP-photoshop:Credit>
- <XMP-photoshop:DateCreated>0000</XMP-photoshop:DateCreated>
- <XMP-photoshop:Headline>Fotografi</XMP-photoshop:Headline>
- <XMP-photoshop:Source>Botkyrka Hembygdsgille</XMP-photoshop:Source>
- <XMP-photoshop:State>Tumba, Botkyrka kommun, Stockholms län</XMP-photoshop:State>
- <XMP-xmpRights:UsageTerms>Fotografierna skall enbart användas med tillstånd av Botkyrka Hembygdsgille i oändrat skick och vid användning av Fotografierna skall fotografens namn anges</XMP-xmpRights:UsageTerms>
- <Composite:ImageSize>6480x4240</Composite:ImageSize>
- <Composite:Megapixels>27.5</Composite:Megapixels>
-</rdf:Description>
-	</rdf:RDF>
-</xenoData>
-
 </teiHeader>
 <facsimile>
 	<surface xml:id="L3M2_0038_s">
@@ -2845,6 +1396,7 @@
 			<sourceDesc>
 				<p>Original är fysisk diabild.<date when="2025-03-21">21 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L4M2_0028_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -2867,70 +1419,6 @@
 		</keywords>
 	</textClass>
 </profileDesc>
-
-<xenoData>
-	<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
-<rdf:Description rdf:about='C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata/L3M2_0038.tif'
-  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.27'
-  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
-  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
-  xmlns:File='http://ns.exiftool.org/File/1.0/'
-  xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
-  xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
-  xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
-  xmlns:XMP-photoshop='http://ns.exiftool.org/XMP/XMP-photoshop/1.0/'
-  xmlns:XMP-xmpRights='http://ns.exiftool.org/XMP/XMP-xmpRights/1.0/'
-  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
- <ExifTool:ExifToolVersion>13.27</ExifTool:ExifToolVersion>
- <System:FileName>L4M2_0028.tif</System:FileName>
- <System:Directory>C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata</System:Directory>
- <System:FileSize>83 MB</System:FileSize>
- <System:FileModifyDate>2025:05:05 16:56:11+02:00</System:FileModifyDate>
- <System:FileAccessDate>2025:05:06 18:14:11+02:00</System:FileAccessDate>
- <System:FileCreateDate>2025:05:06 18:13:32+02:00</System:FileCreateDate>
- <System:FilePermissions>-rw-rw-rw-</System:FilePermissions>
- <File:FileType>TIFF</File:FileType>
- <File:FileTypeExtension>tif</File:FileTypeExtension>
- <File:MIMEType>image/tiff</File:MIMEType>
- <File:ExifByteOrder>Little-endian (Intel, II)</File:ExifByteOrder>
- <File:PageCount>1</File:PageCount>
- <IFD0:SubfileType>Single page of multi-page image</IFD0:SubfileType>
- <IFD0:ImageWidth>6464</IFD0:ImageWidth>
- <IFD0:ImageHeight>4304</IFD0:ImageHeight>
- <IFD0:BitsPerSample>8 8 8</IFD0:BitsPerSample>
- <IFD0:Compression>Uncompressed</IFD0:Compression>
- <IFD0:PhotometricInterpretation>RGB</IFD0:PhotometricInterpretation>
- <IFD0:StripOffsets>(Binary data 2381 bytes, use -b option to extract)</IFD0:StripOffsets>
- <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
- <IFD0:SamplesPerPixel>3</IFD0:SamplesPerPixel>
- <IFD0:RowsPerStrip>16</IFD0:RowsPerStrip>
- <IFD0:StripByteCounts>(Binary data 1882 bytes, use -b option to extract)</IFD0:StripByteCounts>
- <IFD0:XResolution>4800</IFD0:XResolution>
- <IFD0:YResolution>4800</IFD0:YResolution>
- <IFD0:PlanarConfiguration>Chunky</IFD0:PlanarConfiguration>
- <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
- <IFD0:PageNumber>0 0</IFD0:PageNumber>
- <XMP-x:XMPToolkit>Image::ExifTool 13.27</XMP-x:XMPToolkit>
- <XMP-dc:Creator>Bertil Dahlby</XMP-dc:Creator>
- <XMP-dc:Description>Hågelby hus, tagen ca 1960-2000</XMP-dc:Description>
- <XMP-dc:Rights>Botkyrka Hembygdsgille</XMP-dc:Rights>
- <XMP-dc:Subject>#Tumba #Hågelby #Herrgårdar #Mansions #Bertil Dahlby #Botkyrka Hembygdsgille #Diabilder #Color slides #Fotografier #Photographs</XMP-dc:Subject>
- <XMP-dc:Title>Hågelby</XMP-dc:Title>
- <XMP-photoshop:AuthorsPosition>Fotograf</XMP-photoshop:AuthorsPosition>
- <XMP-photoshop:CaptionWriter>Inguna Bodeka, Lotta Nordholm</XMP-photoshop:CaptionWriter>
- <XMP-photoshop:Country>Sverige</XMP-photoshop:Country>
- <XMP-photoshop:Credit>Bertil Dahlby, Botkyrka Hembygdsgille</XMP-photoshop:Credit>
- <XMP-photoshop:DateCreated>0000</XMP-photoshop:DateCreated>
- <XMP-photoshop:Headline>Fotografi</XMP-photoshop:Headline>
- <XMP-photoshop:Source>Botkyrka Hembygdsgille</XMP-photoshop:Source>
- <XMP-photoshop:State>Tumba, Botkyrka kommun, Stockholms län</XMP-photoshop:State>
- <XMP-xmpRights:UsageTerms>Fotografierna skall enbart användas med tillstånd av Botkyrka Hembygdsgille i oändrat skick och vid användning av Fotografierna skall fotografens namn anges</XMP-xmpRights:UsageTerms>
- <Composite:ImageSize>6464x4304</Composite:ImageSize>
- <Composite:Megapixels>27.8</Composite:Megapixels>
-</rdf:Description>
-	</rdf:RDF>
-</xenoData>
-
 </teiHeader>
 <facsimile>
 	<surface xml:id="L4M2_0028_s">
@@ -2964,6 +1452,7 @@
 			<sourceDesc>
 				<p>Original är fysisk diabild. <date when="2025-03-21">21 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L4M2_0036_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -2986,70 +1475,6 @@
 		</keywords>
 	</textClass>
 </profileDesc>
-
-<xenoData>
-	<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
-<rdf:Description rdf:about='C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata/L4M2_0036.tif'
-  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.27'
-  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
-  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
-  xmlns:File='http://ns.exiftool.org/File/1.0/'
-  xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
-  xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
-  xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
-  xmlns:XMP-photoshop='http://ns.exiftool.org/XMP/XMP-photoshop/1.0/'
-  xmlns:XMP-xmpRights='http://ns.exiftool.org/XMP/XMP-xmpRights/1.0/'
-  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
- <ExifTool:ExifToolVersion>13.27</ExifTool:ExifToolVersion>
- <System:FileName>L4M2_0036.tif</System:FileName>
- <System:Directory>C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata</System:Directory>
- <System:FileSize>84 MB</System:FileSize>
- <System:FileModifyDate>2025:05:05 16:56:13+02:00</System:FileModifyDate>
- <System:FileAccessDate>2025:05:06 18:14:11+02:00</System:FileAccessDate>
- <System:FileCreateDate>2025:05:06 18:13:33+02:00</System:FileCreateDate>
- <System:FilePermissions>-rw-rw-rw-</System:FilePermissions>
- <File:FileType>TIFF</File:FileType>
- <File:FileTypeExtension>tif</File:FileTypeExtension>
- <File:MIMEType>image/tiff</File:MIMEType>
- <File:ExifByteOrder>Little-endian (Intel, II)</File:ExifByteOrder>
- <File:PageCount>1</File:PageCount>
- <IFD0:SubfileType>Single page of multi-page image</IFD0:SubfileType>
- <IFD0:ImageWidth>6512</IFD0:ImageWidth>
- <IFD0:ImageHeight>4304</IFD0:ImageHeight>
- <IFD0:BitsPerSample>8 8 8</IFD0:BitsPerSample>
- <IFD0:Compression>Uncompressed</IFD0:Compression>
- <IFD0:PhotometricInterpretation>RGB</IFD0:PhotometricInterpretation>
- <IFD0:StripOffsets>(Binary data 2382 bytes, use -b option to extract)</IFD0:StripOffsets>
- <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
- <IFD0:SamplesPerPixel>3</IFD0:SamplesPerPixel>
- <IFD0:RowsPerStrip>16</IFD0:RowsPerStrip>
- <IFD0:StripByteCounts>(Binary data 1882 bytes, use -b option to extract)</IFD0:StripByteCounts>
- <IFD0:XResolution>4800</IFD0:XResolution>
- <IFD0:YResolution>4800</IFD0:YResolution>
- <IFD0:PlanarConfiguration>Chunky</IFD0:PlanarConfiguration>
- <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
- <IFD0:PageNumber>0 0</IFD0:PageNumber>
- <XMP-x:XMPToolkit>Image::ExifTool 13.27</XMP-x:XMPToolkit>
- <XMP-dc:Creator>Bertil Dahlby</XMP-dc:Creator>
- <XMP-dc:Description>Hågelby hus (huvudbyggnaden), tagen ca 1960-2000</XMP-dc:Description>
- <XMP-dc:Rights>Botkyrka Hembygdsgille</XMP-dc:Rights>
- <XMP-dc:Subject>#Tumba #Hågelby #Herrgårdar #Mansions #Bertil Dahlby #Botkyrka Hembygdsgille #Diabilder #Color slides #Fotografier #Photographs</XMP-dc:Subject>
- <XMP-dc:Title>Hågelby, huvudbyggnaden</XMP-dc:Title>
- <XMP-photoshop:AuthorsPosition>Fotograf</XMP-photoshop:AuthorsPosition>
- <XMP-photoshop:CaptionWriter>Inguna Bodeka, Lotta Nordholm</XMP-photoshop:CaptionWriter>
- <XMP-photoshop:Country>Sverige</XMP-photoshop:Country>
- <XMP-photoshop:Credit>Bertil Dahlby, Botkyrka Hembygdsgille</XMP-photoshop:Credit>
- <XMP-photoshop:DateCreated>0000</XMP-photoshop:DateCreated>
- <XMP-photoshop:Headline>Fotografi</XMP-photoshop:Headline>
- <XMP-photoshop:Source>Botkyrka Hembygdsgille</XMP-photoshop:Source>
- <XMP-photoshop:State>Tumba, Botkyrka kommun, Stockholms län</XMP-photoshop:State>
- <XMP-xmpRights:UsageTerms>Fotografierna skall enbart användas med tillstånd av Botkyrka Hembygdsgille i oändrat skick och vid användning av Fotografierna skall fotografens namn anges</XMP-xmpRights:UsageTerms>
- <Composite:ImageSize>6512x4304</Composite:ImageSize>
- <Composite:Megapixels>28.0</Composite:Megapixels>
-</rdf:Description>
-	</rdf:RDF>
-</xenoData>
-
 </teiHeader>
 <facsimile>
 	<surface xml:id="L4M2_0036_s">
