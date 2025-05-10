@@ -45,28 +45,34 @@
                     <persName>Alex Östberg</persName> 
 				</authority>
 				<availability status="restricted">
-					<p> Genom ett avtal mellan <persName ref="Bertil Dahlby">Bertil Dahlby</persName> och <orgName ref="https://www.hembygd.se/botkyrka">
-					Botkyrka Hembygdsgille</orgName> har Hembygdsgillet erhållit rätten att förvalta och medge användning av diabilderna. 
-					Avtalets titel är "AVTAl avseende överlåtelse av fotografiska verk/bilder".Publicering av den digitaliserade material i projekt "Bertil Dahlbys bilder från Botkyrka" 
-					sker med <orgName ref="https://www.hembygd.se/botkyrka">Botkyrka Hembygdsgille</orgName> tillstånd.</p>
+					<p> Genom ett avtal mellan <persName>Bertil Dahlby</persName> och <orgName ref="https://www.hembygd.se/botkyrka">Botkyrka Hembygdsgille</orgName> har 
+					<orgName ref="https://www.hembygd.se/botkyrka"> Botkyrka Hembygdsgille</orgName> erhållit äganderätten till de fysiska diabilderna liksom rätten att 
+					förvalta och medge vidare användning av de. Fotografen själv behöll upphovsrätten i samband med överlåtelsen.</p>
+					
+					<p>Avtalets titel är <title level="u">"Avtal avseende överlåtelse av fotografiska verk/bilder"</title>.</p>
+
 					<p>Fotografierna skall enbart användas med tillstånd av <orgName ref="https://www.hembygd.se/botkyrka">Botkyrka Hembygdsgille</orgName> i oändrat skick 
-					och vid användning av Fotografierna skall fotografens namn anges.</p>
+					och vid användning av Fotografierna skall fotografens <persName>Bertil Dahlby</persName> namn anges.</p>
+
+					<p>Publicering av den digitaliserade material i projekt "Bertil Dahlbys bilder från Botkyrka" sker med 
+					<orgName ref="https://www.hembygd.se/botkyrka">Botkyrka Hembygdsgille</orgName> tillstånd.</p>
+				
 				</availability>
 			</publicationStmt>
 			<sourceDesc>
 				<p>Samlingen består av 418 fysiska diabilder som förvaras hos <orgName ref="https://www.hembygd.se/botkyrka">Botkyrka Hembygdsgilles</orgName>. Digitala bildfilerna har 
 				skapats genom skanning av dessa diabilder.</p>
-				<p><orgName ref="https://www.hembygd.se/botkyrka">Botkyrka Hembygdsgille</orgName> hade skannerutrustning för digitaliseringen och framförde önskemål om hur de 
+				<p><orgName ref="https://www.hembygd.se/botkyrka">Botkyrka Hembygdsgille</orgName> tillhandahöll skannerutrustning för digitaliseringen och framförde önskemål om hur de 
 				digitala bilderna skulle hanteras.</p>
 			</sourceDesc>
 		</fileDesc>
 		<encodingDesc>
 			<projectDesc>
-				<p>Syftet av projektet är att digitalisera och publicera en del av Bertil Dahlbys fotografier som han har överlämnat till Botkyrka Hembygdsgille.</p>
+				<p>Syftet av projektet är att digitalisera och publicera en del av <persName>Bertil Dahlby</persName> fotografier som han har överlämnat till <orgName ref="https://www.hembygd.se/botkyrka">Botkyrka Hembygdsgilles</orgName>.</p>
 			</projectDesc>
 			<editorialDecl>
-				<p>Hanteringen av de digitala bilderna har gjorts i enlighet med de önskemål som framförts av Botkyrka Hembygdsgille.</p>
-				<p>Enligt önskemål från Botkyrka Hembygdsgille alla fotografier som ska publiceras har en textbeskrivning som inkluderar information om 
+				<p>Hanteringen av de digitala bilderna har gjorts i enlighet med de önskemål som framförts av B<orgName ref="https://www.hembygd.se/botkyrka">Botkyrka Hembygdsgilles</orgName>.</p>
+				<p>Enligt önskemål från <orgName ref="https://www.hembygd.se/botkyrka">Botkyrka Hembygdsgilles</orgName> alla fotografier som ska publiceras har en textbeskrivning som inkluderar information om 
 				platsen i fotografi (t.ex. Tumba centrum), fotografens namn (Fotograf: Bertil Dahlby) och rättighetsinnehavaren (Botkyrka Hembygdsgille). 
 				Syftet är att säkerställa att identifierande information och upphovsrättsinnehavare alltid är synlig i samband med bilden. 
 				Textbeskrivining på fotografier har lagts till av Alex Östberg.</p>
@@ -75,10 +81,10 @@
 		<profileDesc>
 			<creation>
 				<date notBefore="1960-01-01" notAfter="2000-12-31">ca 1960-2000</date>
-				<persName type="photographer" ref="#Bertil Dahlby">Bertil Dahlby</persName>
+				<persName type="photographer">Bertil Dahlby</persName>
 			</creation>
 			<langUsage>
-				<language ident="SV">Svenska</language>
+				<language ident="sv">Svenska</language>
 			</langUsage>
 			<textClass>
 				<keywords scheme="https://www.getty.edu/research/tools/vocabularies/aat/">
@@ -115,14 +121,14 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. Skannad 2025-03-18. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				<p>Original är fysisk diabild. Skannad <date when="2025-03-18">18 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
 				</p>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<persName type="photographer" ref="#Bertil Dahlby">Bertil Dahlby</persName>
+				<persName type="photographer">Bertil Dahlby</persName>
 		</creation>
 	<textClass>
 		<keywords scheme="https://www.getty.edu/research/tools/vocabularies/aat/"> 
@@ -137,9 +143,6 @@
 			</list>
 		</keywords>
 	</textClass>
-	<abstract>
-		<p>Tumba med kommunhuset, tagen ca 1960-2000</p>
-	</abstract>
 </profileDesc>
 
 <xenoData>
@@ -220,13 +223,6 @@
 	</figure>
 </surface>
 </facsimile>
-<text>
-	<body>
-		<div>
-			<p></p>
-		</div>
-    </body>
-</text>
 </TEI>
 
 
@@ -243,14 +239,14 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. Skannad 2025-03-18. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				<p>Original är fysisk diabild. Skannad <date when="2025-03-18">18 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
 				</p>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<persName type="photographer" ref="#Bertil Dahlby">Bertil Dahlby</persName>
+				<persName type="photographer">Bertil Dahlby</persName>
 		</creation>
 	<textClass>
 		<keywords scheme="https://www.getty.edu/research/tools/vocabularies/aat/"> 
@@ -267,9 +263,6 @@
 			</list>
 		</keywords>
 	</textClass>
-	<abstract>
-		<p>Tumba stations godsmagasin, tagen ca 1960-2000</p>
-	</abstract>
 </profileDesc>
 
 <xenoData>
@@ -350,13 +343,6 @@
 	</figure>
 </surface>
 </facsimile>
-<text>
-	<body>
-		<div>
-			<p></p>
-		</div>
-    </body>
-</text>
 </TEI>
 
 
@@ -373,14 +359,14 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. Skannad 2025-03-18. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				<p>Original är fysisk diabild. Skannad <date when="2025-03-18">18 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
 				</p>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<persName type="photographer" ref="#Bertil Dahlby">Bertil Dahlby</persName>
+				<persName type="photographer">Bertil Dahlby</persName>
 		</creation>
 	<textClass>
 		<keywords scheme="https://www.getty.edu/research/tools/vocabularies/aat/"> 
@@ -395,9 +381,6 @@
 			</list>
 		</keywords>
 	</textClass>
-	<abstract>
-		<p>Tumba gamla station, tagen ca 1960-2000</p>
-	</abstract>
 </profileDesc>
 
 <xenoData>
@@ -478,13 +461,6 @@
 	</figure>
 </surface>
 </facsimile>
-<text>
-	<body>
-		<div>
-			<p></p>
-		</div>
-    </body>
-</text>
 </TEI>
 
 
@@ -501,14 +477,14 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. Skannad 2025-03-18. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				<p>Original är fysisk diabild. Skannad <date when="2025-03-18">18 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
 				</p>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<persName type="photographer" ref="#Bertil Dahlby">Bertil Dahlby</persName>
+				<persName type="photographer">Bertil Dahlby</persName>
 		</creation>
 	<textClass>
 		<keywords scheme="https://www.getty.edu/research/tools/vocabularies/aat/"> 
@@ -524,9 +500,6 @@
 			</list>
 		</keywords>
 	</textClass>
-	<abstract>
-		<p>Missionshuset Tabor, tagen ca 1960-2000</p>
-	</abstract>
 </profileDesc>
 
 <xenoData>
@@ -607,13 +580,6 @@
 	</figure>
 </surface>
 </facsimile>
-<text>
-	<body>
-		<div>
-			<p></p>
-		</div>
-    </body>
-</text>
 </TEI>
 
 
@@ -630,14 +596,14 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. Skannad 2025-03-19. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
 				</p>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<persName type="photographer" ref="#Bertil Dahlby">Bertil Dahlby</persName>
+				<persName type="photographer">Bertil Dahlby</persName>
 		</creation>
 	<textClass>
 		<keywords scheme="https://www.getty.edu/research/tools/vocabularies/aat/"> 
@@ -652,9 +618,6 @@
 			</list>
 		</keywords>
 	</textClass>
-	<abstract>
-		<p>Tumba pappersbruk, tagen ca 1960-2000</p>
-	</abstract>
 </profileDesc>
 
 <xenoData>
@@ -735,13 +698,6 @@
 	</figure>
 </surface>
 </facsimile>
-<text>
-	<body>
-		<div>
-			<p></p>
-		</div>
-    </body>
-</text>
 </TEI>
 
 
@@ -758,14 +714,14 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. Skannad 2025-03-19. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
 				</p>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<persName type="photographer" ref="#Bertil Dahlby">Bertil Dahlby</persName>
+				<persName type="photographer">Bertil Dahlby</persName>
 		</creation>
 	<textClass>
 		<keywords scheme="https://www.getty.edu/research/tools/vocabularies/aat/"> 
@@ -780,9 +736,6 @@
 			</list>
 		</keywords>
 	</textClass>
-	<abstract>
-		<p>Tumba torg, tagen ca 1960-2000</p>
-	</abstract>
 </profileDesc>
 
 <xenoData>
@@ -863,13 +816,6 @@
 	</figure>
 </surface>
 </facsimile>
-<text>
-	<body>
-		<div>
-			<p></p>
-		</div>
-    </body>
-</text>
 </TEI>
 
 
@@ -886,14 +832,14 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. Skannad 2025-03-19. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				<p>Original är fysisk diabild.<date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
 				</p>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<persName type="photographer" ref="#Bertil Dahlby">Bertil Dahlby</persName>
+				<persName type="photographer">Bertil Dahlby</persName>
 		</creation>
 	<textClass>
 		<keywords scheme="https://www.getty.edu/research/tools/vocabularies/aat/"> 
@@ -908,9 +854,6 @@
 			</list>
 		</keywords>
 	</textClass>
-	<abstract>
-		<p>Tumba pappersbruk, tagen ca 1960-2000</p>
-	</abstract>
 </profileDesc>
 
 <xenoData>
@@ -991,13 +934,6 @@
 	</figure>
 </surface>
 </facsimile>
-<text>
-	<body>
-		<div>
-			<p></p>
-		</div>
-    </body>
-</text>
 </TEI>
 
 
@@ -1014,14 +950,14 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. Skannad 2025-03-19. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
 				</p>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<persName type="photographer" ref="#Bertil Dahlby">Bertil Dahlby</persName>
+				<persName type="photographer">Bertil Dahlby</persName>
 		</creation>
 	<textClass>
 		<keywords scheme="https://www.getty.edu/research/tools/vocabularies/aat/"> 
@@ -1037,9 +973,6 @@
 			</list>
 		</keywords>
 	</textClass>
-	<abstract>
-		<p>Sturehovs herrgård, tagen ca 1960-2000</p>
-	</abstract>
 </profileDesc>
 
 <xenoData>
@@ -1120,13 +1053,6 @@
 	</figure>
 </surface>
 </facsimile>
-<text>
-	<body>
-		<div>
-			<p></p>
-		</div>
-    </body>
-</text>
 </TEI>
 
 
@@ -1143,14 +1069,14 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. Skannad 2025-03-19. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
 				</p>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<persName type="photographer" ref="#Bertil Dahlby">Bertil Dahlby</persName>
+				<persName type="photographer">Bertil Dahlby</persName>
 		</creation>
 	<textClass>
 		<keywords scheme="https://www.getty.edu/research/tools/vocabularies/aat/"> 
@@ -1166,9 +1092,6 @@
 			</list>
 		</keywords>
 	</textClass>
-	<abstract>
-		<p>Sommarvilla Sillvik, tagen ca 1960-2000</p>
-	</abstract>
 </profileDesc>
 
 <xenoData>
@@ -1249,13 +1172,6 @@
 	</figure>
 </surface>
 </facsimile>
-<text>
-	<body>
-		<div>
-			<p></p>
-		</div>
-    </body>
-</text>
 </TEI>
 
 
@@ -1272,14 +1188,14 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. Skannad 2025-03-19. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
 				</p>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<persName type="photographer" ref="#Bertil Dahlby">Bertil Dahlby</persName>
+				<persName type="photographer">Bertil Dahlby</persName>
 		</creation>
 	<textClass>
 		<keywords scheme="https://www.getty.edu/research/tools/vocabularies/aat/"> 
@@ -1294,9 +1210,6 @@
 			</list>
 		</keywords>
 	</textClass>
-	<abstract>
-		<p>Norsborgs herrgård, tagen ca 1960-2000</p>
-	</abstract>
 </profileDesc>
 
 <xenoData>
@@ -1377,13 +1290,6 @@
 	</figure>
 </surface>
 </facsimile>
-<text>
-	<body>
-		<div>
-			<p></p>
-		</div>
-    </body>
-</text>
 </TEI>
 
 <TEI xml:id="L2M2_0037">
@@ -1399,14 +1305,14 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. Skannad 2025-03-19. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
 				</p>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<persName type="photographer" ref="#Bertil Dahlby">Bertil Dahlby</persName>
+				<persName type="photographer">Bertil Dahlby</persName>
 		</creation>
 	<textClass>
 		<keywords scheme="https://www.getty.edu/research/tools/vocabularies/aat/"> 
@@ -1422,9 +1328,6 @@
 			</list>
 		</keywords>
 	</textClass>
-	<abstract>
-		<p>Alby gård, tagen ca 1960-2000</p>
-	</abstract>
 </profileDesc>
 
 <xenoData>
@@ -1505,13 +1408,6 @@
 	</figure>
 </surface>
 </facsimile>
-<text>
-	<body>
-		<div>
-			<p></p>
-		</div>
-    </body>
-</text>
 </TEI>
 
 
@@ -1528,14 +1424,14 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. Skannad 2025-03-19. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
 				</p>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<persName type="photographer" ref="#Bertil Dahlby">Bertil Dahlby</persName>
+				<persName type="photographer">Bertil Dahlby</persName>
 		</creation>
 	<textClass>
 		<keywords scheme="https://www.getty.edu/research/tools/vocabularies/aat/"> 
@@ -1551,9 +1447,6 @@
 			</list>
 		</keywords>
 	</textClass>
-	<abstract>
-		<p>Gula villan vid Alby gård, tagen ca 1960-2000</p>
-	</abstract>
 </profileDesc>
 
 <xenoData>
@@ -1634,13 +1527,6 @@
 	</figure>
 </surface>
 </facsimile>
-<text>
-	<body>
-		<div>
-			<p></p>
-		</div>
-    </body>
-</text>
 </TEI>
 
 <TEI xml:id="L3M1_0002">
@@ -1656,14 +1542,14 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. Skannad 2025-03-19. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
 				</p>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<persName type="photographer" ref="#Bertil Dahlby">Bertil Dahlby</persName>
+				<persName type="photographer">Bertil Dahlby</persName>
 		</creation>
 	<textClass>
 		<keywords scheme="https://www.getty.edu/research/tools/vocabularies/aat/"> 
@@ -1678,9 +1564,6 @@
 			</list>
 		</keywords>
 	</textClass>
-	<abstract>
-		<p>Ålderdomshemmet vid Botkyrka kyrka, tagen ca 1960-2000</p>
-	</abstract>
 </profileDesc>
 
 <xenoData>
@@ -1761,13 +1644,6 @@
 	</figure>
 </surface>
 </facsimile>
-<text>
-	<body>
-		<div>
-			<p></p>
-		</div>
-    </body>
-</text>
 </TEI>
 
 
@@ -1784,14 +1660,14 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. Skannad 2025-03-19. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
 				</p>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<persName type="photographer" ref="#Bertil Dahlby">Bertil Dahlby</persName>
+				<persName type="photographer">Bertil Dahlby</persName>
 		</creation>
 	<textClass>
 		<keywords scheme="https://www.getty.edu/research/tools/vocabularies/aat/"> 
@@ -1806,9 +1682,6 @@
 			</list>
 		</keywords>
 	</textClass>
-	<abstract>
-		<p>Botkyrka kyrka, tagen ca 1960-2000</p>
-	</abstract>
 </profileDesc>
 
 <xenoData>
@@ -1889,13 +1762,6 @@
 	</figure>
 </surface>
 </facsimile>
-<text>
-	<body>
-		<div>
-			<p></p>
-		</div>
-    </body>
-</text>
 </TEI>
 
 
@@ -1912,14 +1778,14 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. Skannad 2025-03-19. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
 				</p>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<persName type="photographer" ref="#Bertil Dahlby">Bertil Dahlby</persName>
+				<persName type="photographer">Bertil Dahlby</persName>
 		</creation>
 	<textClass>
 		<keywords scheme="https://www.getty.edu/research/tools/vocabularies/aat/"> 
@@ -1935,9 +1801,6 @@
 			</list>
 		</keywords>
 	</textClass>
-	<abstract>
-		<p>Klockargården vid Botkyrka kyrka (församlingshem), tagen ca 1960-2000</p>
-	</abstract>
 </profileDesc>
 
 <xenoData>
@@ -2018,13 +1881,6 @@
 	</figure>
 </surface>
 </facsimile>
-<text>
-	<body>
-		<div>
-			<p></p>
-		</div>
-    </body>
-</text>
 </TEI>
 
 
@@ -2041,14 +1897,14 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. Skannad 2025-03-19. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
 				</p>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<persName type="photographer" ref="#Bertil Dahlby">Bertil Dahlby</persName>
+				<persName type="photographer">Bertil Dahlby</persName>
 		</creation>
 	<textClass>
 		<keywords scheme="https://www.getty.edu/research/tools/vocabularies/aat/"> 
@@ -2063,9 +1919,6 @@
 			</list>
 		</keywords>
 	</textClass>
-	<abstract>
-		<p>Tullinge gård, tagen ca 1960-2000</p>
-	</abstract>
 </profileDesc>
 
 <xenoData>
@@ -2146,13 +1999,6 @@
 	</figure>
 </surface>
 </facsimile>
-<text>
-	<body>
-		<div>
-			<p></p>
-		</div>
-    </body>
-</text>
 </TEI>
 
 <TEI xml:id="L3M1_0017">
@@ -2168,14 +2014,14 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. Skannad 2025-03-19. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
 				</p>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<persName type="photographer" ref="#Bertil Dahlby">Bertil Dahlby</persName>
+				<persName type="photographer">Bertil Dahlby</persName>
 		</creation>
 	<textClass>
 		<keywords scheme="https://www.getty.edu/research/tools/vocabularies/aat/"> 
@@ -2191,9 +2037,6 @@
 			</list>
 		</keywords>
 	</textClass>
-	<abstract>
-		<p>Falkbergsskolan, tagen ca 1960-2000</p>
-	</abstract>
 </profileDesc>
 
 <xenoData>
@@ -2274,13 +2117,6 @@
 	</figure>
 </surface>
 </facsimile>
-<text>
-	<body>
-		<div>
-			<p></p>
-		</div>
-    </body>
-</text>
 </TEI>
 
 
@@ -2297,14 +2133,14 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. Skannad 2025-03-19. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
 				</p>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<persName type="photographer" ref="#Bertil Dahlby">Bertil Dahlby</persName>
+				<persName type="photographer">Bertil Dahlby</persName>
 		</creation>
 	<textClass>
 		<keywords scheme="https://www.getty.edu/research/tools/vocabularies/aat/"> 
@@ -2319,9 +2155,6 @@
 			</list>
 		</keywords>
 	</textClass>
-	<abstract>
-		<p>Tullinge kyrka, tagen ca 1960-2000</p>
-	</abstract>
 </profileDesc>
 
 <xenoData>
@@ -2402,13 +2235,6 @@
 	</figure>
 </surface>
 </facsimile>
-<text>
-	<body>
-		<div>
-			<p></p>
-		</div>
-    </body>
-</text>
 </TEI>
 
 <TEI xml:id="L3M1_0026">
@@ -2424,14 +2250,14 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. Skannad 2025-03-19. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
 				</p>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<persName type="photographer" ref="#Bertil Dahlby">Bertil Dahlby</persName>
+				<persName type="photographer">Bertil Dahlby</persName>
 		</creation>
 	<textClass>
 		<keywords scheme="https://www.getty.edu/research/tools/vocabularies/aat/"> 
@@ -2447,9 +2273,6 @@
 			</list>
 		</keywords>
 	</textClass>
-	<abstract>
-		<p>Lida Friluftsgård, tagen ca 1960-2000</p>
-	</abstract>
 </profileDesc>
 
 <xenoData>
@@ -2530,13 +2353,6 @@
 	</figure>
 </surface>
 </facsimile>
-<text>
-	<body>
-		<div>
-			<p></p>
-		</div>
-    </body>
-</text>
 </TEI>
 
 
@@ -2553,14 +2369,14 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. Skannad 2025-03-19. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
 				</p>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<persName type="photographer" ref="#Bertil Dahlby">Bertil Dahlby</persName>
+				<persName type="photographer">Bertil Dahlby</persName>
 		</creation>
 	<textClass>
 		<keywords scheme="https://www.getty.edu/research/tools/vocabularies/aat/"> 
@@ -2576,9 +2392,6 @@
 			</list>
 		</keywords>
 	</textClass>
-	<abstract>
-		<p>Akvarellen i Tullinge (lägenhetshus), tagen ca 1960-2000</p>
-	</abstract>
 </profileDesc>
 
 <xenoData>
@@ -2659,13 +2472,6 @@
 	</figure>
 </surface>
 </facsimile>
-<text>
-	<body>
-		<div>
-			<p></p>
-		</div>
-    </body>
-</text>
 </TEI>
 
 <TEI xml:id="L3M1_0037">
@@ -2681,14 +2487,14 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. Skannad 2025-03-19. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
 				</p>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<persName type="photographer" ref="#Bertil Dahlby">Bertil Dahlby</persName>
+				<persName type="photographer">Bertil Dahlby</persName>
 		</creation>
 	<textClass>
 		<keywords scheme="https://www.getty.edu/research/tools/vocabularies/aat/"> 
@@ -2704,9 +2510,6 @@
 			</list>
 		</keywords>
 	</textClass>
-	<abstract>
-		<p>Vita villorna, tagen ca 1960-2000</p>
-	</abstract>
 </profileDesc>
 
 <xenoData>
@@ -2787,13 +2590,6 @@
 	</figure>
 </surface>
 </facsimile>
-<text>
-	<body>
-		<div>
-			<p></p>
-		</div>
-    </body>
-</text>
 </TEI>
 
 
@@ -2810,14 +2606,14 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. Skannad 2025-03-19. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
 				</p>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<persName type="photographer" ref="#Bertil Dahlby">Bertil Dahlby</persName>
+				<persName type="photographer">Bertil Dahlby</persName>
 		</creation>
 	<textClass>
 		<keywords scheme="https://www.getty.edu/research/tools/vocabularies/aat/"> 
@@ -2834,9 +2630,6 @@
 			</list>
 		</keywords>
 	</textClass>
-	<abstract>
-		<p>Tumba station och centrum, tagen ca 1960-2000</p>
-	</abstract>
 </profileDesc>
 
 <xenoData>
@@ -2917,13 +2710,6 @@
 	</figure>
 </surface>
 </facsimile>
-<text>
-	<body>
-		<div>
-			<p></p>
-		</div>
-    </body>
-</text>
 </TEI>
 
 <TEI xml:id="L3M2_0038">
@@ -2939,14 +2725,14 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. Skannad 2025-03-19. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
 				</p>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<persName type="photographer" ref="#Bertil Dahlby">Bertil Dahlby</persName>
+				<persName type="photographer">Bertil Dahlby</persName>
 		</creation>
 	<textClass>
 		<keywords scheme="https://www.getty.edu/research/tools/vocabularies/aat/"> 
@@ -2961,9 +2747,6 @@
 			</list>
 		</keywords>
 	</textClass>
-	<abstract>
-		<p>Tumba centrum, tagen ca 1960-2000</p>
-	</abstract>
 </profileDesc>
 
 <xenoData>
@@ -3044,13 +2827,6 @@
 	</figure>
 </surface>
 </facsimile>
-<text>
-	<body>
-		<div>
-			<p></p>
-		</div>
-    </body>
-</text>
 </TEI>
 
 
@@ -3067,14 +2843,14 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. Skannad 2025-03-21. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				<p>Original är fysisk diabild.<date when="2025-03-21">21 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
 				</p>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<persName type="photographer" ref="#Bertil Dahlby">Bertil Dahlby</persName>
+				<persName type="photographer">Bertil Dahlby</persName>
 		</creation>
 	<textClass>
 		<keywords scheme="https://www.getty.edu/research/tools/vocabularies/aat/"> 
@@ -3090,9 +2866,6 @@
 			</list>
 		</keywords>
 	</textClass>
-	<abstract>
-		<p>Hågelby hus, tagen ca 1960-2000</p>
-	</abstract>
 </profileDesc>
 
 <xenoData>
@@ -3173,13 +2946,6 @@
 	</figure>
 </surface>
 </facsimile>
-<text>
-	<body>
-		<div>
-			<p></p>
-		</div>
-    </body>
-</text>
 </TEI>
 
 
@@ -3196,14 +2962,14 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. Skannad 2025-03-21. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				<p>Original är fysisk diabild. <date when="2025-03-21">21 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
 				</p>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<persName type="photographer" ref="#Bertil Dahlby">Bertil Dahlby</persName>
+				<persName type="photographer">Bertil Dahlby</persName>
 		</creation>
 	<textClass>
 		<keywords scheme="https://www.getty.edu/research/tools/vocabularies/aat/"> 
@@ -3219,9 +2985,6 @@
 			</list>
 		</keywords>
 	</textClass>
-	<abstract>
-		<p>Hågelby hus (huvudbyggnaden), tagen ca 1960-2000</p>
-	</abstract>
 </profileDesc>
 
 <xenoData>
@@ -3302,13 +3065,6 @@
 	</figure>
 </surface>
 </facsimile>
-<text>
-	<body>
-		<div>
-			<p></p>
-		</div>
-    </body>
-</text>
 </TEI>
 
 </teiCorpus>
