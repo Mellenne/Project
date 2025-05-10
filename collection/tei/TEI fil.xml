@@ -14,6 +14,7 @@
 			    </author>
 				<editor> 
 					<persName>Inguna Bodeka</persName>
+					<persName>Kristofer Lilja</persName>
                     <persName>Alex Östberg</persName>
 				</editor>
 				<principal> 
@@ -47,20 +48,20 @@
 				<availability status="restricted">
 					<p> Genom ett avtal mellan <persName>Bertil Dahlby</persName> och <orgName ref="https://www.hembygd.se/botkyrka">Botkyrka Hembygdsgille</orgName> har 
 					<orgName ref="https://www.hembygd.se/botkyrka"> Botkyrka Hembygdsgille</orgName> erhållit äganderätten till de fysiska diabilderna liksom rätten att 
-					förvalta och medge vidare användning av de. Fotografen själv behöll upphovsrätten i samband med överlåtelsen.</p>
+					förvalta och medge vidare användning av dem. Fotografen själv behöll upphovsrätten i samband med överlåtelsen.</p>
 					
 					<p>Avtalets titel är <title level="u">"Avtal avseende överlåtelse av fotografiska verk/bilder"</title>.</p>
 
-					<p>Fotografierna skall enbart användas med tillstånd av <orgName ref="https://www.hembygd.se/botkyrka">Botkyrka Hembygdsgille</orgName> i oändrat skick 
-					och vid användning av Fotografierna skall fotografens <persName>Bertil Dahlby</persName> namn anges.</p>
+					<p>Fotografierna får enbart användas med tillstånd av <orgName ref="https://www.hembygd.se/botkyrka">Botkyrka Hembygdsgille</orgName> i oändrat skick, 
+					och vid användning av fotografierna skall fotografens, <persName>Bertil Dahlby</persName>, namn anges.</p>
 
-					<p>Publicering av den digitaliserade material i projekt "Bertil Dahlbys bilder från Botkyrka" sker med 
-					<orgName ref="https://www.hembygd.se/botkyrka">Botkyrka Hembygdsgille</orgName> tillstånd.</p>
+					<p>Publicering av den digitaliserade material i projekt "Bertil Dahlbys bilder från Botkyrka" sker med tillstånd från 
+					<orgName ref="https://www.hembygd.se/botkyrka">Botkyrka Hembygdsgille</orgName>.</p>
 				
 				</availability>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Samlingen består av 418 fysiska diabilder som förvaras hos <orgName ref="https://www.hembygd.se/botkyrka">Botkyrka Hembygdsgilles</orgName>. Digitala bildfilerna har 
+				<p>Samlingen består av 418 fysiska diabilder som förvaras hos <orgName ref="https://www.hembygd.se/botkyrka">Botkyrka Hembygdsgilles</orgName>. De digitala bildfilerna har 
 				skapats genom skanning av dessa diabilder.</p>
 				<p><orgName ref="https://www.hembygd.se/botkyrka">Botkyrka Hembygdsgille</orgName> tillhandahöll skannerutrustning för digitaliseringen och framförde önskemål om hur de 
 				digitala bilderna skulle hanteras.</p>
@@ -68,14 +69,14 @@
 		</fileDesc>
 		<encodingDesc>
 			<projectDesc>
-				<p>Syftet av projektet är att digitalisera och publicera en del av <persName>Bertil Dahlby</persName> fotografier som han har överlämnat till <orgName ref="https://www.hembygd.se/botkyrka">Botkyrka Hembygdsgilles</orgName>.</p>
+				<p>Syftet med projektet är att digitalisera de fotografier som <persName>Bertil Dahlby</persName> har överlämnat till <orgName ref="https://www.hembygd.se/botkyrka">Botkyrka Hembygdsgilles</orgName> och publicera ett urval av dessa.</p>
 			</projectDesc>
 			<editorialDecl>
-				<p>Hanteringen av de digitala bilderna har gjorts i enlighet med de önskemål som framförts av B<orgName ref="https://www.hembygd.se/botkyrka">Botkyrka Hembygdsgilles</orgName>.</p>
-				<p>Enligt önskemål från <orgName ref="https://www.hembygd.se/botkyrka">Botkyrka Hembygdsgilles</orgName> alla fotografier som ska publiceras har en textbeskrivning som inkluderar information om 
-				platsen i fotografi (t.ex. Tumba centrum), fotografens namn (Fotograf: Bertil Dahlby) och rättighetsinnehavaren (Botkyrka Hembygdsgille). 
+				<p>De digitala bilderna har hanterats i enlighet med de önskemål som framförts av <orgName ref="https://www.hembygd.se/botkyrka">Botkyrka Hembygdsgille</orgName>.</p>
+				<p>Enligt önskemål från <orgName ref="https://www.hembygd.se/botkyrka">Botkyrka Hembygdsgille</orgName> ska alla fotografier som publiceras ha en textbeskrivning som inkluderar information om 
+				platsen på fotografiet (t.ex. Tumba centrum), fotografens namn (Fotograf: Bertil Dahlby) och rättighetsinnehavaren (Botkyrka Hembygdsgille). 
 				Syftet är att säkerställa att identifierande information och upphovsrättsinnehavare alltid är synlig i samband med bilden. 
-				Textbeskrivining på fotografier har lagts till av Alex Östberg.</p>
+				Textbeskrivning på fotografier har lagts till av Alex Östberg.</p>
 			</editorialDecl>
 		</encodingDesc>
 		<profileDesc>
@@ -121,8 +122,8 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. Skannad <date when="2025-03-18">18 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
-				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				<p>Originalet är fysisk diabild. Skannad <date when="2025-03-18">18 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
 				Ytterligare teknisk metadata finns i en separat <ref target="xml/L1M2_0012_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
@@ -176,8 +177,8 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. Skannad <date when="2025-03-18">18 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
-				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				<p>Originalet är fysisk diabild. Skannad <date when="2025-03-18">18 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
 				Ytterligare teknisk metadata finns i en separat <ref target="xml/L1M2_0013_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
@@ -233,8 +234,8 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. Skannad <date when="2025-03-18">18 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
-				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				<p>Originalet är fysisk diabild. Skannad <date when="2025-03-18">18 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
 				Ytterligare teknisk metadata finns i en separat <ref target="xml/L1M2_0017_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
@@ -288,8 +289,8 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. Skannad <date when="2025-03-18">18 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
-				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				<p>Originalet är fysisk diabild. Skannad <date when="2025-03-18">18 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
 				Ytterligare teknisk metadata finns i en separat <ref target="xml/L1M2_0020_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
@@ -344,8 +345,8 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
-				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
 				Ytterligare teknisk metadata finns i en separat <ref target="xml/L2M1_0013_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
@@ -399,8 +400,8 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
-				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
 				Ytterligare teknisk metadata finns i en separat <ref target="xml/L2M2_0006_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
@@ -454,8 +455,8 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild.<date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
-				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				<p>Originalet är fysisk diabild.<date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
 				Ytterligare teknisk metadata finns i en separat <ref target="xml/L2M2_0011_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
@@ -509,8 +510,8 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
-				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
 				Ytterligare teknisk metadata finns i en separat <ref target="xml/L2M2_0020_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
@@ -565,8 +566,8 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
-				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
 				Ytterligare teknisk metadata finns i en separat <ref target="xml/L2M2_0021_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
@@ -621,8 +622,8 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
-				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
 				Ytterligare teknisk metadata finns i en separat <ref target="xml/L2M2_0022_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
@@ -675,8 +676,8 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
-				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
 				Ytterligare teknisk metadata finns i en separat <ref target="xml/L2M2_0037_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
@@ -731,8 +732,8 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
-				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
 				Ytterligare teknisk metadata finns i en separat <ref target="xml/L2M2_0038_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
@@ -786,8 +787,8 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
-				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
 				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0002_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
@@ -841,8 +842,8 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
-				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
 				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0005_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
@@ -896,8 +897,8 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
-				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
 				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0006_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
@@ -952,8 +953,8 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
-				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
 				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0016_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
@@ -1006,8 +1007,8 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
-				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
 				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0017_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
@@ -1062,8 +1063,8 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
-				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
 				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0017_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
@@ -1116,8 +1117,8 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
-				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
 				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0026_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
@@ -1172,8 +1173,8 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
-				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
 				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0034_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
@@ -1227,8 +1228,8 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
-				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
 				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0037_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
@@ -1283,8 +1284,8 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
-				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
 				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M2_0024_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
@@ -1339,8 +1340,8 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
-				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
 				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M2_0038_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
@@ -1394,8 +1395,8 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild.<date when="2025-03-21">21 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
-				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				<p>Originalet är fysisk diabild.<date when="2025-03-21">21 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
 				Ytterligare teknisk metadata finns i en separat <ref target="xml/L4M2_0028_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
@@ -1450,8 +1451,8 @@
 				<p>Publicerad som en del av samlingen "Bertil Dahlbys bilder från Botkyrka"</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Original är fysisk diabild. <date when="2025-03-21">21 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
-				publicerade JPG-bild är en återgivning av TIF-arkivfilen.
+				<p>Originalet är fysisk diabild. <date when="2025-03-21">21 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
+				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
 				Ytterligare teknisk metadata finns i en separat <ref target="xml/L4M2_0036_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
