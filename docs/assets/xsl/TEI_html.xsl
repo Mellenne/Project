@@ -14,7 +14,7 @@
  <html lang="sv" xml:lang="sv">
             <head>
                 <title>
-                    Bertil Dahlbys bilder från Botkyrka
+                    Bertil Dahlbys bilder från Botkyrka kommun
             <xsl:value-of select="//tei:teiCorpus/tei:teiHeader//tei:title"/>
                 </title>
                  <link rel="stylesheet"
