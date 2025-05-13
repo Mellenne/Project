@@ -155,9 +155,7 @@ list-style-type: none;
     content: "";
     flex-basis: 350px;
 }
-.gallery li:hover {
-    border: 1.5px solid #777;
-}
+
 
 .desc {
     padding: 15px;
