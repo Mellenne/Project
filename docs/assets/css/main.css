@@ -138,7 +138,10 @@ footer {
     gap: 1vw;
 }
 
-
+.gallery > li {
+    flex-basis: 250px; 
+    
+}
 
 .gallery li img {
     object-fit: cover;
