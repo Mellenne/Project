@@ -50,15 +50,6 @@ footer {
     margin: auto;
 }
 
-.copyright_logos,
-.copyright_text {
-    display: inline;
-}
-
-.copyright_logo {
-    width: 1vw;
-    margin: .15vw;
-}
 
 .row {
     padding: 0.5vw;
