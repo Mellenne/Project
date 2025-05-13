@@ -10,7 +10,7 @@ body {
 
 
 
-h1,h2,h3,nav, footer {
+h1,h2,h3, nav, footer {
     text-align: center;
 }
 
@@ -50,10 +50,15 @@ footer {
     margin: auto;
 }
 
+.copyright_logos,
 .copyright_text {
     display: inline;
 }
 
+.copyright_logo {
+    width: 1vw;
+    margin: .15vw;
+}
 
 .row {
     padding: 0.5vw;
@@ -133,10 +138,7 @@ footer {
     gap: 1vw;
 }
 
-.gallery > li {
-    flex-basis: 240px; /* width: 240px; */
-    list-style-type: none; /* to remove those automatic pesky list-dots */
-}
+
 
 .gallery li img {
     object-fit: cover;
@@ -160,24 +162,3 @@ footer {
 }
 
 * {box-sizing: border-box;}
-
-.img-zoom-container {
-  position: relative;
-}
-
-.img-zoom-lens {
-  position: absolute;
-  border: 1px solid #d4d4d4;
-  /*set the size of the lens:*/
-  width: 100px;
-  height: 100px;
-}
-
-.img-zoom-result {
-  border: 1px solid #000000;
-  /*set the size of the result div:*/
-  width: 400px;
-  height: 400px;
-  margin-top: 85px;
-  margin-left: 30px;
-}
