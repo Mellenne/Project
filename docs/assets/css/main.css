@@ -139,8 +139,8 @@ footer {
 }
 
 .gallery > li {
-    flex-basis: 250px; 
-    
+    flex-basis: 300px; 
+list-style-type: none;  
 }
 
 .gallery li img {
