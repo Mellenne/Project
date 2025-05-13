@@ -10,11 +10,7 @@ body {
 
 
 
-h1,
-h2,
-
-nav,
-footer {
+h1,h2,h3,nav, footer {
     text-align: center;
 }
 
@@ -54,15 +50,10 @@ footer {
     margin: auto;
 }
 
-.copyright_logos,
 .copyright_text {
     display: inline;
 }
 
-.copyright_logo {
-    width: 1vw;
-    margin: .15vw;
-}
 
 .row {
     padding: 0.5vw;
