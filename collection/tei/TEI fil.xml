@@ -29,7 +29,7 @@
                     <persName>Alex Östberg</persName>
 				</respStmt>
 				<respStmt>
-					<resp>Tillhandahållande av originalet (diabilder), skannerutrustning, samt riktlinjer för bildhantering.</resp>
+					<resp>Tillhandahållande av originalet (diabilder), skannerutrustning (CanoScan 9000F), samt riktlinjer för bildhantering.</resp>
                     <orgName ref="https://www.hembygd.se/botkyrka">Botkyrka Hembygdsgille</orgName>
 				</respStmt>
 			</titleStmt>
@@ -39,7 +39,7 @@
                     <persName>Kristofer Lilja</persName>
                     <persName>Alex Östberg</persName>
 				</publisher>
-				<date when="2025-05-06"/>
+				<date when="2025-05-14"/>
 				<authority> 
 					<persName>Inguna Bodeka</persName>
                     <persName>Kristofer Lilja</persName>

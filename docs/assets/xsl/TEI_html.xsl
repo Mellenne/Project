@@ -13,8 +13,8 @@
 
     <xsl:output method="html"/>
 
-    <xsl:param name="css" select="'assets/css/'"/>
-    <xsl:param name="image" select="'assets/img/'"/>
+    <xsl:param name="css" select="''docs/assets/css/''"/>
+    <xsl:param name="image" select="'docs/assets/img/'"/>
     <xsl:param name="preview" select="'assets/img/previews/'"/>
     <xsl:param name="xmlMetadata" select="'xml/'"/>
 
