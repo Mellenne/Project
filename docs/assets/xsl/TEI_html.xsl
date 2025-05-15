@@ -13,7 +13,7 @@
 
     <xsl:output method="html"/>
 
-    <xsl:param name="css" select="''docs/assets/css/''"/>
+    <xsl:param name="css" select="'docs/assets/css/'"/>
     <xsl:param name="image" select="'docs/assets/img/'"/>
     <xsl:param name="preview" select="'assets/img/previews/'"/>
     <xsl:param name="xmlMetadata" select="'xml/'"/>
@@ -97,11 +97,6 @@
                                     <xsl:with-param name="corpusNode" select="$corpusNode"/>
                                 </xsl:call-template>
                             </xsl:when>
-                            <xsl:when test="$pageType = 'bertil'">
-                                <xsl:call-template name="generateBertilContent">
-                                    <xsl:with-param name="corpusNode" select="$corpusNode"/>
-                                </xsl:call-template>
-                            </xsl:when>
                             <xsl:when test="$pageType = 'foto'">
                                 <xsl:call-template name="generateFotoContent">
                                     <xsl:with-param name="corpusNode" select="$corpusNode"/>
@@ -148,7 +143,7 @@
                 <xsl:for-each select="$corpusNode/tei:TEI">
                     <xsl:variable name="image_id" select="@xml:id"/>
                     <xsl:variable name="image_title" select="tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/>
-                    <xsl:variable name="image_preview_url" select="concat($previewImage, tei:facsimile/tei:surface/tei:figure/tei:graphic[@xml:id=concat($image_id,'_PRE')]/@url)"/>
+                    <xsl:variable name="image_preview_url" select="concat($preview,tei:facsimile/tei:surface/tei:figure/tei:graphic[@xml:id=concat($image_id,'_PRE')]/@url)"/>
                     <xsl:variable name="image_desc" select="tei:facsimile/tei:surface/tei:figure/tei:figDesc"/>
                     
                     <div class="col-md-4 col-sm-6 image-gallery-item text-center">
