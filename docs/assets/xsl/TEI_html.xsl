@@ -136,19 +136,6 @@
             <xsl:apply-templates select="$corpusNode/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:respStmt[descendant::tei:persName]" mode="intro-paragraph"/>
             <hr/>
             <h2>Botkyrka hembygdsgille</h2>
-            <xsl:apply-templates select="$corpusNode/tei:teiHeader/tei:encodingDesc/tei:editorialDecl/tei:p"/>
-            <hr/>
-            <h3>Källbeskrivning (samlingen)</h3>
-            <xsl:apply-templates select="$corpusNode/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:p"/>
-             <hr/>
-            <h3>Skapande (originalfotografier)</h3>
-            <xsl:apply-templates select="$corpusNode/tei:teiHeader/tei:profileDesc/tei:creation"/>
-            <hr/>
-            <h3>Rättigheter och Tillgänglighet</h3>
-            <xsl:apply-templates select="$corpusNode/tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:availability"/>
-             <hr/>
-            <h3>Nyckelord (samling)</h3>
-            <xsl:apply-templates select="$corpusNode/tei:teiHeader/tei:profileDesc/tei:textClass/tei:keywords" mode="intro-keywords"/>
         </div>
     </xsl:template>
 
