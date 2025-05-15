@@ -59,7 +59,8 @@
         <xsl:param name="corpusNode"/>
         <xsl:param name="pageType"/> 
         <xsl:param name="activePage"/>
-        <xsl:param name="imageNode" select="/.."/> <xsl:variable name="collectionTitle" select="$corpusNode/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/>
+        <xsl:param name="imageNode" select="/.."/> 
+        <xsl:variable name="collectionTitle" select="$corpusNode/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/>
 
         <xsl:text disable-output-escaping='yes'>&lt;!DOCTYPE html&gt;</xsl:text><xsl:text>&#xa;</xsl:text>
         <html lang="sv" xml:lang="sv">
@@ -224,8 +225,7 @@
                         <xsl:if test="$metadata_doc">
                             <div class="metadata-block">
                                 <h4>Teknisk metadata (från <xsl:value-of select="$metadata_file_ref_path_in_tei"/>)</h4>
-                                <p><small>
-                                ExifTool Version: <xsl:value-of select="$metadata_doc//ExifTool:ExifToolVersion"/>
+                                <p><small>ExifTool Version: <xsl:value-of select="$metadata_doc//ExifTool:ExifToolVersion"/>
                                 <br/>Filnamn (original-TIF): <xsl:value-of select="$metadata_doc//System:FileName"/>
                                 <br/>Dimensioner (TIF): <xsl:value-of select="$metadata_doc//IFD0:ImageWidth"/> x <xsl:value-of select="$metadata_doc//IFD0:ImageHeight"/> px
                                 <br/>Upplösning (TIF): <xsl:value-of select="$metadata_doc//IFD0:XResolution"/> DPI
