@@ -124,7 +124,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. Skannad <date when="2025-03-18">18 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target="xml/L1M2_0012_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L1M2_0012_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -179,7 +179,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. Skannad <date when="2025-03-18">18 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target="xml/L1M2_0013_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L1M2_0013_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -236,7 +236,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. Skannad <date when="2025-03-18">18 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target="xml/L1M2_0017_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L1M2_0017_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -291,7 +291,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. Skannad <date when="2025-03-18">18 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target="xml/L1M2_0020_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L1M2_0020_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -347,7 +347,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target="xml/L2M1_0013_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L2M1_0013_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -402,7 +402,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target="xml/L2M2_0006_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L2M2_0006_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -457,7 +457,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild.<date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target="xml/L2M2_0011_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L2M2_0011_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -512,7 +512,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target="xml/L2M2_0020_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L2M2_0020_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -568,7 +568,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target="xml/L2M2_0021_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L2M2_0021_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -624,7 +624,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target="xml/L2M2_0022_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L2M2_0022_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -678,7 +678,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target="xml/L2M2_0037_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L2M2_0037_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -734,7 +734,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target="xml/L2M2_0038_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L2M2_0038_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -789,7 +789,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0002_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L3M1_0002_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -844,7 +844,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0005_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L3M1_0005_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -899,7 +899,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0006_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L3M1_0006_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -955,7 +955,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0016_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L3M1_0016_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -1009,7 +1009,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0017_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L3M1_0017_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -1065,7 +1065,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0017_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L3M1_0017_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -1119,7 +1119,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0026_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L3M1_0026_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -1175,7 +1175,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0034_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L3M1_0034_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -1230,7 +1230,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0037_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L3M1_0037_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -1286,7 +1286,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M2_0024_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L3M2_0024_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -1342,7 +1342,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M2_0038_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L3M2_0038_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -1397,7 +1397,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild.<date when="2025-03-21">21 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target="xml/L4M2_0028_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L4M2_0028_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -1453,7 +1453,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-21">21 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target="xml/L4M2_0036_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L4M2_0036_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
