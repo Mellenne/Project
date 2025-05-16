@@ -124,7 +124,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. Skannad <date when="2025-03-18">18 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L1M2_0012_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L1M2_0012_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -154,10 +154,10 @@
 		<figDesc>Digital återgivning av diabild föreställande Tumba med kommunhuset.</figDesc>
 		<graphic 
 			xml:id="L1M2_0012_pub"
-			url="docs/assets/img/L1M2_0012_J.jpg"	/>
+			url="assets/img/L1M2_0012_J.jpg"	/>
 		<graphic 
 			xml:id="L1M2_0012_PRE"
-			url="docs/assets/img/previews/L1M2_0012_P.jpg"	/>
+			url="assets/img/previews/L1M2_0012_P.jpg"	/>
 	</figure>
 </surface>
 </facsimile>
@@ -179,7 +179,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. Skannad <date when="2025-03-18">18 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L1M2_0013_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L1M2_0013_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -211,10 +211,10 @@
 		<figDesc>Digital återgivning av diabild föreställande Tumba stations godsmagasin.</figDesc>
 		<graphic 
 			xml:id="L1M2_0013_pub"
-			url="docs/assets/img/L1M2_0013_J.jpg"	/>
+			url="assets/img/L1M2_0013_J.jpg"	/>
 		<graphic 
 			xml:id="L1M2_0013_PRE"
-			url="docs/assets/img/previews/L1M2_0013_P.jpg"	/>
+			url="assets/img/previews/L1M2_0013_P.jpg"	/>
 	</figure>
 </surface>
 </facsimile>
@@ -236,7 +236,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. Skannad <date when="2025-03-18">18 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L1M2_0017_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L1M2_0017_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -266,10 +266,10 @@
 		<figDesc>Digital återgivning av diabild föreställande Tumba gamla station.</figDesc>
 		<graphic 
 			xml:id="L1M2_0017_pub"
-			url="docs/assets/img/L1M2_0017_J.jpg"	/>
+			url="assets/img/L1M2_0017_J.jpg"	/>
 		<graphic 
 			xml:id="L1M2_0017_PRE"
-			url="docs/assets/img/previews/L1M2_0017_P.jpg"	/>
+			url="assets/img/previews/L1M2_0017_P.jpg"	/>
 	</figure>
 </surface>
 </facsimile>
@@ -291,7 +291,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. Skannad <date when="2025-03-18">18 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L1M2_0020_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L1M2_0020_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -322,10 +322,10 @@
 		<figDesc>Digital återgivning av diabild föreställande Missionshuset Tabor i Tumba.</figDesc>
 		<graphic 
 			xml:id="L1M2_0020_pub"
-			url="docs/assets/img/L1M2_0020_J.jpg"	/>
+			url="assets/img/L1M2_0020_J.jpg"	/>
 		<graphic 
 			xml:id="L1M2_0020_PRE"
-			url="docs/assets/img/previews/L1M2_0020_P.jpg"	/>
+			url="assets/img/previews/L1M2_0020_P.jpg"	/>
 	</figure>
 </surface>
 </facsimile>
@@ -347,7 +347,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L2M1_0013_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L2M1_0013_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -377,10 +377,10 @@
 		<figDesc>Digital återgivning av diabild föreställande Tumba pappersbruk.</figDesc>
 		<graphic 
 			xml:id="L2M1_0013_pub"
-			url="docs/assets/img/L2M1_0013_J.jpg"	/>
+			url="assets/img/L2M1_0013_J.jpg"	/>
 		<graphic 
 			xml:id="L2M1_0013_PRE"
-			url="docs/assets/img/previews/L2M1_0013_P.jpg"	/>
+			url="assets/img/previews/L2M1_0013_P.jpg"	/>
 	</figure>
 </surface>
 </facsimile>
@@ -402,7 +402,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L2M2_0006_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L2M2_0006_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -432,10 +432,10 @@
 		<figDesc>Digital återgivning av diabild föreställande Tumba torg.</figDesc>
 		<graphic 
 			xml:id="L2M2_0006_pub"
-			url="docs/assets/img/L2M2_0006_J.jpg"	/>
+			url="assets/img/L2M2_0006_J.jpg"	/>
 		<graphic 
 			xml:id="L2M2_0006_PRE"
-			url="docs/assets/img/previews/L2M2_0006_P.jpg"	/>
+			url="assets/img/previews/L2M2_0006_P.jpg"	/>
 	</figure>
 </surface>
 </facsimile>
@@ -457,7 +457,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild.<date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L2M2_0011_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L2M2_0011_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -487,10 +487,10 @@
 		<figDesc>Digital återgivning av diabild föreställande Tumba pappersbruk.</figDesc>
 		<graphic 
 			xml:id="L2M2_0011_pub"
-			url="docs/assets/img/L2M2_0011_J.jpg"	/>
+			url="assets/img/L2M2_0011_J.jpg"	/>
 		<graphic 
 			xml:id="L2M2_0011_PRE"
-			url="docs/assets/img/previews/L2M2_0011_P.jpg"	/>
+			url="assets/img/previews/L2M2_0011_P.jpg"	/>
 	</figure>
 </surface>
 </facsimile>
@@ -512,7 +512,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L2M2_0020_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L2M2_0020_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -543,10 +543,10 @@
 		<figDesc>Digital återgivning av diabild föreställande Sturehovs herrgård.</figDesc>
 		<graphic 
 			xml:id="L2M2_0020_pub"
-			url="docs/assets/img/L2M2_0020_J.jpg"	/>
+			url="assets/img/L2M2_0020_J.jpg"	/>
 		<graphic 
 			xml:id="L2M2_0020_PRE"
-			url="docs/assets/img/previews/L2M2_0020_P.jpg"	/>
+			url="assets/img/previews/L2M2_0020_P.jpg"	/>
 	</figure>
 </surface>
 </facsimile>
@@ -568,7 +568,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L2M2_0021_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L2M2_0021_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -599,10 +599,10 @@
 		<figDesc>Digital återgivning av diabild föreställande sommarvilla Sillvik.</figDesc>
 		<graphic 
 			xml:id="L2M2_0021_pub"
-			url="docs/assets/img/L2M2_0021_J.jpg"	/>
+			url="assets/img/L2M2_0021_J.jpg"	/>
 		<graphic 
 			xml:id="L2M2_0021_PRE"
-			url="docs/assets/img/previews/L2M2_0021_P.jpg"	/>
+			url="assets/img/previews/L2M2_0021_P.jpg"	/>
 	</figure>
 </surface>
 </facsimile>
@@ -624,7 +624,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L2M2_0022_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L2M2_0022_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -654,10 +654,10 @@
 		<figDesc>Digital återgivning av diabild föreställande Norsborgs herrgård.</figDesc>
 		<graphic 
 			xml:id="L2M2_0022_pub"
-			url="docs/assets/img/L2M2_0022_J.jpg"	/>
+			url="assets/img/L2M2_0022_J.jpg"	/>
 		<graphic 
 			xml:id="L2M2_0022_PRE"
-			url="docs/assets/img/previews/L2M2_0022_P.jpg"	/>
+			url="assets/img/previews/L2M2_0022_P.jpg"	/>
 	</figure>
 </surface>
 </facsimile>
@@ -678,7 +678,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L2M2_0037_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L2M2_0037_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -709,10 +709,10 @@
 		<figDesc>Digital återgivning av diabild föreställande Alby gård.</figDesc>
 		<graphic 
 			xml:id="L2M2_0037_pub"
-			url="docs/assets/img/L2M2_0372_J.jpg"	/>
+			url="assets/img/L2M2_0372_J.jpg"	/>
 		<graphic 
 			xml:id="L2M2_0037_PRE"
-			url="docs/assets/img/previews/L2M2_0037_P.jpg"	/>
+			url="assets/img/previews/L2M2_0037_P.jpg"	/>
 	</figure>
 </surface>
 </facsimile>
@@ -734,7 +734,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L2M2_0038_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L2M2_0038_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -765,10 +765,10 @@
 		<figDesc>Digital återgivning av diabild föreställande gula villan vid Alby gård.</figDesc>
 		<graphic 
 			xml:id="L2M2_0038_pub"
-			url="docs/assets/img/L2M2_0038_J.jpg"	/>
+			url="assets/img/L2M2_0038_J.jpg"	/>
 		<graphic 
 			xml:id="L2M2_0038_PRE"
-			url="docs/assets/img/previews/L2M2_0038_P.jpg"	/>
+			url="assets/img/previews/L2M2_0038_P.jpg"	/>
 	</figure>
 </surface>
 </facsimile>
@@ -789,7 +789,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L3M1_0002_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0002_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -819,10 +819,10 @@
 		<figDesc>Digital återgivning av diabild föreställande ålderdomshemmet vid Botkyrka kyrka</figDesc>
 		<graphic 
 			xml:id="L3M1_0002_pub"
-			url="docs/assets/img/L3M1_0002_J.jpg"	/>
+			url="assets/img/L3M1_0002_J.jpg"	/>
 		<graphic 
 			xml:id="L3M1_0002_PRE"
-			url="docs/assets/img/previews/L3M1_0002_P.jpg"	/>
+			url="assets/img/previews/L3M1_0002_P.jpg"	/>
 	</figure>
 </surface>
 </facsimile>
@@ -844,7 +844,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L3M1_0005_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0005_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -874,10 +874,10 @@
 		<figDesc>Digital återgivning av diabild föreställande Botkyrka kyrka</figDesc>
 		<graphic 
 			xml:id="L3M1_0005_pub"
-			url="docs/assets/img/L3M1_0005_J.jpg"	/>
+			url="assets/img/L3M1_0005_J.jpg"	/>
 		<graphic 
 			xml:id="L3M1_0005_PRE"
-			url="docs/assets/img/previews/L3M1_0005_P.jpg"	/>
+			url="assets/img/previews/L3M1_0005_P.jpg"	/>
 	</figure>
 </surface>
 </facsimile>
@@ -899,7 +899,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L3M1_0006_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0006_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -930,10 +930,10 @@
 		<figDesc>Digital återgivning av diabild föreställande Klockargården vid Botkyrka kyrka</figDesc>
 		<graphic 
 			xml:id="L3M1_0006_pub"
-			url="docs/assets/img/L3M1_0006_J.jpg"	/>
+			url="assets/img/L3M1_0006_J.jpg"	/>
 		<graphic 
 			xml:id="L3M1_0006_PRE"
-			url="docs/assets/img/previews/L3M1_0006_P.jpg"	/>
+			url="assets/img/previews/L3M1_0006_P.jpg"	/>
 	</figure>
 </surface>
 </facsimile>
@@ -955,7 +955,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L3M1_0016_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0016_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -985,10 +985,10 @@
 		<figDesc>Digital återgivning av diabild föreställande Tullinge gård</figDesc>
 		<graphic 
 			xml:id="L3M1_0016_pub"
-			url="docs/assets/img/L3M1_0016_J.jpg"	/>
+			url="assets/img/L3M1_0016_J.jpg"	/>
 		<graphic 
 			xml:id="L3M1_0016_PRE"
-			url="docs/assets/img/previews/L3M1_0016_P.jpg"	/>
+			url="assets/img/previews/L3M1_0016_P.jpg"	/>
 	</figure>
 </surface>
 </facsimile>
@@ -1009,7 +1009,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L3M1_0017_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0017_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -1040,10 +1040,10 @@
 		<figDesc>Digital återgivning av diabild föreställande Falkbergsskolan.</figDesc>
 		<graphic 
 			xml:id="L3M1_0017_pub"
-			url="docs/assets/img/L3M1_0017_J.jpg"	/>
+			url="assets/img/L3M1_0017_J.jpg"	/>
 		<graphic 
 			xml:id="L3M1_0017_PRE"
-			url="docs/assets/img/previews/L3M1_0017_P.jpg"	/>
+			url="assets/img/previews/L3M1_0017_P.jpg"	/>
 	</figure>
 </surface>
 </facsimile>
@@ -1065,7 +1065,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L3M1_0017_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0017_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -1095,10 +1095,10 @@
 		<figDesc>Digital återgivning av diabild föreställande Tullinge kyrka.</figDesc>
 		<graphic 
 			xml:id="L3M1_0021_pub"
-			url="docs/assets/img/L3M1_0021_J.jpg"	/>
+			url="assets/img/L3M1_0021_J.jpg"	/>
 		<graphic 
 			xml:id="L3M1_0021_PRE"
-			url="docs/assets/img/previews/L3M1_0021_P.jpg"	/>
+			url="assets/img/previews/L3M1_0021_P.jpg"	/>
 	</figure>
 </surface>
 </facsimile>
@@ -1119,7 +1119,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L3M1_0026_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0026_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -1150,10 +1150,10 @@
 		<figDesc>Digital återgivning av diabild föreställande Lida Friluftsgård.</figDesc>
 		<graphic 
 			xml:id="L3M1_0026_pub"
-			url="docs/assets/img/L3M1_0026_J.jpg"	/>
+			url="assets/img/L3M1_0026_J.jpg"	/>
 		<graphic 
 			xml:id="L3M1_0026_PRE"
-			url="docs/assets/img/previews/L3M1_0026_P.jpg"	/>
+			url="assets/img/previews/L3M1_0026_P.jpg"	/>
 	</figure>
 </surface>
 </facsimile>
@@ -1175,7 +1175,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L3M1_0034_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0034_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -1206,10 +1206,10 @@
 		<figDesc>Digital återgivning av diabild föreställande Akvarellen i Tullinge (lägenhetshus).</figDesc>
 		<graphic 
 			xml:id="L3M1_0034_pub"
-			url="docs/assets/img/L3M1_0034_J.jpg"	/>
+			url="assets/img/L3M1_0034_J.jpg"	/>
 		<graphic 
 			xml:id="L3M1_0034_PRE"
-			url="docs/assets/img/previews/L3M1_0034_P.jpg"	/>
+			url="assets/img/previews/L3M1_0034_P.jpg"	/>
 	</figure>
 </surface>
 </facsimile>
@@ -1230,7 +1230,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L3M1_0037_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M1_0037_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -1261,10 +1261,10 @@
 		<figDesc>Digital återgivning av diabild föreställande Vita villorna.</figDesc>
 		<graphic 
 			xml:id="L3M1_0037_pub"
-			url="docs/assets/img/L3M1_0037_J.jpg"	/>
+			url="assets/img/L3M1_0037_J.jpg"	/>
 		<graphic 
 			xml:id="L3M1_0037_PRE"
-			url="docs/assets/img/previews/L3M1_0037_P.jpg"	/>
+			url="assets/img/previews/L3M1_0037_P.jpg"	/>
 	</figure>
 </surface>
 </facsimile>
@@ -1286,7 +1286,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L3M2_0024_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M2_0024_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -1318,10 +1318,10 @@
 		<figDesc>Digital återgivning av diabild föreställande Tumba station och centrum.</figDesc>
 		<graphic 
 			xml:id="L3M2_0024_pub"
-			url="docs/assets/img/L3M2_0024_J.jpg"	/>
+			url="assets/img/L3M2_0024_J.jpg"	/>
 		<graphic 
 			xml:id="L3M2_0024_PRE"
-			url="docs/assets/img/previews/L3M2_0024_P.jpg"	/>
+			url="assets/img/previews/L3M2_0024_P.jpg"	/>
 	</figure>
 </surface>
 </facsimile>
@@ -1342,7 +1342,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L3M2_0038_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L3M2_0038_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -1372,10 +1372,10 @@
 		<figDesc>Digital återgivning av diabild föreställande Tumba centrum.</figDesc>
 		<graphic 
 			xml:id="L3M2_0038_pub"
-			url="docs/assets/img/L3M2_0038_J.jpg"	/>
+			url="assets/img/L3M2_0038_J.jpg"	/>
 		<graphic 
 			xml:id="L3M2_0038_PRE"
-			url="docs/assets/img/previews/L3M2_0038_P.jpg"	/>
+			url="assets/img/previews/L3M2_0038_P.jpg"	/>
 	</figure>
 </surface>
 </facsimile>
@@ -1397,7 +1397,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild.<date when="2025-03-21">21 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L4M2_0028_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L4M2_0028_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -1428,10 +1428,10 @@
 		<figDesc>Digital återgivning av diabild föreställande Hågelby hus.</figDesc>
 		<graphic 
 			xml:id="L4M2_0028_pub"
-			url="docs/assets/img/L4M2_0028_J.jpg"	/>
+			url="assets/img/L4M2_0028_J.jpg"	/>
 		<graphic 
 			xml:id="L4M2_0028_PRE"
-			url="docs/assets/img/previews/L4M2_0028_P.jpg"	/>
+			url="assets/img/previews/L4M2_0028_P.jpg"	/>
 	</figure>
 </surface>
 </facsimile>
@@ -1453,7 +1453,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. <date when="2025-03-21">21 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target=".../collection/tei/xml/L4M2_0036_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target="xml/L4M2_0036_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
@@ -1484,10 +1484,10 @@
 		<figDesc>Digital återgivning av diabild föreställande Hågelby hus (huvudbyggnaden).</figDesc>
 		<graphic 
 			xml:id="L4M2_0036_pub"
-			url="docs/assets/img/L4M2_0036_J.jpg"	/>
+			url="assets/img/L4M2_0036_J.jpg"	/>
 		<graphic 
 			xml:id="L4M2_0036_PRE"
-			url="docs/assets/img/previews/L4M2_0036_P.jpg"	/>
+			url="assets/img/previews/L4M2_0036_P.jpg"	/>
 	</figure>
 </surface>
 </facsimile>

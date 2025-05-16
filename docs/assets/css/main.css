@@ -125,3 +125,51 @@ list-style-type: none;
     padding: 15px;
     text-align: center;
 }
+
+.metadata-section, .linked-metadata-section { 
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #eee;
+    background-color:#f9f9f9;
+}
+
+.label { 
+    font-weight: bold;
+ }
+
+pre { 
+    background-color: #f0f0f0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    overflow-x: auto;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+ }
+
+table.linked-meta { 
+    width: 100%;
+    border-collapse: collapse;
+ }
+
+table.linked-meta th, table.linked-meta td { 
+    text-align: left;
+    padding: 8px;
+    border: 1px solid #ddd;
+ }
+
+table.linked-meta th { 
+    background-color: #f2f2f2;
+ }
+
+  div.image-section {
+    width: 100%;
+    padding-left: 50px;
+    padding-right: 50px;
+    box-sizing: border-box;
+ }
+
+ div.image-section img {
+    width: 100%;
+    height: auto;
+    display: block;
+ }
