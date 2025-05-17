@@ -43,7 +43,7 @@
                     </div>
                     <div class="metadata-section">
                         
-                        <h2>Metadata from TEI fil.xml</h2>
+                        <h3>Metadata</h3>
                         <p><span class="label">Publicering:</span> <xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:p"/></p>
                         <p>
                             <span class="label">Källa:</span> <xsl:value-of select="normalize-space(tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:p[1])"/>
@@ -55,44 +55,44 @@
 
                     <xsl:if test="$metadata_file_path != ''">
                         <div class="linked-metadata-section">
-                            <h2>Teknisk Metadata från<xsl:value-of select="$metadata_file_path"/></h2>
+                            <h3>Teknisk Metadata från<xsl:value-of select="$metadata_file_path"/></h3>
                             <xsl:variable name="metadata_doc" select="document($metadata_file_path)"/>
                             <xsl:choose>
                                 <xsl:when test="$metadata_doc">
                                     <table class="linked-meta">
-                                        <tr><th>Property</th><th>Value</th></tr>
+                                        <tr><th>Egenskap</th><th>Värde</th></tr>
                                         <xsl:call-template name="meta-row">
-                                            <xsl:with-param name="label">Creator</xsl:with-param>
+                                            <xsl:with-param name="label">Skapare</xsl:with-param>
                                             <xsl:with-param name="value" select="$metadata_doc/rdf:RDF/rdf:Description/XMP-dc:Creator"/>
                                         </xsl:call-template>
                                         <xsl:call-template name="meta-row">
-                                            <xsl:with-param name="label">Description</xsl:with-param>
+                                            <xsl:with-param name="label">Beskrivning</xsl:with-param>
                                             <xsl:with-param name="value" select="$metadata_doc/rdf:RDF/rdf:Description/XMP-dc:Description"/>
                                         </xsl:call-template>
                                         <xsl:call-template name="meta-row">
-                                            <xsl:with-param name="label">Rights</xsl:with-param>
+                                            <xsl:with-param name="label">Rättigheter</xsl:with-param>
                                             <xsl:with-param name="value" select="$metadata_doc/rdf:RDF/rdf:Description/XMP-dc:Rights"/>
                                         </xsl:call-template>
                                         <xsl:call-template name="meta-row">
-                                            <xsl:with-param name="label">Title (from XMP)</xsl:with-param>
+                                            <xsl:with-param name="label">Titel</xsl:with-param>
                                             <xsl:with-param name="value" select="$metadata_doc/rdf:RDF/rdf:Description/XMP-dc:Title"/>
                                         </xsl:call-template>
                                          <xsl:call-template name="meta-row">
-                                            <xsl:with-param name="label">Subject (from XMP)</xsl:with-param>
+                                            <xsl:with-param name="label">Nyckelord</xsl:with-param>
                                             <xsl:with-param name="value" select="$metadata_doc/rdf:RDF/rdf:Description/XMP-dc:Subject"/>
                                         </xsl:call-template>
                                          <xsl:call-template name="meta-row">
-                                            <xsl:with-param name="label">Usage Terms</xsl:with-param>
+                                            <xsl:with-param name="label">Användningsvillkor</xsl:with-param>
                                             <xsl:with-param name="value" select="$metadata_doc/rdf:RDF/rdf:Description/XMP-xmpRights:UsageTerms"/>
                                         </xsl:call-template>
                                         <xsl:call-template name="meta-row">
-                                            <xsl:with-param name="label">Composite Image Size</xsl:with-param>
+                                            <xsl:with-param name="label">Bildstorlek</xsl:with-param>
                                             <xsl:with-param name="value" select="$metadata_doc/rdf:RDF/rdf:Description/Composite:ImageSize"/>
                                         </xsl:call-template>
                                     </table>
                                     </xsl:when>
                                 <xsl:otherwise>
-                                    <p>Could not load metadata file: <xsl:value-of select="$metadata_file_path"/></p>
+                                    <p>Kunde inte ladda metadatafil: <xsl:value-of select="$metadata_file_path"/></p>
                                 </xsl:otherwise>
                             </xsl:choose>
                         </div>
