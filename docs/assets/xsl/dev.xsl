@@ -23,7 +23,7 @@
     <xsl:template match="tei:TEI">
         <xsl:variable name="filename" select="concat(@xml:id, '.html')"/>
         <xsl:variable name="metadata_file_path" select="tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:p/tei:ref/@target"/>
-        <xsl:variable name="metadata_file_path" select="tokenize($metadata_file_path,'/')[last()]"/>
+        <xsl:variable name="metadata_filename_only" select="tokenize($metadata_file_path,'/')[last()]"/>
 
         <xsl:result-document href="{concat('../../', $filename)}" method="html">
             <html>
@@ -54,7 +54,7 @@
                         </p>
                     </div>
 
-                    <xsl:if test="$metadata_file_path != ''">
+                    <xsl:if test="string($metadata_file_path)">
                         <div class="linked-metadata-section">
                             <h3>Teknisk metadata </h3>
                             <xsl:variable name="metadata_doc" select="document($metadata_file_path)"/>
