@@ -1,4 +1,4 @@
-<xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:tei="http://www.tei-c.org/ns/1.0"
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     xmlns:et="http://ns.exiftool.org/1.0/"
@@ -21,12 +21,10 @@
     </xsl:template>
 
     <xsl:template match="tei:TEI">
-        
         <xsl:variable name="filename" select="concat(@xml:id, '.html')"/>
         <xsl:variable name="metadata_file_path" select="tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:p/tei:ref/@target"/>
-        <xsl:variable name="metadata_filename_only" select="tokenize($metadata_file_path,'/')[last()]"/>
 
-        <xsl:result-document href="{concat('../../', $filename)}" method="html">
+        <xsl:result-document href="{$filename}" method="html">
             <html>
                 <head>
                     <title><xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/></title>
@@ -50,19 +48,19 @@
                         <p>
                             <span class="label">Källa: </span> <xsl:value-of select="normalize-space(tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:p[1])"/>
                             <xsl:if test="tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:p/tei:ref">
-                                (<a href="{concat('xml/', $metadata_filename_only)}"><xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:p/tei:ref"/></a>)
+                                (<a href="assets/xml/{@xml:id}_metadata.xml"><xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:p/tei:ref"/></a>)
                             </xsl:if>
                         </p>
                     </div>
 
-                    <xsl:if test="string($metadata_file_path)">
+                    <xsl:if test="$metadata_file_path != ''">
                         <div class="linked-metadata-section">
-                            <h3>Teknisk metadata </h3>
+                            <h3>Teknisk metadata</h3>
                             <xsl:variable name="metadata_doc" select="document($metadata_file_path)"/>
                             <xsl:choose>
                                 <xsl:when test="$metadata_doc">
                                     <table class="linked-meta">
-                                        <tr><th>Egenskap</th><th>Värde</th></tr>
+                                        <tr><th>Titel</th><th>Värde</th></tr>
                                         <xsl:call-template name="meta-row">
                                             <xsl:with-param name="label">Skapare</xsl:with-param>
                                             <xsl:with-param name="value" select="$metadata_doc/rdf:RDF/rdf:Description/XMP-dc:Creator"/>
@@ -76,7 +74,7 @@
                                             <xsl:with-param name="value" select="$metadata_doc/rdf:RDF/rdf:Description/XMP-dc:Rights"/>
                                         </xsl:call-template>
                                         <xsl:call-template name="meta-row">
-                                            <xsl:with-param name="label">Titel</xsl:with-param>
+                                            <xsl:with-param name="label">Title</xsl:with-param>
                                             <xsl:with-param name="value" select="$metadata_doc/rdf:RDF/rdf:Description/XMP-dc:Title"/>
                                         </xsl:call-template>
                                          <xsl:call-template name="meta-row">
@@ -88,13 +86,13 @@
                                             <xsl:with-param name="value" select="$metadata_doc/rdf:RDF/rdf:Description/XMP-xmpRights:UsageTerms"/>
                                         </xsl:call-template>
                                         <xsl:call-template name="meta-row">
-                                            <xsl:with-param name="label">Bildstorlek</xsl:with-param>
+                                            <xsl:with-param name="label">Storlek på sammansatt bild</xsl:with-param>
                                             <xsl:with-param name="value" select="$metadata_doc/rdf:RDF/rdf:Description/Composite:ImageSize"/>
                                         </xsl:call-template>
                                     </table>
                                     </xsl:when>
                                 <xsl:otherwise>
-                                    <p>Kunde inte ladda metadatafil: <xsl:value-of select="$metadata_file_path"/></p>
+                                    <p>Kunde inte ladda metadatafilen: <xsl:value-of select="$metadata_file_path"/></p>
                                 </xsl:otherwise>
                             </xsl:choose>
                         </div>
