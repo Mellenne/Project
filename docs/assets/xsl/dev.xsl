@@ -55,7 +55,7 @@
 
                     <xsl:if test="$metadata_file_path != ''">
                         <div class="linked-metadata-section">
-                            <h3>Teknisk metadata<xsl:value-of select="$metadata_file_path"/></h3>
+                            <h3>Teknisk metadata </h3>
                             <xsl:variable name="metadata_doc" select="document($metadata_file_path)"/>
                             <xsl:choose>
                                 <xsl:when test="$metadata_doc">
