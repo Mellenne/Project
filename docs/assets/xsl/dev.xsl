@@ -50,7 +50,7 @@
                         <p>
                             <span class="label">Källa: </span> <xsl:value-of select="normalize-space(tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:p[1])"/>
                             <xsl:if test="tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:p/tei:ref">
-                                (<a href="testalänk">TESTLÄNK TEXT<xsl:comment><xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:p/tei:ref"></xsl:value-of></xsl:comment></a>)
+                                (<a href="{concat('xml/', $metadata_filename_only)}"><xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:p/tei:ref"/></a>)
                             </xsl:if>
                         </p>
                     </div>
