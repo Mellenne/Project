@@ -9,5 +9,4 @@ Besök gärna vår [webbsida](https://mellenne.github.io/Project/index.html).
 
 # Credits
 
-Projektets tillgängliggörande har utgått ifrån [Wout Dillens mallar](https://github.com/SSLIS/DCHM-template/tree/main) som har
-tagits fram inom ramen för kursen. 
+Projektets tillgängliggörande har utgått ifrån [Wout Dillens mallar](https://github.com/SSLIS/DCHM-template/tree/main) med revideringar för [bildsamlingar av Mikael Gunnarsson](https://github.com/Mikael61/ImageCollectionTemplate)som har tagits fram inom ramen för kursen. 
