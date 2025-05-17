@@ -21,6 +21,7 @@
     </xsl:template>
 
     <xsl:template match="tei:TEI">
+        <xsl:message terminate="yes">!!! JAG KÖR NU DENNA XSLT-FIL (dev.xsl) - Bearbetar <xsl:value-of select="@xml:id"/> !!!</xsl:message>
         <xsl:variable name="filename" select="concat(@xml:id, '.html')"/>
         <xsl:variable name="metadata_file_path" select="tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:p/tei:ref/@target"/>
         <xsl:variable name="metadata_filename_only" select="tokenize($metadata_file_path,'/')[last()]"/>
