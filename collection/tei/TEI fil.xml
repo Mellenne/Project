@@ -1065,7 +1065,7 @@
 			<sourceDesc>
 				<p>Originalet är fysisk diabild. Skannad <date when="2025-03-19">19 mars 2025</date>. Original samt digital arkivfil (TIF format) förvaras hos Botkyrka Hembygdsgille.
 				Den publicerade JPG-bilden är en återgivning av TIF-arkivfilen.
-				Ytterligare teknisk metadata finns i en separat <ref target="../../docs/xml/L3M1_0017_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
+				Ytterligare teknisk metadata finns i en separat <ref target="../../docs/xml/L3M1_0021_metadata.xml" type="application/rdf+xml">ExifTool RDF/XML-fil</ref>.
 				</p>
 			</sourceDesc>
 		</fileDesc>
