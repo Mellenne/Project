@@ -48,7 +48,7 @@
                         <p>
                             <span class="label">Källa: </span> <xsl:value-of select="normalize-space(tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:p[1])"/>
                             <xsl:if test="tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:p/tei:ref">
-                                (<a href="../../xml{$metadata_file_path}"><xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:p/tei:ref"/></a>)
+                                (<a href="docs/xml/{$metadata_file_path}"><xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:p/tei:ref"/></a>)
                             </xsl:if>
                         </p>
                     </div>
