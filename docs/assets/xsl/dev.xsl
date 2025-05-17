@@ -23,6 +23,7 @@
     <xsl:template match="tei:TEI">
         <xsl:variable name="filename" select="concat(@xml:id, '.html')"/>
         <xsl:variable name="metadata_file_path" select="tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:p/tei:ref/@target"/>
+        <xsl:variable name="metadata_file_path" select="tokenize($metadata_file_path,'/')[last()]"/>
 
         <xsl:result-document href="{concat('../../', $filename)}" method="html">
             <html>
