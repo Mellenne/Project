@@ -44,9 +44,9 @@
                     <div class="metadata-section">
                         
                         <h2>Metadata from TEI fil.xml</h2>
-                        <p><span class="label">Publication:</span> <xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:p"/></p>
+                        <p><span class="label">Publicering:</span> <xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:p"/></p>
                         <p>
-                            <span class="label">Source:</span> <xsl:value-of select="normalize-space(tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:p[1])"/>
+                            <span class="label">Källa:</span> <xsl:value-of select="normalize-space(tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:p[1])"/>
                             <xsl:if test="tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:p/tei:ref">
                                 (<a href="../collection/tei/{$metadata_file_path}"><xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:p/tei:ref"/></a>)
                             </xsl:if>
@@ -55,7 +55,7 @@
 
                     <xsl:if test="$metadata_file_path != ''">
                         <div class="linked-metadata-section">
-                            <h2>Technical Metadata from <xsl:value-of select="$metadata_file_path"/></h2>
+                            <h2>Teknisk Metadata från<xsl:value-of select="$metadata_file_path"/></h2>
                             <xsl:variable name="metadata_doc" select="document($metadata_file_path)"/>
                             <xsl:choose>
                                 <xsl:when test="$metadata_doc">

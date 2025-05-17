@@ -65,8 +65,13 @@ footer {
 main#omprojektet .column {
 float: none;
 width: 100%;
-padding: 1vw;
+padding-left: 2vw;
+padding-right: 2vw;
 margin-bottom: 1.5em;
+}
+
+main#omprojektet h1 {
+  text-align: left;
 }
 
 .row::after {
