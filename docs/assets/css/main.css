@@ -56,7 +56,7 @@ footer {
     display: flex;
 }
 
-.column-25{
+.column{
     float: left;
     width: 25%;
     padding: 1vw;
