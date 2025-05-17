@@ -166,7 +166,7 @@ table.linked-meta {
 table.linked-meta th, table.linked-meta td { 
     text-align: left;
     padding: 8px;
-    border: 1px solid #ddd;
+    border: 1px solid #e0d7d7;
  }
 
 table.linked-meta th { 
