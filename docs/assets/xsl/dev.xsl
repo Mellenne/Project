@@ -24,7 +24,7 @@
         <xsl:variable name="filename" select="concat(@xml:id, '.html')"/>
         <xsl:variable name="metadata_file_path" select="tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:p/tei:ref/@target"/>
 
-        <xsl:result-document href="{$filename}" method="html">
+        <xsl:result-document href="{concat('../../', $filename)}" method="html">
             <html>
                 <head>
                     <title><xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/></title>
@@ -48,7 +48,7 @@
                         <p>
                             <span class="label">Källa: </span> <xsl:value-of select="normalize-space(tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:p[1])"/>
                             <xsl:if test="tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:p/tei:ref">
-                                (<a href="docs/{$metadata_file_path}"><xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:p/tei:ref"/></a>)
+                                (<a href="{concat('xml/', $metadata_filename_only)}"><xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:p/tei:ref"/></a>)
                             </xsl:if>
                         </p>
                     </div>
