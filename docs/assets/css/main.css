@@ -1,4 +1,4 @@
-
+/*--- Grundläggande sidinställningar (från template) ---*/
 body {
     padding: 1vw;
     font-family: 'Palatino', 'Palatino Linotype', 'Palatino LT STD', 'Book Antiqua', 'Georgia,serif';
@@ -7,10 +7,12 @@ body {
     width: 100%;
 }
 
+/*--- Gemensam centrering för sidhuvud, navigation och sidfot (från template) ---*/
 h1,h2, nav, footer {
     text-align: center;
 }
 
+/*--- Navigationsmeny (från template) ---*/
 nav {
     margin-bottom: 1vw;
     border-top: 1px solid black;
@@ -19,6 +21,7 @@ nav {
     font-size: 1.3vw;
 }
 
+/*--- Styling för rubriker/headers (från template) ---*/
 h1,
 h2,
 h3{
@@ -26,34 +29,37 @@ h3{
     padding-bottom: 1vw;
 }
 
-
-
+/*--- Styling för sidfoten (från template) ---*/
 footer {
     border-top: 1px solid black;
     padding-top: 1vw;
     margin-top: 1.5vw;
 }
 
+/*--- Textklass för att centrera text ---*/
 .text-special {
     text-align: center;
 }
+
 
 .copyright {
     width: 50%;
     margin: auto;
 }
 
+/*--- Klass för en rad i layoutsystemet (från template) ---*/
 .row {
     padding: 0.5vw;
 }
 
-
+/*--- Klass för en kolumn ---*/
 .column{
     float: left;
     width: 25%;
     padding: 1vw;
 }
 
+/*--- Specifik kolumnstyling för index.html ---*/
 main#omprojektet .column {
 float: none;
 width: 100%;
@@ -62,10 +68,12 @@ padding-right: 2.5vw;
 margin-bottom: 0.5em;
 }
 
+/*--- Specifik styling för rubrik/header h3 ---*/
 h3 {
   text-align: left;
 }
 
+/*--- Innehålla flytande (.column) element inom en .row (t.ex. i TEI) ---*/
 .row::after {
     content: "";
     clear: both;
@@ -90,6 +98,7 @@ h3 {
   background: #e7e7e7;
 }
 
+/*--- Formatera bildgaleriet ---*/
 .gallery {
     display: flex;
     flex-wrap: wrap;
@@ -97,20 +106,19 @@ h3 {
     gap: 1vw;
 }
 
+/*--- Preview bildstorlek. Ta bort listpunkter framför. ---*/
 .gallery > li {
     flex-basis: 300px; 
 list-style-type: none;  
 }
 
+/*--- Skugga över bilder ---*/
 .gallery li a:hover img {
     opacity: 0.7;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
 }
 
-.gallery li a:hover .desc {
-    color: #dadeb6;
-}
-
+/*--- Grundläggande stylning för bilder i galleriet ---*/
 .gallery li img {
     object-fit: cover;
     max-width: 100%;
@@ -119,52 +127,49 @@ list-style-type: none;
     border-radius: 5px;
 }
 
+/*--- Fyller ut tomt utrymme (det finns ojämnt antal bilder) ---*/
 .gallery::after {
     content: "";
     flex-basis: 350px;
 }
 
-
+/*--- Styling för bildbeskrivning ---*/
 .desc {
     padding: 15px;
     text-align: center;
 }
 
+/*--- Gemensam stylning för delar som visar metadata ---*/
 .metadata-section, .linked-metadata-section { 
     margin-bottom: 20px;
     padding: 10px;
-    border: 1px solid #eee;
-    background-color:#f9f9f9;
+    border: 1px solid #f2f4ef;
+    background-color:#f6f6f3;
 }
 
+/*--- Bold (text i metadata sidan) ---*/
 .label { 
     font-weight: bold;
  }
 
-pre { 
-    background-color: #f0f0f0;
-    padding: 10px;
-    border: 1px solid #ccc;
-    overflow-x: auto;
-    white-space: pre-wrap;
-    word-wrap: break-word;
- }
-
+/*--- Formatering för tabell i metadata sidan ---*/
 table.linked-meta { 
     width: 100%;
     border-collapse: collapse;
  }
 
+/*--- Formatering för tabell i metadata sidan (th (table header), td (table data cell)) ---*/
 table.linked-meta th, table.linked-meta td { 
     text-align: left;
     padding: 8px;
-    border: 1px solid #e0d7d7;
+    border: 1px solid #8a8a84;
  }
 
 table.linked-meta th { 
-    background-color: #f2f2f2;
+    background-color: #d1d1cb;
  }
 
+/*--- Styling för enskilda bild sidor ---*/
   div.image-section {
     width: 100%;
     padding-left: 50px;
@@ -172,6 +177,7 @@ table.linked-meta th {
     box-sizing: border-box;
  }
 
+/*--- Styling för bilder i bild sidor ---*/
  div.image-section img {
     width: 100%;
     height: auto;
