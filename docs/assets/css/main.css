@@ -7,7 +7,7 @@ body {
     width: 100%;
 }
 
-h1,h2,h3, nav, footer {
+h1,h2, nav, footer {
     text-align: center;
 }
 
@@ -51,10 +51,6 @@ footer {
     padding: 0.5vw;
 }
 
-
-#collection {
-    display: flex;
-}
 
 .column{
     float: left;
