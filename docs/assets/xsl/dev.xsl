@@ -13,13 +13,17 @@
     xmlns:Composite="http://ns.exiftool.org/Composite/1.0/"
     exclude-result-prefixes="tei rdf et ExifTool System File IFD0 XMP-x XMP-dc XMP-photoshop XMP-xmpRights Composite">
 
+<!-- Anger att utdata ska vara HTML. "yes" gör texten lättare att läsa genom att flytta vissa rader.-->
     <xsl:output method="html" indent="yes"/>
+<!-- Tar bort osynliga tomrum i förväg -->
     <xsl:strip-space elements="*"/>
 
+<!-- Hittar teiCorpus och den bearbeta TEi element inuti -->
     <xsl:template match="/tei:teiCorpus">
         <xsl:apply-templates select="tei:TEI"/>
     </xsl:template>
 
+<!-- Genererar en enskild HTML-sida för varje TEI element (inkludera xml) -->    
     <xsl:template match="tei:TEI">
         <xsl:variable name="filename" select="concat(@xml:id, '.html')"/>
         <xsl:variable name="metadata_file_path" select="tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:p/tei:ref/@target"/>
@@ -107,6 +111,7 @@
         </xsl:result-document>
     </xsl:template>
 
+<!-- Skapar en HTML-tabellrad med två celler (till label och value) -->
     <xsl:template name="meta-row">
         <xsl:param name="label"/>
         <xsl:param name="value"/>
@@ -118,6 +123,7 @@
         </xsl:if>
     </xsl:template>
 
+<!-- Organiserar rubrik/headers, stycke,bilder via <img> (_pub - för publicering) och alt-text från TEI-data. -->
     <xsl:template match="tei:figure">
         <div>
             <h3><xsl:value-of select="tei:label"/></h3>
