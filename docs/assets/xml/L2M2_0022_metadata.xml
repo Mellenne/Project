@@ -13,7 +13,7 @@
   xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
  <ExifTool:ExifToolVersion>13.27</ExifTool:ExifToolVersion>
  <System:FileName>L2M2_0022.tif</System:FileName>
- <System:Directory>C:/Users/ingun/OneDrive/Documents/Office/Dators/Projekt/Meta injector/extrahera_metadata</System:Directory>
+ <System:Directory>docs/assets/xml</System:Directory>
  <System:FileSize>84 MB</System:FileSize>
  <System:FileModifyDate>2025:05:05 16:55:43+02:00</System:FileModifyDate>
  <System:FileAccessDate>2025:05:06 18:14:33+02:00</System:FileAccessDate>
@@ -50,7 +50,6 @@
  <XMP-photoshop:CaptionWriter>Inguna Bodeka, Lotta Nordholm</XMP-photoshop:CaptionWriter>
  <XMP-photoshop:Country>Sverige</XMP-photoshop:Country>
  <XMP-photoshop:Credit>Bertil Dahlby, Botkyrka Hembygdsgille</XMP-photoshop:Credit>
- <XMP-photoshop:DateCreated>0000</XMP-photoshop:DateCreated>
  <XMP-photoshop:Headline>Fotografi</XMP-photoshop:Headline>
  <XMP-photoshop:Source>Botkyrka Hembygdsgille</XMP-photoshop:Source>
  <XMP-photoshop:State>Norsborg, Botkyrka kommun, Stockholms län</XMP-photoshop:State>
