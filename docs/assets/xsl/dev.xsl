@@ -90,7 +90,7 @@
                                             <xsl:with-param name="value" select="$metadata_doc/rdf:RDF/rdf:Description/XMP-xmpRights:UsageTerms"/>
                                         </xsl:call-template>
                                         <xsl:call-template name="meta-row">
-                                            <xsl:with-param name="label">Storlek på sammansatt bild</xsl:with-param>
+                                            <xsl:with-param name="label">Storlek på sammansatt bild (px)</xsl:with-param>
                                             <xsl:with-param name="value" select="$metadata_doc/rdf:RDF/rdf:Description/Composite:ImageSize"/>
                                         </xsl:call-template>
                                     </table>
